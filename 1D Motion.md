@@ -9,7 +9,7 @@
 *Ans* No because in finding the slope of the graph just use $\Delta$ to 2 points to find the Tangen line by select the 2 points of the slope and find m
 
 **How to select that 2 points?**
-*Ans*
+*Ans* ...
 
 ## Visualization the movement of the particle
 ![[Pasted image 20241022112218.png]]
@@ -44,6 +44,14 @@ But **Velocity**, on the other hand, refers to the rate of change of displacemen
 **Distance** is the total length of the path traveled by an object, regardless of direction. It is a scalar quantity
 **Displacement**, on the other hand, is the shortest straight-line distance from the initial position to the final position of an object.
 
-## Acceleration
-How to speed is changing
-$$ a = \frac{v}{t} $$ 
+## Accele## **Turning point**
+Turning point is the $\frac{dx}{dt} = 0$ (v = 0) is the particle still have the speed it's can't return
+**What if particle have speed can it return?**ration
+Tell how fast the speed is changing
+$$ a = \frac{\Delta v}{\Delta t} = \frac{dv}{dt}$$ 
+## **Turning point**
+Turning point is the $\frac{dx}{dt} = 0$ (v = 0) is the particle still have the speed it's can't return
+**What if particle have speed can it return?**
+*Ans* ...
+
+
