@@ -9,4 +9,10 @@ $$ v = v_xi + v_yi $$
 $$ v_x = \frac{dx}{dt}, v_y = \frac{dy}{dt}$$
 $\Delta r = vt$ Why? 
 Because V is constant so v = $\frac{Displacement}{Time}$
-
+## How to draw the vector
+### Do the Pythagorean
+$$v = \sqrt{v_i^2+v_j^2}$$
+### Do arctan
+**Why arctan?**
+**
+$$Degree = tan^{-1}(\frac{v_i}{v_j})$$
