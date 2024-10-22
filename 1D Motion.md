@@ -43,3 +43,7 @@ But **Velocity**, on the other hand, refers to the rate of change of displacemen
 ### Wording
 **Distance** is the total length of the path traveled by an object, regardless of direction. It is a scalar quantity
 **Displacement**, on the other hand, is the shortest straight-line distance from the initial position to the final position of an object.
+
+## Acceleration
+How to speed is changing
+$$ a = \frac{v}{t} $$ 
