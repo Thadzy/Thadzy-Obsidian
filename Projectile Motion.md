@@ -10,9 +10,9 @@ Therefor projectile is freefall with acceleration
 
 - The horizontal motion occurs at a constant velocity since there are no horizontal forces acting on the projectile (neglecting air resistance):
     
-	#
+	$x = ut$
     
-    where v0x=v0cos⁡(θ)v0x​=v0​cos(θ) is the horizontal component of the initial velocity.
+    where $v_{0x} = v_0 cos\theta$  is the horizontal component of the initial velocity.
 
 ## Vertical Motion
 
@@ -20,9 +20,9 @@ Therefor projectile is freefall with acceleration
     
     - **Vertical Displacement**:
         
-        y=v0yt−12gt2y=v0y​t−21​gt2
+        $y = ut- \frac{1}{2}t^2$
         
-        where v0y=v0sin⁡(θ)v0y​=v0​sin(θ) is the vertical component of the initial velocity.
+        where $y_{0x} = v_0 cos\theta$ is the vertical component of the initial velocity.
     - **Time of Flight**:  
         The time of flight until it reaches the ground can be calculated as:
         
