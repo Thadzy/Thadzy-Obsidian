@@ -21,4 +21,12 @@
 - Speed
 - Velocity
 **What is the different of these 2 words**
-*Ans* Speed use distance it is Scalar, But Velocity use displacement is the vector
+*Ans* **Speed** is defined as the distance traveled per unit of time. It is a scalar quantity,
+But **Velocity**, on the other hand, refers to the rate of change of displacement, which includes both magnitude and direction. It is a vector quantity,
+**Speed** $$\frac{Distance}{Time}$$
+**Velocity** $$\frac{Displacement}{Time}$$
+**If we want to find the average speed over any time period, how do we do it? For example, if we want to find the average speed over a period of 10 to 15 seconds?**
+*Ans* Use $\Delta$
+
+**How does the word moment affect the time period we consider?**
+*Ans* 
