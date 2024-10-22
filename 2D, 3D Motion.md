@@ -18,18 +18,11 @@ $$v = \sqrt{v_i^2+v_j^2}$$
 $$θ = tan^{-1}(\frac{v_i}{v_j})$$
 ![[Pasted image 20241022154608.png]]
 
-## First way to find a
-t = 2, 2.1 to find v
+## How to find velocity
+t = t, t_small points to find v from $v = \sqrt{v_i^2+v_j^2}$ and arctan
+### Second way
 $$a_{ll} = \frac{v - u}{t} $$
-## Second way to find a
-Prediction 
+#### Prediction
 1. V increasing because of $a_{ll}$ has the same direction with v
 2. acceleration $a_p$ make the particle move circular
-Step 
-1. Find the way that $a_{ll}$ same direction with v
-2. find the $a_{p}$ 
-3. v - a = $[
-
-### θ
-
-](https://th.wiktionary.org/wiki/%CE%B8)$  
+#
