@@ -28,5 +28,8 @@ But **Velocity**, on the other hand, refers to the rate of change of displacemen
 **If we want to find the average speed over any time period, how do we do it? For example, if we want to find the average speed over a period of 10 to 15 seconds?**
 *Ans* Use $\Delta$
 
-**How does the word moment affect the time period we consider?**
-*Ans* 
+**What does at any given moment mean? For example t = 15**
+*Ans* Just like the $\Delta$ But $\lim_{x \to 0}$ in small time --> Calculus 
+
+**Average speed = instantaneous speed or not?**
+*Ans* No because Average speed is all the speed has one value but the instantaneous speed also the 1 value at the small time
