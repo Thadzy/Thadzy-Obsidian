@@ -1,5 +1,7 @@
 #Physics 
 [[1D Motion]]
+[[Parabola]]
+[[Circular Motion]]
 ![[Pasted image 20241022152059.png]]
 It's vector
 ## How to calculate?
@@ -32,4 +34,4 @@ sin
 #### Prediction
 1. V increasing because of $a_{ll}$ has the same direction with v
 2. acceleration $a_p$ make the particle move circular
-## Parabola
+
