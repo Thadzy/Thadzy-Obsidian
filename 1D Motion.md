@@ -6,6 +6,12 @@
 
 ![[Pasted image 20241022110240.png | 600]]
 **Is it necessary to select a contact point to calculate the slope?**
-**Ans** No because in finding the slope of the graph just use $\Delta$ to 2 points to find the Tangen line by select the 2 points of the slope
+*ANS* No because in finding the slope of the graph just use $\Delta$ to 2 points to find the Tangen line by select the 2 points of the slope and find m
 
-Find the speed at t = 15?
+**How to select that 2 points?**
+**ANS**
+
+## Visualization the movement of the particle
+
+
+
