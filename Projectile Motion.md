@@ -6,24 +6,44 @@ $$mg = ma$$
 $$a = g$$
 Therefor projectile is freefall with acceleration
 
-## Horizontal Motion
+### Horizontal Motion
 
-- The horizontal motion occurs at a constant velocity since there are no horizontal forces acting on the projectile (neglecting air resistance):
-    
-	$x = ut$
-    
-    where $v_{0x} = v_0 cos\theta$  is the horizontal component of the initial velocity.
+The horizontal motion occurs at a constant velocity since there are no horizontal forces acting on the projectile (neglecting air resistance):
 
-## Vertical Motion
+$$
+x = v_{0x} t
+$$
 
-- The vertical motion is influenced by gravity and can be described by the following equations:
-    
-    - **Vertical Displacement**:
-        
-        $y = ut- \frac{1}{2}t^2$
-        
-        where $y_{0x} = v_0 cos\theta$ is the vertical component of the initial velocity.
-    - **Time of Flight**:  
-        The time of flight until it reaches the ground can be calculated as:
-        
-        T=2v0yg=2v0sin⁡(θ)gT=g2v0y​​=g2v0​sin(θ)​
+where
+
+$$
+v_{0x} = v_0 \cos(\theta)
+$$
+
+is the horizontal component of the initial velocity.
+
+### Vertical Motion
+
+The vertical motion is influenced by gravity and can be described by the following equations:
+
+#### Vertical Displacement:
+
+$$
+y = v_{0y} t - \frac{1}{2} g t^2
+$$
+
+where
+
+$$
+v_{0y} = v_0 \sin(\theta)
+$$
+
+is the vertical component of the initial velocity.
+
+#### Time of Flight:
+
+The time of flight until the projectile reaches the ground is calculated as:
+
+$$
+T = \frac{2v_{0y}}{g} = \frac{2v_0 \sin(\theta)}{g}
+$$
