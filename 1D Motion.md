@@ -1,4 +1,5 @@
 #Physics 
+[[2D, 3D Motion]]
 ## How to solve the problem
 1. What the problem given?
 2. Visualization?
