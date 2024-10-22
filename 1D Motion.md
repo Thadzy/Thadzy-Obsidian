@@ -38,4 +38,6 @@ But **Velocity**, on the other hand, refers to the rate of change of displacemen
 1. Close 2 points $\Delta t \to 0$
 2. Find $\Delta X, \Delta T$
 3. V = $\frac{\Delta X}{\Delta T}$ but $\Delta T \to 0$
-4. V = $\lim_{\Delta t \to 0} \Fr$
+4. V = $\lim_{\Delta t \to 0} \frac{\Delta X}{\Delta T}$ = $\frac{dx}{dt}$
+
+### Wording
