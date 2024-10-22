@@ -25,3 +25,11 @@ $$a_{ll} = \frac{v - u}{t} $$
 Prediction 
 1. V increasing because of $a_{ll}$ has the same direction with v
 2. acceleration $a_p$ make the particle move circular
+Step 
+1. Find the way that $a_{ll}$ same direction with v
+2. find the $a_{p}$ 
+3. v - a = $[
+
+### θ
+
+](https://th.wiktionary.org/wiki/%CE%B8)$  
