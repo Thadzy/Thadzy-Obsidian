@@ -18,5 +18,10 @@ $$v = \sqrt{v_i^2+v_j^2}$$
 $$θ = tan^{-1}(\frac{v_i}{v_j})$$
 ![[Pasted image 20241022154608.png]]
 
-Also can do t = 2, 2.1 to find v
-$$a_{ll} = \frac{} $$
+## First way to find a
+t = 2, 2.1 to find v
+$$a_{ll} = \frac{v - u}{t} $$
+## Second way to find a
+Prediction 
+1. V increasing because of $a_{ll}$ has the same direction with v
+2. acceleration $a_p$ make the particle move circular
