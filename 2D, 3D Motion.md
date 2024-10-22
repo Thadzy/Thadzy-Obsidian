@@ -1,6 +1,6 @@
 #Physics 
 [[1D Motion]]
-[[Parabola]]
+[[Projectile Motion]]
 [[Circular Motion]]
 ![[Pasted image 20241022152059.png]]
 It's vector
