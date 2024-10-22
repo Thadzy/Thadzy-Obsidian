@@ -12,7 +12,9 @@ Because V is constant so v = $\frac{Displacement}{Time}$
 ## How to draw the vector
 ### Do the Pythagorean
 $$v = \sqrt{v_i^2+v_j^2}$$
-### Do arctan
+### Do Arctan
 **Why arctan?**
-**
-$$Degree = tan^{-1}(\frac{v_i}{v_j})$$
+*Ans* The arctangent function is specifically suited for this purpose because it relates the opposite side (vertical component vjvj​) to the adjacent side (horizontal component vivi​) of a right triangle formed by these components. The tangent of an angle in a right triangle is defined as:
+$$θ = tan^{-1}(\frac{v_i}{v_j})$$
+![[Pasted image 20241022154608.png]]
+
