@@ -56,5 +56,5 @@ Turning point is the $\frac{dx}{dt} = 0$ (v = 0) is the particle still have the 
 **What if particle have speed can it return?**
 *Ans* ...
 ![[Pasted image 20241022120930.png | 600]]
-
 ![[Pasted image 20241022121025.png]]
+The relationship of the graph is when v = 0, x change direction
