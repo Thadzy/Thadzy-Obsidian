@@ -44,14 +44,16 @@ But **Velocity**, on the other hand, refers to the rate of change of displacemen
 **Distance** is the total length of the path traveled by an object, regardless of direction. It is a scalar quantity
 **Displacement**, on the other hand, is the shortest straight-line distance from the initial position to the final position of an object.
 
-## Accele## **Turning point**
-Turning point is the $\frac{dx}{dt} = 0$ (v = 0) is the particle still have the speed it's can't return
-**What if particle have speed can it return?**ration
+## Acceleration
 Tell how fast the speed is changing
 $$ a = \frac{\Delta v}{\Delta t} = \frac{dv}{dt}$$ 
+### Acceleration direction
+V -> A -> Accerate
+V <- A -> Delay
 ## **Turning point**
 Turning point is the $\frac{dx}{dt} = 0$ (v = 0) is the particle still have the speed it's can't return
 **What if particle have speed can it return?**
 *Ans* ...
+![[Pasted image 20241022120930.png | 600]]
 
-
+![[Pasted image 20241022121025.png]]
