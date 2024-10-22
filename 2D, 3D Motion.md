@@ -18,3 +18,5 @@ $$v = \sqrt{v_i^2+v_j^2}$$
 $$θ = tan^{-1}(\frac{v_i}{v_j})$$
 ![[Pasted image 20241022154608.png]]
 
+Also can do t = 2, 2.1 to find v
+$$a_{ll} = \frac{} $$
