@@ -32,4 +32,10 @@ But **Velocity**, on the other hand, refers to the rate of change of displacemen
 *Ans* Just like the $\Delta$ But $\lim_{x \to 0}$ in small time --> Calculus 
 
 **Average speed = instantaneous speed or not?**
-*Ans* No because Average speed is all the speed has one value but the instantaneous speed also the 1 value at the small time
+*Ans* No because Average speed is all the speed has one value but the instantaneous speed also the 1 value at the specific moment in time.
+
+### How to
+1. Close 2 points $\Delta t \to 0$
+2. Find $\Delta X, \Delta T$
+3. V = $\frac{\Delta X}{\Delta T}$ but $\Delta T \to 0$
+4. V = $\lim_{\Delta t \to 0} \Fr$
