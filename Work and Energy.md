@@ -51,3 +51,9 @@ $$P = \frac{W}{t}=Fv$$
 **Total Energy Conservation**: In a closed or isolated system, the sum of all forms of energy (kinetic, potential, thermal, etc.) remains constant. If energy is lost in one part of the system, it must be gained in another part, ensuring that the total energy remains unchanged
 
 ![[Pasted image 20241023134032.png | 500]]
+
+## Summary of Energy Transformation:
+Throughout the entire motion:
+- When rising: KE decreases → GPE increases.
+- At the top: KE = 0 → GPE is maximum.
+- When falling: GPE decreases → KE increases.
