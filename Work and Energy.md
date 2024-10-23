@@ -15,6 +15,10 @@ $$\int_{x_1}^{x_2}F_{ll}dx = \frac{1}{2}mv^2-\frac{1}{2}mu^2$$
 **Why chain rule is true?**
 **Why I use only F_ll but not F_c**
 **Why F_c doesn't make the kinetic energy**
+- Forces that act perpendicular to the direction of motion do not do work on the object. Work is defined as:
+    $$W=F⋅d⋅cos⁡(θ)W=F⋅d⋅cos(θ)$$
+    
+If θ=90∘θ=90∘, then cos⁡(90∘)=0cos(90∘)=0,
 
 ## Gravitational Potential Energy
 ![[Pasted image 20241023000213.png]]
@@ -37,9 +41,12 @@ $$W = \Delta KE + \Delta GPE + \Delta EPE$$
 ![[Pasted image 20241023001335.png]]
 $$w = \int_{0}^{x}-kxdx = -\frac{1}{2}kx^2$$
 depends on the extension distance from equilibrium is independent of the path of motion.
-# Power
+## Power
 Power in physics is defined as the rate at which work is done or energy is transferred over time.
 $$P(t) =\frac{dw}{dt}$$
 Average power
 $$P(t) =\frac{W}{\Delta t}$$
+$$P = \frac{W}{t}=Fv$$
+## Conservation of Energy
+
 ![[Pasted image 20241023134032.png | 500]]
