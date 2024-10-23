@@ -1,3 +1,4 @@
+#Physics 
 In physics, **work** refers to the energy transferred to or from an object when a force is applied to it
 ![[Pasted image 20241022234801.png]]
 $F_{ll}$ = Rate of change of movement
