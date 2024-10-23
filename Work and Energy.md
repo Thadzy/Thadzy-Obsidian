@@ -41,3 +41,4 @@ Power in physics is defined as the rate at which work is done or energy is trans
 $$P(t) =\frac{dw}{dt}$$
 Average power
 $$P(t) =\frac{W}{\Delta t}$$
+![[Pasted image 20241023134032.png | 500]]
