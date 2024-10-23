@@ -48,5 +48,6 @@ Average power
 $$P(t) =\frac{W}{\Delta t}$$
 $$P = \frac{W}{t}=Fv$$
 ## Conservation of Energy
+**Total Energy Conservation**: In a closed or isolated system, the sum of all forms of energy (kinetic, potential, thermal, etc.) remains constant. If energy is lost in one part of the system, it must be gained in another part, ensuring that the total energy remains unchanged
 
 ![[Pasted image 20241023134032.png | 500]]
