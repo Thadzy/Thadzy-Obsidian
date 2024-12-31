@@ -55,4 +55,12 @@ The relationship of the graph is when v = 0, x change direction
 ### Position-Time Graph
 - **Slope**: Represents velocity (V).
 - **Area**: Not directly applicable or meaningful.
-- Formula: $V=\frac{ΔX}{Δt}$ = $\frac{\Delta X}{\Delta t}V=ΔtΔX​ (change in position over time).
+- **Formula**: $V=\frac{ΔX}{Δt}$​ (change in position over time).
+### Velocity-Time Graph
+- **Slope**: Represents acceleration (a).
+- **Area**: Represents change in position $\Delta X$.
+- **Formula**: $s=v⋅t$ (displacement as velocity times time).
+### Acceleration-Time Graph
+- **Slope**: Not provided (typically jerk in physics).
+- **Area**: Represents change in velocity $\Delta V$.
+- **Formula**: $\Delta V = at$ (change in velocity as acceleration times time).
