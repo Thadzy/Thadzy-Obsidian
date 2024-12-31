@@ -11,12 +11,13 @@
 
 >**How to select that 2 points?**
 >>*Ans* To find the slope of a tangent to a curve, need to approximate the tangent line. Choose two points that are very close to the point of interest (the contact point) to estimate the slope of the tangent line.
-
 ## Visualization the movement of the particle
 ![[Pasted image 20241022112218.png]]
-**At t = 20 Does the particle return?**
-*Ans* yes 
-
+>**At t = 20 Does the particle return and Why it return?**
+>>*Ans* Yes, because of at t= 20 the displacement is going back the graph is decreasing 
+>>*Key point*
+>>- When the graph is increasing (slope > 0), the particle is moving away from its initial position.
+>>- When the graph is decreasing (slope < 0), the particle is returning or moving back toward its starting point.
 ## Solution
 ### Wording
 - Speed
