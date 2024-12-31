@@ -18,13 +18,12 @@
 >>*Key point*
 >>- When the graph is increasing (slope > 0), the particle is moving away from its initial position.
 >>- When the graph is decreasing (slope < 0), the particle is returning or moving back toward its starting point.
-## Solution
+## Main
 ### Wording
-- Speed
-- Velocity
-**What is the different of these 2 words**
-*Ans* **Speed** is defined as the distance traveled per unit of time. It is a scalar quantity,
-But **Velocity**, on the other hand, refers to the rate of change of displacement, which includes both magnitude and direction. It is a vector quantity,
+- **Speed** -> is defined as the distance traveled per unit of time. It is a scalar quantity
+- **Velocity** -> on the other hand, refers to the rate of change of displacement, which includes both magnitude and direction. It is a vector quantity,
+- **Distance** -> is the total length of the path traveled by an object, regardless of direction. It is a scalar quantity
+- **Displacement** -> is the shortest straight-line distance from the initial position to the final position of an object.
 **Speed** $$\frac{Distance}{Time}$$
 **Velocity** $$\frac{Displacement}{Time}$$
 **If we want to find the average speed over any time period, how do we do it? For example, if we want to find the average speed over a period of 10 to 15 seconds?**
@@ -41,10 +40,6 @@ But **Velocity**, on the other hand, refers to the rate of change of displacemen
 2. Find $\Delta X, \Delta T$
 3. V = $\frac{\Delta X}{\Delta T}$ but $\Delta T \to 0$
 4. V = $\lim_{\Delta t \to 0} \frac{\Delta X}{\Delta T}$ = $\frac{dx}{dt}$
-
-### Wording
-**Distance** is the total length of the path traveled by an object, regardless of direction. It is a scalar quantity
-**Displacement**, on the other hand, is the shortest straight-line distance from the initial position to the final position of an object.
 
 ## Acceleration
 Tell how fast the speed is changing
