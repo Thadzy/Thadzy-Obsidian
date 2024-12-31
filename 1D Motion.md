@@ -45,8 +45,19 @@ V -> A -> Accerate
 V <- A -> Delay
 ## Turning point
 Turning point is the $\frac{dx}{dt} = 0$ (v = 0) is the particle still have the speed it's can't return
-**What if particle have speed can it return?**
-*Ans* ...
+>**What if particle have speed can it return?**
+>>*Ans* If a particle has speed (i.e., $\frac{dz}{dt} \neq 0$), it means that the particle is still in motion. The ability of a particle to return to a previous position depends on several factors:
+1. **Direction of Motion**:
+    - If the particle is moving in the opposite direction towards a previous position, it can return without any issue.
+    - If it is moving away from that position, it cannot return until its direction changes.
+2. **Forces Acting on the Particle**:
+    - If external forces (like gravity, friction, or applied forces) act on the particle, they can influence its motion. For instance:
+        - A particle thrown upwards will eventually slow down due to gravity, stop at its peak (a turning point), and then return to its original position.
+        - A particle moving in a frictionless environment may continue indefinitely unless acted upon by another force.
+3. **Energy Considerations**:
+    - In conservative systems (like a pendulum), energy conservation allows the particle to return to its original position after reaching maximum height.
+    - In non-conservative systems (like one with significant friction), energy loss can prevent the particle from returning.
+
 ![[Pasted image 20241022120930.png | 600]]
 ![[Pasted image 20241022121025.png]]
 The relationship of the graph is when v = 0, x change direction
