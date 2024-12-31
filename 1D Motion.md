@@ -7,11 +7,10 @@
 ## Define Calculus
 ![[Pasted image 20241022110240.png | 600]]
 >**Is it necessary to select a contact point to calculate the slope?**
->>*Ans* No because in finding the slope of the graph just use $\Delta$ to 2 points to find the Tangen line by select the 2 points of the slope and find m
+>>*Ans* No, it is not necessary to select a specific contact point to calculate the slope of a graph. The slope can be determined by choosing any two points on the graph, calculating the differences and using them to find the slope (mm) of the tangent line. $m = \frac{\Delta y}{\Delta x}$
 
-
-**How to select that 2 points?**
-*Ans* ...
+>**How to select that 2 points?**
+>>*Ans* To find the slope of a tangent to a curve, need to approximate the tangent line. Choose two points that are very close to the point of interest (the contact point) to estimate the slope of the tangent line.
 
 ## Visualization the movement of the particle
 ![[Pasted image 20241022112218.png]]
