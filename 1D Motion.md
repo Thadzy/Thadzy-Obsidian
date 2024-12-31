@@ -26,20 +26,17 @@ $$\frac{Distance}{Time}$$
 $$\frac{Displacement}{Time}$$
 - **Distance** -> is the total length of the path traveled by an object, regardless of direction. It is a scalar quantity
 - **Displacement** -> is the shortest straight-line distance from the initial position to the final position of an object.
->**If we want to find the average speed over any time period, how do we do it? For example, if we want to find the average speed over a period of 10 to 15 seconds?**
->>*Ans* Use $\Delta$
 
 >**What does at any given moment mean? For example t = 15**
 >>*Ans* Just like the $\Delta$ But $\lim_{x \to 0}$ in small time --> Calculus 
 
 >**Average speed = instantaneous speed or not?**
 >>*Ans* No because Average speed is all the speed has one value but the instantaneous speed also the 1 value at the specific moment in time.
-### How to
+### How to find instantaneous speed
 1. Close 2 points $\Delta t \to 0$
 2. Find $\Delta X, \Delta T$
 3. V = $\frac{\Delta X}{\Delta T}$ but $\Delta T \to 0$
 4. V = $\lim_{\Delta t \to 0} \frac{\Delta X}{\Delta T}$ = $\frac{dx}{dt}$
-
 ## Acceleration
 Tell how fast the speed is changing
 $$ a = \frac{\Delta v}{\Delta t} = \frac{dv}{dt}$$ 
