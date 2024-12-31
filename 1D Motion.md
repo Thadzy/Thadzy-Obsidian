@@ -6,8 +6,9 @@
 3. What does the amount means?
 ## Define Calculus
 ![[Pasted image 20241022110240.png | 600]]
-**Is it necessary to select a contact point to calculate the slope?**
-*Ans* No because in finding the slope of the graph just use $\Delta$ to 2 points to find the Tangen line by select the 2 points of the slope and find m
+>**Is it necessary to select a contact point to calculate the slope?**
+>>*Ans* No because in finding the slope of the graph just use $\Delta$ to 2 points to find the Tangen line by select the 2 points of the slope and find m
+
 
 **How to select that 2 points?**
 *Ans* ...
