@@ -1,10 +1,11 @@
 #Physics 
 [[2D, 3D Motion]]
-## How to solve the problem
+## How to solve the problem in Physics
 1. What the problem given?
-2. Visualization?
+2. Visualization
 3. What does the amount means?
 
+## Define 
 ![[Pasted image 20241022110240.png | 600]]
 **Is it necessary to select a contact point to calculate the slope?**
 *Ans* No because in finding the slope of the graph just use $\Delta$ to 2 points to find the Tangen line by select the 2 points of the slope and find m
