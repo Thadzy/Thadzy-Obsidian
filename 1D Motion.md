@@ -43,10 +43,16 @@ $$ a = \frac{\Delta v}{\Delta t} = \frac{dv}{dt}$$
 ### Acceleration direction
 V -> A -> Accerate
 V <- A -> Delay
-## **Turning point**
+## Turning point
 Turning point is the $\frac{dx}{dt} = 0$ (v = 0) is the particle still have the speed it's can't return
 **What if particle have speed can it return?**
 *Ans* ...
 ![[Pasted image 20241022120930.png | 600]]
 ![[Pasted image 20241022121025.png]]
 The relationship of the graph is when v = 0, x change direction
+## Motion Graph
+![[Pasted image 20241231171609.png | 600]]
+### Position-Time Graph
+- **Slope**: Represents velocity (V).
+- **Area**: Not directly applicable or meaningful.
+- Formula: $V=\frac{ΔX}{Δt}$ = $\frac{\Delta X}{\Delta t}V=ΔtΔX​ (change in position over time).
