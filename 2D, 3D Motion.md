@@ -6,6 +6,17 @@
 ![[Pasted image 20250103172935.png | 600]]
 ## Vector
 A vector is defined as an object characterized by both a magnitude (length) and a direction. Geometrically, it can be visualized as a directed line segment, where the length of the segment corresponds to the magnitude and the arrow indicates the direction
+### Type of vector 
+- **Zero Vector**: A vector with zero magnitude and no specific direction.
+- ![[Pasted image 20250103173037.png]]
+- **Unit Vector**: A vector with a magnitude of one, used to indicate direction.
+	- How to calculate the unit vector $$u = \frac{v}{||v||}$$
+	- $$$$
+- ![[Pasted image 20250103173058.png]]
+- **Position Vector**: Represents the position of a point in space relative to an origin.
+- ![[Pasted image 20250103173122.png]]
+- **Displacement Vector**: Indicates the change in position from one point to another
+- ![[Pasted image 20250103173257.png]]
 
 ## How to calculate?
 $$ v = \frac{d}{dt}r = \frac{d}{dt}(xi + yj) = \frac{d}{dt}(xi)+\frac{d}{dt}(yj)$$
