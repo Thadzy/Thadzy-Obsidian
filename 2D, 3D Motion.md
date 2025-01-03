@@ -2,9 +2,11 @@
 [[1D Motion]]
 [[Projectile Motion]]
 [[Circular Motion]]
-![[Pasted image 20250103172357.png | 600]]
+# 2D Motion
+![[Pasted image 20250103172935.png | 600]]
+## Vector
+A vector is defined as an object characterized by both a magnitude (length) and a direction. Geometrically, it can be visualized as a directed line segment, where the length of the segment corresponds to the magnitude and the arrow indicates the direction
 
-It's vector
 ## How to calculate?
 $$ v = \frac{d}{dt}r = \frac{d}{dt}(xi + yj) = \frac{d}{dt}(xi)+\frac{d}{dt}(yj)$$
 $$= i\frac{dx}{dt}+ j \frac{dy}{dt} $$
