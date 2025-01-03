@@ -11,7 +11,7 @@ A vector is defined as an object characterized by both a magnitude (length) and 
 - ![[Pasted image 20250103173037.png]]
 - **Unit Vector**: A vector with a magnitude of one, used to indicate direction.
 	- How to calculate the unit vector $$u = \frac{v}{||v||}$$
-	- Pythagorean $$u = \sqrt{a^2 + b^2}$$
+	- Pythagorean $$v = \sqrt{v_i^2+v_j^2}$$
 - ![[Pasted image 20250103173058.png]]
 - **Position Vector**: Represents the position of a point in space relative to an origin.
 - ![[Pasted image 20250103173122.png]]
@@ -33,7 +33,6 @@ A vector is defined as an object characterized by both a magnitude (length) and 
 - **Definition**: In deep learning, vectors often represent data points or features. They can be thought of as arrays of numbers that encode information about an input or output in a model
 - **Representation**: Each vector corresponds to a point in a high-dimensional space. For example, an image can be represented as a vector where each element corresponds to pixel intensity values
 - **Operations**: Vector operations in AI include addition and scalar multiplication but also involve more complex operations such as matrix multiplication during the training of neural networks. These operations help in adjusting weights during backpropagation to minimize error functions
-
 ## How to calculate?
 $$ v = \frac{d}{dt}r = \frac{d}{dt}(xi + yj) = \frac{d}{dt}(xi)+\frac{d}{dt}(yj)$$
 $$= i\frac{dx}{dt}+ j \frac{dy}{dt} $$
