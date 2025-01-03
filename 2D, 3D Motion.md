@@ -48,18 +48,3 @@ $$v = \sqrt{v_i^2+v_j^2}$$
 $$θ = tan^{-1}(\frac{v_i}{v_j})$$
 ![[Pasted image 20241022154608.png]]
 
-## How to find velocity
-t = t, t_small points to find v from $v = \sqrt{v_i^2+v_j^2}$ and arctan
-## How to find acceleration
-### a parallel
-#### First method
-$$a_{ll} = \frac{v - u}{t} $$
-#### Second method 
-cos
-![[Pasted image 20241022164432.png | 500]]
-### a perpendicular 
-sin
-#### Prediction
-1. V increasing because of $a_{ll}$ has the same direction with v
-2. acceleration $a_p$ make the particle move circular
-
