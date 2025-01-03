@@ -2,7 +2,8 @@
 [[1D Motion]]
 [[Projectile Motion]]
 [[Circular Motion]]
-![[Pasted image 20241022152059.png]]
+![[Pasted image 20250103172357.png | 600]]
+
 It's vector
 ## How to calculate?
 $$ v = \frac{d}{dt}r = \frac{d}{dt}(xi + yj) = \frac{d}{dt}(xi)+\frac{d}{dt}(yj)$$
