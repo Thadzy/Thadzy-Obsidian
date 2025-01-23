@@ -178,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "f4e910da75749ad2",
@@ -211,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94531f3fb53576f4",
+  "active": "67054e420e49b989",
   "lastOpenFiles": [
     "Basic Syntax and Structure.md",
     "Name Space.md",
