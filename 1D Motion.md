@@ -1,6 +1,7 @@
 #Physics 
 [[2D, 3D Motion]]
 hi I'm from future
+hi I'm from another future
 # 1D Motion 
 ## How to solve the problem in Physics
 1. What the problem given?
