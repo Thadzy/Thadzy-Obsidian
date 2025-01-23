@@ -4,8 +4,26 @@
     "type": "split",
     "children": [
       {
+        "id": "28542955f00e10ca",
+        "type": "tabs",
+        "dimension": 24.719101123595504,
+        "children": [
+          {
+            "id": "94531f3fb53576f4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
         "id": "49be0c6831740242",
         "type": "tabs",
+        "dimension": 75.28089887640449,
         "children": [
           {
             "id": "94176887d2daef20",
@@ -150,18 +168,6 @@
             }
           },
           {
-            "id": "9ad8ba7c9dad6ee1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "1D Motion.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 1D Motion"
-            }
-          },
-          {
             "id": "67054e420e49b989",
             "type": "leaf",
             "state": {
@@ -172,20 +178,20 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
-        "id": "fd2acfa0ffe5b7b1",
+        "id": "f4e910da75749ad2",
         "type": "tabs",
         "children": [
           {
-            "id": "94531f3fb53576f4",
+            "id": "9ad8ba7c9dad6ee1",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "outline",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -205,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b6112bc039cb71a",
+  "active": "94531f3fb53576f4",
   "lastOpenFiles": [
     "Basic Syntax and Structure.md",
     "Name Space.md",

@@ -14,3 +14,6 @@ int main(){
 }
 ```
 
+# Input and output using std::cin and std::cout
+The std is **a short form of standard**, the std namespace contains the built-in classes and declared functions.
+
