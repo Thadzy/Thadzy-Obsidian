@@ -1,5 +1,6 @@
 #cpp
 # main() function
+The main function **serves as the starting point for program execution**
 ```cpp
 #include <iostream>
 #include <vector>
