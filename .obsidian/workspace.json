@@ -4,24 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "49be0c6831740242",
+        "id": "28542955f00e10ca",
         "type": "tabs",
+        "dimension": 24.719101123595507,
         "children": [
           {
-            "id": "3373413fb968d921",
+            "id": "94531f3fb53576f4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "49be0c6831740242",
+        "type": "tabs",
+        "dimension": 75.28089887640449,
+        "children": [
+          {
+            "id": "94176887d2daef20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1D Motion.md",
+                "file": "Basic Syntax and Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1D Motion"
+              "title": "Basic Syntax and Structure"
+            }
+          },
+          {
+            "id": "0b6112bc039cb71a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic Syntax and Structure.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic Syntax and Structure"
+            }
+          },
+          {
+            "id": "bff4e715233d89e3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 218.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "218d543182c71048",
@@ -134,18 +178,6 @@
             }
           },
           {
-            "id": "9ad8ba7c9dad6ee1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "1D Motion.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 1D Motion"
-            }
-          },
-          {
             "id": "67054e420e49b989",
             "type": "leaf",
             "state": {
@@ -156,11 +188,27 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
+      },
+      {
+        "id": "f4e910da75749ad2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ad8ba7c9dad6ee1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 311.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,9 +221,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3373413fb968d921",
+  "active": "bff4e715233d89e3",
   "lastOpenFiles": [
-    "2D, 3D Motion.md",
-    "1D Motion.md"
+    "Basic Syntax and Structure.md",
+    "Name Space.md",
+    "1D Motion.md",
+    "2D, 3D Motion.md"
   ]
 }
