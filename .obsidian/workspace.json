@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,9 +217,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Basic Syntax and Structure.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Basic Syntax and Structure"
             }
           }
         ]
@@ -239,7 +241,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94531f3fb53576f4",
+  "active": "bff4e715233d89e3",
   "lastOpenFiles": [
     "Derived Data Types in C++.md",
     "User Defined Data Types in C++.md",
