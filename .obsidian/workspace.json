@@ -217,11 +217,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Derived Data Types in C++.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Derived Data Types in C++"
+              "title": "Outline"
             }
           }
         ]
@@ -241,8 +239,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f8114fd2b3d4fd9c",
+  "active": "94531f3fb53576f4",
   "lastOpenFiles": [
+    "Derived Data Types in C++.md",
     "User Defined Data Types in C++.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
@@ -257,7 +256,6 @@
     "Pasted image 20250103172403.png",
     "Pasted image 20250103172357.png",
     "Pasted image 20250103172138.png",
-    "Derived Data Types in C++.md",
     "Data Types and Variables.md",
     "Basic Syntax and Structure.md",
     "Name Space.md",
