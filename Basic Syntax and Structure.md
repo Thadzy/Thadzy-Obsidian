@@ -20,4 +20,9 @@ The std is **a short form of standard**, the std namespace contains the built-i
  std::cout << "I like picture" << "\n";
 ```
 
+# Getline
+The C++ ***getline()*** is a standard library function that is used to read a string or a line from an input stream.
+```cpp
+
+```
 
