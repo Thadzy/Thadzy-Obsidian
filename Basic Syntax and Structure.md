@@ -23,6 +23,20 @@ The std is **a short form of standard**, the std namespace contains the built-i
 # Getline
 The C++ ***getline()*** is a standard library function that is used to read a string or a line from an input stream.
 ```cpp
+#include <iostream>
+#include <string>
+using namespace std;
 
+int main()
+{
+    string str;
+
+    cout << "Please enter your name: \n";
+    getline(cin, str);
+    cout << "Hello, " << str
+         << " welcome to GfG !\n";
+
+    return 0;
+}
 ```
 
