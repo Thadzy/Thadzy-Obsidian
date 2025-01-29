@@ -4,85 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "28542955f00e10ca",
+        "id": "49be0c6831740242",
         "type": "tabs",
-        "dimension": 24.719101123595507,
         "children": [
           {
-            "id": "94531f3fb53576f4",
+            "id": "ce748a592a35900c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Data Types and Variables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Types and Variables"
             }
           }
         ]
-      },
-      {
-        "id": "49be0c6831740242",
-        "type": "tabs",
-        "dimension": 75.28089887640449,
-        "children": [
-          {
-            "id": "94176887d2daef20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic Syntax and Structure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basic Syntax and Structure"
-            }
-          },
-          {
-            "id": "0b6112bc039cb71a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic Syntax and Structure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basic Syntax and Structure"
-            }
-          },
-          {
-            "id": "bff4e715233d89e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic Syntax and Structure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basic Syntax and Structure"
-            }
-          },
-          {
-            "id": "f8114fd2b3d4fd9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Derived Data Types in C++.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Derived Data Types in C++"
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,11 +74,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "fa6c912ad724f062",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94531f3fb53576f4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 218.50260543823242,
-    "collapsed": true
+    "width": 380.5
   },
   "right": {
     "id": "218d543182c71048",
@@ -218,10 +172,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Syntax and Structure.md"
+                "file": "Data Types and Variables.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Basic Syntax and Structure"
+              "title": "Outline of Data Types and Variables"
             }
           }
         ]
@@ -241,13 +195,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bff4e715233d89e3",
+  "active": "ce748a592a35900c",
   "lastOpenFiles": [
-    "Derived Data Types in C++.md",
-    "User Defined Data Types in C++.md",
-    "Untitled.canvas",
+    "Circular Motion.md",
+    "Data Types and Variables.md",
+    "Friction.md",
+    "Name Space.md",
+    "Newton's laws.md",
+    "Projectile Motion.md",
     "Untitled 1.canvas",
+    "Untitled.canvas",
     "Typedef and type aliases.md",
+    "Work and Energy.md",
+    "1D Motion.md",
+    "Derived Data Types in C++.md",
+    "Basic Syntax and Structure.md",
+    "User Defined Data Types in C++.md",
     "Pasted image 20250103173257.png",
     "Pasted image 20250103173122.png",
     "Pasted image 20250103173058.png",
@@ -258,10 +221,6 @@
     "Pasted image 20250103172403.png",
     "Pasted image 20250103172357.png",
     "Pasted image 20250103172138.png",
-    "Data Types and Variables.md",
-    "Basic Syntax and Structure.md",
-    "Name Space.md",
-    "1D Motion.md",
     "2D, 3D Motion.md"
   ]
 }
