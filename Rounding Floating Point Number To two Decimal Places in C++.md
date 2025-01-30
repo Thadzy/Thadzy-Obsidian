@@ -81,5 +81,31 @@ int main() {
 ```
 
 ```cpp
+#include <iostream>
+#include <iomanip>
+
+int main() {
+    double num = 3.14159;
+    std::cout << std::fixed << std::setprecision(2) << "Rounded Number: " << num << std::endl;
+    return 0;
+}
+
+```
+
+```cpp
+#include <iostream>
+#include <sstream>
+#include <iomanip>
+
+int main() {
+    double num = 3.14159;
+    std::stringstream stream;
+    stream << std::fixed << std::setprecision(2) << num;
+    double roundedNum;
+    stream >> roundedNum; // Extract the rounded value as a double
+
+    std::cout << "Rounded Number: " << roundedNum << std::endl;
+    return 0;
+}
 
 ```
