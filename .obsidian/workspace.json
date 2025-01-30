@@ -114,9 +114,19 @@
               "icon": "lucide-file",
               "title": "Type Conversation"
             }
+          },
+          {
+            "id": "24bb1ee04105cccf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -168,8 +178,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "fa6c912ad724f062",
@@ -267,11 +276,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Type Conversation.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Type Conversation"
+              "title": "Outline"
             }
           }
         ]
@@ -291,14 +298,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43741c4db4ba4950",
+  "active": "8fcf9bc88e581a6b",
   "lastOpenFiles": [
+    "Type Conversation.md",
     "Circular Motion.md",
     "Matrix.md",
     "Loop.md",
     "Data Types and Variables.md",
     "Rounding Floating Point Number To two Decimal Places in C++.md",
-    "Type Conversation.md",
     "Friction.md",
     "Name Space.md",
     "Newton's laws.md",
