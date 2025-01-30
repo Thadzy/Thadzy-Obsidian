@@ -1,5 +1,5 @@
 #cpp 
-## ***First Method:- Using Float precision***
+## First Method:- Using Float precision
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
