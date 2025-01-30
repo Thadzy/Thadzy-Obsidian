@@ -101,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#cpp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,8 +122,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "fa6c912ad724f062",
@@ -243,7 +242,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64f49ec881e9b047",
+  "active": "8fcf9bc88e581a6b",
   "lastOpenFiles": [
     "Data Types and Variables.md",
     "Rounding Floating Point Number To two Decimal Places in C++.md",
