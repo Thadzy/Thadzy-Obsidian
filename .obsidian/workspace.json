@@ -146,9 +146,19 @@
               "icon": "lucide-file",
               "title": "Derived Data Types in C++"
             }
+          },
+          {
+            "id": "0c2ab7f62dde0983",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -298,11 +308,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Loop.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Loop"
+              "title": "Outline"
             }
           }
         ]
@@ -322,10 +330,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1214e775aafc676",
+  "active": "0c2ab7f62dde0983",
   "lastOpenFiles": [
-    "Derived Data Types in C++.md",
     "Loop.md",
+    "Derived Data Types in C++.md",
     "Rounding Floating Point Number To two Decimal Places in C++.md",
     "Untitled.md",
     "Matrix.md",
