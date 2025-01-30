@@ -146,19 +146,9 @@
               "icon": "lucide-file",
               "title": "Derived Data Types in C++"
             }
-          },
-          {
-            "id": "5b8f7f4d91262fdf",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -309,10 +299,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Derived Data Types in C++.md"
+                "file": "Loop.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Derived Data Types in C++"
+              "title": "Outline of Loop"
             }
           }
         ]
@@ -332,7 +322,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96c3c6ea597f73cd",
+  "active": "c1214e775aafc676",
   "lastOpenFiles": [
     "Derived Data Types in C++.md",
     "Loop.md",
