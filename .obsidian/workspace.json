@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -327,10 +327,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Types and Variables.md"
+                "file": "Loop.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Data Types and Variables"
+              "title": "Outline of Loop"
             }
           }
         ]
@@ -350,8 +350,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed32f1f03569bf0d",
+  "active": "c1214e775aafc676",
   "lastOpenFiles": [
+    "Data Types and Variables.md",
     "Basic Syntax and Structure.md",
     "Loop.md",
     "Derived Data Types in C++.md",
@@ -360,7 +361,6 @@
     "Matrix.md",
     "Type Conversation.md",
     "Circular Motion.md",
-    "Data Types and Variables.md",
     "Friction.md",
     "Name Space.md",
     "Newton's laws.md",
