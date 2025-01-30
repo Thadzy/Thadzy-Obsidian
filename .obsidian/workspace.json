@@ -165,10 +165,14 @@
             "id": "ed32f1f03569bf0d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Data Types and Variables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Types and Variables"
             }
           }
         ],
@@ -322,9 +326,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Data Types and Variables.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Data Types and Variables"
             }
           }
         ]
