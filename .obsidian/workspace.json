@@ -22,16 +22,6 @@
             }
           },
           {
-            "id": "64f49ec881e9b047",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "e9012c5d80ff2fb5",
             "type": "leaf",
             "state": {
@@ -127,6 +117,16 @@
               },
               "icon": "lucide-file",
               "title": "Rounding Floating Point Number To two Decimal Places in C++"
+            }
+          },
+          {
+            "id": "c1214e775aafc676",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -280,11 +280,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rounding Floating Point Number To two Decimal Places in C++.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Rounding Floating Point Number To two Decimal Places in C++"
+              "title": "Outline"
             }
           }
         ]
@@ -304,14 +302,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24bb1ee04105cccf",
+  "active": "c1214e775aafc676",
   "lastOpenFiles": [
+    "Rounding Floating Point Number To two Decimal Places in C++.md",
     "Type Conversation.md",
     "Circular Motion.md",
     "Matrix.md",
     "Loop.md",
     "Data Types and Variables.md",
-    "Rounding Floating Point Number To two Decimal Places in C++.md",
     "Friction.md",
     "Name Space.md",
     "Newton's laws.md",
