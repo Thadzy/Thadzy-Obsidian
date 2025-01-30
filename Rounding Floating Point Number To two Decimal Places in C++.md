@@ -65,4 +65,21 @@ int main()
 }
 ```
 
-##
+## Assign to variable
+```cpp
+#include <iostream>
+#include <cmath>
+
+int main() {
+    double num = 3.14159;
+    double roundedNum = std::round(num * 100) / 100; // Rounds to 2 decimal places
+
+    std::cout << "Rounded Number: " << roundedNum << std::endl;
+    return 0;
+}
+
+```
+
+```cpp
+
+```
