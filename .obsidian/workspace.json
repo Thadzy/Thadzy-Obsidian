@@ -134,6 +134,18 @@
             }
           },
           {
+            "id": "b7049cc744c52c62",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
             "id": "96c3c6ea597f73cd",
             "type": "leaf",
             "state": {
@@ -176,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -195,7 +207,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -327,10 +340,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Loop.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Loop"
+              "title": "Outline"
             }
           }
         ]
@@ -350,7 +365,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1214e775aafc676",
+  "active": "b7049cc744c52c62",
   "lastOpenFiles": [
     "Data Types and Variables.md",
     "Basic Syntax and Structure.md",
