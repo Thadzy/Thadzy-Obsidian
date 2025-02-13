@@ -221,10 +221,14 @@
             "id": "068bb0b4a6ab214f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "User Defined Data Types in C++.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "User Defined Data Types in C++"
             }
           }
         ],
@@ -384,12 +388,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "User Defined Data Types in C++.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of User Defined Data Types in C++"
             }
           }
         ]
@@ -411,9 +416,9 @@
   },
   "active": "068bb0b4a6ab214f",
   "lastOpenFiles": [
+    "Data Types and Variables.md",
     "Derived Data Types in C++.md",
     "User Defined Data Types in C++.md",
-    "Data Types and Variables.md",
     "Basic Syntax and Structure.md",
     "Loop.md",
     "Rounding Floating Point Number To two Decimal Places in C++.md",
