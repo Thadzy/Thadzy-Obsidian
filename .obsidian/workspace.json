@@ -25,13 +25,14 @@
             "id": "41f4dc93d8bc6a6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cpp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +85,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "03499f87de817a49",
@@ -183,13 +185,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Integral test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Integral test"
+              "title": "Outline"
             }
           }
         ]
@@ -209,8 +210,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9add3f5dda22c0d3",
+  "active": "41f4dc93d8bc6a6a",
   "lastOpenFiles": [
+    "Integral test.md",
     "Thadzy.md",
     "Derived Data Types in C++.md",
     "User Defined Data Types in C++.md",
@@ -221,7 +223,6 @@
     "Type Conversation.md",
     "Circular Motion.md",
     "Matrix.md",
-    "Integral test.md",
     "Friction.md",
     "Name Space.md",
     "Newton's laws.md",
