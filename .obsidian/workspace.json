@@ -27,8 +27,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41f4dc93d8bc6a6a",
+  "active": "9add3f5dda22c0d3",
   "lastOpenFiles": [
     "Thadzy.md",
     "Derived Data Types in C++.md",
