@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "41f4dc93d8bc6a6a",
+            "id": "fb3f30ab434ca9f4",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#cpp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,8 +85,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "03499f87de817a49",
@@ -210,16 +209,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41f4dc93d8bc6a6a",
+  "active": "8fcf9bc88e581a6b",
   "lastOpenFiles": [
+    "Rounding Floating Point Number To two Decimal Places in C++.md",
+    "Untitled.canvas",
     "Integral test.md",
+    "Typedef and type aliases.md",
     "Thadzy.md",
     "Derived Data Types in C++.md",
     "User Defined Data Types in C++.md",
     "Data Types and Variables.md",
     "Basic Syntax and Structure.md",
     "Loop.md",
-    "Rounding Floating Point Number To two Decimal Places in C++.md",
     "Type Conversation.md",
     "Circular Motion.md",
     "Matrix.md",
@@ -228,8 +229,6 @@
     "Newton's laws.md",
     "Projectile Motion.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Typedef and type aliases.md",
     "Work and Energy.md",
     "1D Motion.md",
     "Pasted image 20250103173257.png",
