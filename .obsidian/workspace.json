@@ -31,8 +31,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,12 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Ratio Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Ratio Test"
             }
           }
         ]
@@ -209,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a01c4ed3ac39918",
+  "active": "49821e66995793ad",
   "lastOpenFiles": [
     "Ratio Test.md",
     "Circular Motion.md",
