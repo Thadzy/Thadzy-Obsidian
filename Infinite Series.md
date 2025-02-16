@@ -1,0 +1,2 @@
+## geometric series
+$$\Sig$$

@@ -188,13 +188,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Infinite Series.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Infinite Series"
+              "title": "Outline"
             }
           }
         ]
@@ -214,10 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6f3e1e94d9673ee",
+  "active": "068bb0b4a6ab214f",
   "lastOpenFiles": [
-    "Sequence.md",
     "Infinite Series.md",
+    "Sequence.md",
     "Math Induction.md",
     "Typedef and type aliases.md",
     "Rounding Floating Point.md",
