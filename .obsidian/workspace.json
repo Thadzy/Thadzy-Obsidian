@@ -105,10 +105,17 @@
             "id": "26f9ef8e6bc343d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Calculus 2.canvas",
+                "viewState": {
+                  "x": 1129.744444648249,
+                  "y": -177.83806548498868,
+                  "zoom": -1.6405122736222733
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Calculus 2"
             }
           }
         ],
@@ -264,12 +271,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Calculus 2.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Calculus 2"
             }
           }
         ]
