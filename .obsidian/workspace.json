@@ -44,9 +44,26 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "31552eafe2442584",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Calculus 2.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Calculus 2"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,12 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Calculus 2.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Calculus 2"
             }
           }
         ]
@@ -223,8 +241,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "029cc7f397d9efd9",
+  "active": "31552eafe2442584",
   "lastOpenFiles": [
+    "Calculus 2.canvas",
     "Ratio Test.md",
     "Alternating Series.md",
     "Circular Motion.md",
@@ -239,7 +258,6 @@
     "Loop.md",
     "Derived Data Types in C++.md",
     "Type Conversation.md",
-    "Untitled.canvas",
     "Thadzy.md",
     "User Defined Data Types in C++.md",
     "Data Types and Variables.md",
@@ -261,7 +279,6 @@
     "Pasted image 20250103172538.png",
     "Pasted image 20250103172403.png",
     "Pasted image 20250103172357.png",
-    "Pasted image 20250103172138.png",
-    "2D, 3D Motion.md"
+    "Pasted image 20250103172138.png"
   ]
 }
