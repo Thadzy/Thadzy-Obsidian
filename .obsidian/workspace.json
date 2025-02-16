@@ -53,9 +53,9 @@
               "state": {
                 "file": "Calculus 2.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 647.3292753811081,
+                  "y": -103.64557067597488,
+                  "zoom": -1.2000000000000002
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -215,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus 2.canvas",
+                "file": "Math Induction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Calculus 2"
+              "title": "Outline of Math Induction"
             }
           }
         ]
