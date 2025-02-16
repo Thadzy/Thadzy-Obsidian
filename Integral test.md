@@ -9,4 +9,4 @@ $$\int_1^\infty f(x)dx = \infty = Diverge$$
 3. Decreasing? (Taking the first Derivative)
 
 Next 
-$$\lim_b to$$
+$$\lim_{b\$$
