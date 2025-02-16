@@ -1,1 +1,1 @@
-$$f(x)$$
+$$f(x) = \Sigma_{n=0}^\infty A_n(x-c)^n$$
