@@ -8,49 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d145592e3b4985b9",
+            "id": "0dafe2e3ee82ee22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Direct Comparison Test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Direct Comparison Test"
-            }
-          },
-          {
-            "id": "170c21ed0499ace4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Limit Comparison Test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Limit Comparison Test"
-            }
-          },
-          {
-            "id": "c7482a4ffe1eb257",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Integral test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Integral test"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Limit Comparison Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Limit Comparison Test"
+              "title": "Outline"
             }
           }
         ]
@@ -228,11 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "170c21ed0499ace4",
+  "active": "0dafe2e3ee82ee22",
   "lastOpenFiles": [
+    "Integral test.md",
     "Direct Comparison Test.md",
     "Limit Comparison Test.md",
-    "Integral test.md",
     "Infinite Series.md",
     "Sequence.md",
     "Math Induction.md",
