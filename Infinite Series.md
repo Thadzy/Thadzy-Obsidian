@@ -1,4 +1,4 @@
-#Calculus
+#Calculus #Calculus2 
 ## geometric series
 $$\Sigma_{n=1}^\infty ar^{n-1}$$
 |r| < 1 => Converge 
