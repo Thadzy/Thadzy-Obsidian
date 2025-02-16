@@ -25,10 +25,14 @@
             "id": "fb3f30ab434ca9f4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Type Conversation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Type Conversation"
             }
           }
         ],
@@ -184,12 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Type Conversation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Type Conversation"
             }
           }
         ]
@@ -209,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fcf9bc88e581a6b",
+  "active": "fb3f30ab434ca9f4",
   "lastOpenFiles": [
     "Rounding Floating Point Number To two Decimal Places in C++.md",
     "Untitled.canvas",
