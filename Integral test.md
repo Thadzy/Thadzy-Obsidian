@@ -6,4 +6,7 @@ $$\int_1^\infty f(x)dx = \infty = Diverge$$
 ## 3 Rules
 1. Positive?
 2. Continuous?
-3. Decreasing
+3. Decreasing? (Taking the first Derivative)
+
+Next 
+$$\lim_b to$$
