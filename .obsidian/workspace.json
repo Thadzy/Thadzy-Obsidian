@@ -109,9 +109,9 @@
               "state": {
                 "file": "Calculus 2.canvas",
                 "viewState": {
-                  "x": 1129.744444648249,
+                  "x": 1114.4829716793179,
                   "y": -177.83806548498868,
-                  "zoom": -1.6405122736222733
+                  "zoom": -1.6405122736222735
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -271,13 +271,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus 2.canvas",
+                "file": "Alternating Series.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Calculus 2"
+              "title": "Outline of Alternating Series"
             }
           }
         ]

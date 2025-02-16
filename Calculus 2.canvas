@@ -6,7 +6,11 @@
 		{"id":"0fea95e32ca783b1","type":"file","file":"Direct Comparison Test.md","x":2080,"y":-660,"width":400,"height":400},
 		{"id":"da44a1382de02ffe","type":"file","file":"Limit Comparison Test.md","x":2080,"y":-80,"width":400,"height":400},
 		{"id":"8c46d868d2b87111","type":"file","file":"Math Induction.md","x":880,"y":-1440,"width":880,"height":500},
-		{"id":"5fc6ccbefbf639d1","x":-240,"y":-1470,"width":640,"height":1060,"type":"file","file":"Fourier Series.md"}
+		{"id":"041a5dfad6ba4e0c","x":-640,"y":-289,"width":870,"height":698,"type":"file","file":"Taylor & Maclaurin Series.md"},
+		{"id":"5fc6ccbefbf639d1","x":-410,"y":-1470,"width":640,"height":1060,"type":"file","file":"Fourier Series.md"},
+		{"id":"1eaca77ff75734b9","x":-170,"y":560,"width":400,"height":238,"type":"file","file":"Power Series.md"},
+		{"id":"c5c0a31294ea610a","x":400,"y":560,"width":630,"height":587,"type":"file","file":"Absolute Convergence.md"},
+		{"id":"1e65eaa92ee86ca0","x":1170,"y":231,"width":590,"height":498,"type":"file","file":"Alternating Series.md"}
 	],
 	"edges":[
 		{"id":"7595059ca6ce1c36","fromNode":"04b675de6dbc88a7","fromSide":"bottom","toNode":"be5fc4a2b6632c53","toSide":"top"},
