@@ -65,9 +65,19 @@
               "icon": "lucide-layout-dashboard",
               "title": "Calculus 2"
             }
+          },
+          {
+            "id": "02a161c239522818",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -219,13 +229,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Limit Comparison Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Limit Comparison Test"
+              "title": "Outline"
             }
           }
         ]
@@ -245,16 +254,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "029cc7f397d9efd9",
+  "active": "02a161c239522818",
   "lastOpenFiles": [
-    "Ratio Test.md",
-    "Direct Comparison Test.md",
-    "Infinite Series.md",
+    "Limit Comparison Test.md",
     "Alternating Series.md",
+    "Direct Comparison Test.md",
+    "Ratio Test.md",
+    "Infinite Series.md",
     "Calculus 2.canvas",
     "Integral test.md",
     "Circular Motion.md",
-    "Limit Comparison Test.md",
     "Sequence.md",
     "Math Induction.md",
     "Typedef and type aliases.md",
