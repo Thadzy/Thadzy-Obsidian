@@ -70,14 +70,18 @@
             "id": "02a161c239522818",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Ratio Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ratio Test"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,12 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Limit Comparison Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Limit Comparison Test"
             }
           }
         ]
@@ -254,12 +259,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02a161c239522818",
+  "active": "029cc7f397d9efd9",
   "lastOpenFiles": [
+    "Ratio Test.md",
     "Limit Comparison Test.md",
     "Alternating Series.md",
     "Direct Comparison Test.md",
-    "Ratio Test.md",
     "Infinite Series.md",
     "Calculus 2.canvas",
     "Integral test.md",
