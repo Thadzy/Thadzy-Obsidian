@@ -8,3 +8,4 @@
 	1. if even we can find a_n but b_n = 0
 	2. if odd an = 0
 4. Integral 0 -> L
+5. Simplify and plug n to series format

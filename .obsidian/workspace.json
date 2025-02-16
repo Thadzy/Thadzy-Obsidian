@@ -100,9 +100,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "26f9ef8e6bc343d2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -254,13 +264,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fourier Series.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fourier Series"
+              "title": "Outline"
             }
           }
         ]
@@ -280,7 +289,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cba4f5bc500985f6",
+  "active": "26f9ef8e6bc343d2",
   "lastOpenFiles": [
     "Fourier Series.md",
     "Pasted image 20250216170206.png",
