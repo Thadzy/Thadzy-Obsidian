@@ -53,8 +53,8 @@
               "state": {
                 "file": "Calculus 2.canvas",
                 "viewState": {
-                  "x": 1320,
-                  "y": -628,
+                  "x": 936.8897260720767,
+                  "y": -142.17931761740311,
                   "zoom": -1.6
                 }
               },
@@ -215,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sequence.md",
+                "file": "Calculus 2.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sequence"
+              "title": "Outline of Calculus 2"
             }
           }
         ]

@@ -1,14 +1,16 @@
 {
 	"nodes":[
-		{"id":"8c46d868d2b87111","x":-600,"y":-760,"width":880,"height":500,"type":"file","file":"Math Induction.md"},
 		{"id":"be5fc4a2b6632c53","x":400,"y":-360,"width":680,"height":840,"type":"file","file":"Integral test.md"},
 		{"id":"04b675de6dbc88a7","x":1120,"y":-800,"width":400,"height":344,"type":"file","file":"Sequence.md"},
 		{"id":"4fd2e2f0b64e2a61","x":1160,"y":-340,"width":560,"height":400,"type":"file","file":"Ratio Test.md"},
-		{"id":"0fea95e32ca783b1","x":2080,"y":-660,"width":400,"height":400,"type":"file","file":"Direct Comparison Test.md"}
+		{"id":"0fea95e32ca783b1","x":2080,"y":-660,"width":400,"height":400,"type":"file","file":"Direct Comparison Test.md"},
+		{"id":"da44a1382de02ffe","x":2080,"y":-80,"width":400,"height":400,"type":"file","file":"Limit Comparison Test.md"},
+		{"id":"8c46d868d2b87111","x":880,"y":-1440,"width":880,"height":500,"type":"file","file":"Math Induction.md"}
 	],
 	"edges":[
 		{"id":"7595059ca6ce1c36","fromNode":"04b675de6dbc88a7","fromSide":"bottom","toNode":"be5fc4a2b6632c53","toSide":"top"},
 		{"id":"d12de5a68713046b","fromNode":"04b675de6dbc88a7","fromSide":"bottom","toNode":"4fd2e2f0b64e2a61","toSide":"top"},
-		{"id":"2e531f190a50a5ec","fromNode":"04b675de6dbc88a7","fromSide":"bottom","toNode":"0fea95e32ca783b1","toSide":"left"}
+		{"id":"2e531f190a50a5ec","fromNode":"04b675de6dbc88a7","fromSide":"bottom","toNode":"0fea95e32ca783b1","toSide":"left"},
+		{"id":"dc25c786923418be","fromNode":"04b675de6dbc88a7","fromSide":"bottom","toNode":"da44a1382de02ffe","toSide":"left"}
 	]
 }
