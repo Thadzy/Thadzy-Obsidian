@@ -48,6 +48,16 @@
               "icon": "lucide-file",
               "title": "Absolute Convergence"
             }
+          },
+          {
+            "id": "6c4442d91ac54167",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
         "currentTab": 2
@@ -228,7 +238,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fcf9bc88e581a6b",
+  "active": "86c47b759d6fd63c",
   "lastOpenFiles": [
     "Absolute Convergence.md",
     "Alternating Series.md",
