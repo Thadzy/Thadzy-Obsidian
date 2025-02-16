@@ -11,16 +11,6 @@
             "id": "7bccf362e1021013",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "cbabb10528226dc5",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Sequence.md",
@@ -30,9 +20,32 @@
               "icon": "lucide-file",
               "title": "Sequence"
             }
+          },
+          {
+            "id": "f6f3e1e94d9673ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Infinite Series.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Infinite Series"
+            }
+          },
+          {
+            "id": "be45622e8e0827b9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,8 +223,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbabb10528226dc5",
+  "active": "7bccf362e1021013",
   "lastOpenFiles": [
+    "Infinite Series.md",
     "Sequence.md",
     "Math Induction.md",
     "Typedef and type aliases.md",
