@@ -2,3 +2,7 @@
 
 # Maclaurin
 Represent a = 0
+
+## Step
+1.Find the derivative
+
