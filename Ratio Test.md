@@ -1,0 +1,1 @@
+$$\lim_{n\to\infty}|\frac{a_n + 1}{}|$$
