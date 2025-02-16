@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Absolute Convergence"
             }
+          },
+          {
+            "id": "86c47b759d6fd63c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,13 +198,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Absolute Convergence.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Absolute Convergence"
+              "title": "Outline"
             }
           }
         ]
@@ -214,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcf2fd1eaac3e57b",
+  "active": "86c47b759d6fd63c",
   "lastOpenFiles": [
     "Absolute Convergence.md",
     "Alternating Series.md",
