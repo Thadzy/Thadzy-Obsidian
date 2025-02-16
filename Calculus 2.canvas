@@ -4,7 +4,7 @@
 		{"id":"04b675de6dbc88a7","type":"file","file":"Sequence.md","x":1120,"y":-800,"width":400,"height":344},
 		{"id":"4fd2e2f0b64e2a61","type":"file","file":"Ratio Test.md","x":1160,"y":-340,"width":560,"height":400},
 		{"id":"0fea95e32ca783b1","type":"file","file":"Direct Comparison Test.md","x":2080,"y":-660,"width":580,"height":520},
-		{"id":"da44a1382de02ffe","type":"file","file":"Limit Comparison Test.md","x":2080,"y":-80,"width":400,"height":400},
+		{"id":"da44a1382de02ffe","type":"file","file":"Limit Comparison Test.md","x":2080,"y":-80,"width":560,"height":520},
 		{"id":"8c46d868d2b87111","type":"file","file":"Math Induction.md","x":880,"y":-1440,"width":880,"height":500},
 		{"id":"041a5dfad6ba4e0c","type":"file","file":"Taylor & Maclaurin Series.md","x":-640,"y":-289,"width":870,"height":698},
 		{"id":"5fc6ccbefbf639d1","type":"file","file":"Fourier Series.md","x":-410,"y":-1470,"width":640,"height":1060},
