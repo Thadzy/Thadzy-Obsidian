@@ -34,16 +34,6 @@
               "icon": "lucide-file",
               "title": "Infinite Series"
             }
-          },
-          {
-            "id": "be45622e8e0827b9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ]
       }
@@ -226,8 +216,8 @@
   "active": "7bccf362e1021013",
   "lastOpenFiles": [
     "Infinite Series.md",
-    "Sequence.md",
     "Math Induction.md",
+    "Sequence.md",
     "Typedef and type aliases.md",
     "Rounding Floating Point.md",
     "Loop.md",
