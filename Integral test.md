@@ -7,6 +7,5 @@ $$\int_1^\infty f(x)dx = \infty = Diverge$$
 1. Positive?
 2. Continuous?
 3. Decreasing? (Taking the first Derivative)
-
-Next 
-$$\lim_{b\$$
+4. 
+$$\lim_{b\to\infty}\int_1^bf(x)dx$$
