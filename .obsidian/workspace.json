@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Integral test.md",
+                "file": "Direct Comparison Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integral test"
+              "title": "Direct Comparison Test"
             }
           },
           {
@@ -66,8 +66,7 @@
               "title": "Calculus 2"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ratio Test.md",
+                "file": "Direct Comparison Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ratio Test"
+              "title": "Outline of Direct Comparison Test"
             }
           }
         ]
@@ -245,11 +244,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "029cc7f397d9efd9",
+  "active": "49821e66995793ad",
   "lastOpenFiles": [
     "Integral test.md",
-    "Ratio Test.md",
     "Calculus 2.canvas",
+    "Ratio Test.md",
     "Alternating Series.md",
     "Circular Motion.md",
     "Direct Comparison Test.md",
