@@ -53,9 +53,9 @@
               "state": {
                 "file": "Calculus 2.canvas",
                 "viewState": {
-                  "x": 647.3292753811081,
-                  "y": -103.64557067597488,
-                  "zoom": -1.2000000000000002
+                  "x": 1320,
+                  "y": -628,
+                  "zoom": -1.6
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -215,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Induction.md",
+                "file": "Sequence.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Math Induction"
+              "title": "Outline of Sequence"
             }
           }
         ]
