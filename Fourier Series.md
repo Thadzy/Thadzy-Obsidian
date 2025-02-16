@@ -3,4 +3,6 @@
 
 ## Step 
 1. Find L
-2. 
+2. Draw graph
+3. f(x) is odd or even
+	1. if even
