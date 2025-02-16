@@ -1,1 +1,3 @@
-1,2,3,4 ... ${a_n}_n=1$
+If limit has value L is "Converge"
+Else "Diverge"
+
