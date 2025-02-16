@@ -25,10 +25,24 @@
             "id": "3a01c4ed3ac39918",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Alternating Series.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Alternating Series"
+            }
+          },
+          {
+            "id": "029cc7f397d9efd9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -211,6 +225,7 @@
   },
   "active": "49821e66995793ad",
   "lastOpenFiles": [
+    "Alternating Series.md",
     "Ratio Test.md",
     "Circular Motion.md",
     "Integral test.md",
