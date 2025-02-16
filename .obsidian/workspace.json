@@ -39,14 +39,17 @@
             "id": "86c47b759d6fd63c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Absolute Convergence.md",
-                "mode": "source",
-                "source": false
+                "file": "Calculus 2.canvas",
+                "viewState": {
+                  "x": 1010,
+                  "y": 614.6842047824229,
+                  "zoom": -0.5981378894688896
+                }
               },
-              "icon": "lucide-file",
-              "title": "Absolute Convergence"
+              "icon": "lucide-layout-dashboard",
+              "title": "Calculus 2"
             }
           },
           {
@@ -100,26 +103,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "26f9ef8e6bc343d2",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Calculus 2.canvas",
-                "viewState": {
-                  "x": 633.6260103610932,
-                  "y": 731.9741036963608,
-                  "zoom": -0.14051227362227348
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Calculus 2"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -297,20 +283,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "26f9ef8e6bc343d2",
+  "active": "86c47b759d6fd63c",
   "lastOpenFiles": [
+    "Absolute Convergence.md",
+    "Alternating Series.md",
+    "Infinite Series.md",
+    "Calculus 2.canvas",
     "Fourier Series.md",
     "Pasted image 20250216170206.png",
     "Taylor & Maclaurin Series.md",
     "Pasted image 20250216165636.png",
     "Power Series.md",
-    "Absolute Convergence.md",
-    "Alternating Series.md",
     "Ratio Test.md",
     "Limit Comparison Test.md",
     "Direct Comparison Test.md",
-    "Infinite Series.md",
-    "Calculus 2.canvas",
     "Integral test.md",
     "Circular Motion.md",
     "Sequence.md",
