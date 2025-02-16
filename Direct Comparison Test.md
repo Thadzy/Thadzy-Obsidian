@@ -6,4 +6,4 @@ $$b_n \geq a_n > 0$$
 Then use p-series or geometric series
 ## Step
 1. Divided to an and bn $n^p$
-2. p-series of geometric series 
+2. p-series of geometric series $r^n$
