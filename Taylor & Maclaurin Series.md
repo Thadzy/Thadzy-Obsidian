@@ -4,5 +4,6 @@
 Represent a = 0
 
 ## Step
-1.Find the derivative
+1. Find the derivative
+2. Format in n format
 

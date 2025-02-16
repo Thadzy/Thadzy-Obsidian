@@ -76,9 +76,19 @@
               "icon": "lucide-file",
               "title": "Taylor & Maclaurin Series"
             }
+          },
+          {
+            "id": "cba4f5bc500985f6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -230,13 +240,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Taylor & Maclaurin Series.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Taylor & Maclaurin Series"
+              "title": "Outline"
             }
           }
         ]
@@ -256,10 +265,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70644a99fd7e1f7f",
+  "active": "cba4f5bc500985f6",
   "lastOpenFiles": [
-    "Pasted image 20250216165636.png",
     "Taylor & Maclaurin Series.md",
+    "Pasted image 20250216165636.png",
     "Power Series.md",
     "Absolute Convergence.md",
     "Alternating Series.md",
@@ -294,7 +303,6 @@
     "Pasted image 20250103172933.png",
     "Pasted image 20250103172538.png",
     "Pasted image 20250103172403.png",
-    "Pasted image 20250103172357.png",
-    "Pasted image 20250103172138.png"
+    "Pasted image 20250103172357.png"
   ]
 }
