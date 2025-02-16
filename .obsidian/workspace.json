@@ -90,6 +90,16 @@
               "icon": "lucide-file",
               "title": "Fourier Series"
             }
+          },
+          {
+            "id": "2070751735b8a730",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
         "currentTab": 5
@@ -272,8 +282,8 @@
   },
   "active": "cba4f5bc500985f6",
   "lastOpenFiles": [
-    "Pasted image 20250216170206.png",
     "Fourier Series.md",
+    "Pasted image 20250216170206.png",
     "Taylor & Maclaurin Series.md",
     "Pasted image 20250216165636.png",
     "Power Series.md",
@@ -308,7 +318,6 @@
     "Pasted image 20250103172935.png",
     "Pasted image 20250103172933.png",
     "Pasted image 20250103172538.png",
-    "Pasted image 20250103172403.png",
-    "Pasted image 20250103172357.png"
+    "Pasted image 20250103172403.png"
   ]
 }
