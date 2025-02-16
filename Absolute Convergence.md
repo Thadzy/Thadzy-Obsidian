@@ -1,6 +1,6 @@
 #Calculus #Calculus2 
 $\Sigma_{n=1}^\infty |a_n|$ => C then $\Sigma a_n$ => C "Absolute Convergent"
 
-$\Sigma |a_n|$ => D, $\Sigma a_n$ => C ""
+$\Sigma |a_n|$ => D, $\Sigma a_n$ => C "Conditionally Convergent"
 
-$\Sigma_{n=1}^\infty |a_n|$ => C then $\Sigma a_n$ => C "Absolute Convergent"
+$\Sigma |a_n|$ => D, $\Sigma a_n$ => D "Divergent"
