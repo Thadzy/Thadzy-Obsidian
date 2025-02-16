@@ -1,2 +1,3 @@
 ## geometric series
-$$\Sig$$
+$$\Sigma_{n=1}^\infty ar^{n-1}$$
+|r| < 1 => Converge
