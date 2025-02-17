@@ -8,30 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2070751735b8a730",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Calculus 2.canvas",
-                "viewState": {
-                  "x": 1010,
-                  "y": -161.5,
-                  "zoom": -1.5981378894688896
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Calculus 2"
-            }
-          },
-          {
             "id": "52018cea25345ac6",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -186,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus 2.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Calculus 2"
+              "title": "Outline"
             }
           }
         ]
@@ -212,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2070751735b8a730",
+  "active": "52018cea25345ac6",
   "lastOpenFiles": [
     "Calculus 2.canvas",
     "Absolute Convergence.md",
