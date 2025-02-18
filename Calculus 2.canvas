@@ -1,16 +1,16 @@
 {
 	"nodes":[
-		{"id":"be5fc4a2b6632c53","type":"file","file":"Integral test.md","x":400,"y":-360,"width":680,"height":840},
-		{"id":"04b675de6dbc88a7","type":"file","file":"Sequence.md","x":1120,"y":-800,"width":400,"height":344},
-		{"id":"0fea95e32ca783b1","type":"file","file":"Direct Comparison Test.md","x":2080,"y":-660,"width":580,"height":520},
-		{"id":"da44a1382de02ffe","type":"file","file":"Limit Comparison Test.md","x":2080,"y":-80,"width":560,"height":520},
 		{"id":"8c46d868d2b87111","type":"file","file":"Math Induction.md","x":880,"y":-1440,"width":880,"height":500},
 		{"id":"041a5dfad6ba4e0c","type":"file","file":"Taylor & Maclaurin Series.md","x":-640,"y":-289,"width":870,"height":698},
 		{"id":"5fc6ccbefbf639d1","type":"file","file":"Fourier Series.md","x":-410,"y":-1470,"width":640,"height":1060},
 		{"id":"1eaca77ff75734b9","type":"file","file":"Power Series.md","x":-170,"y":560,"width":400,"height":238},
-		{"id":"c5c0a31294ea610a","type":"file","file":"Absolute Convergence.md","x":400,"y":560,"width":630,"height":587},
-		{"id":"4fd2e2f0b64e2a61","type":"file","file":"Ratio Test.md","x":1185,"y":-280,"width":560,"height":580},
-		{"id":"1e65eaa92ee86ca0","type":"file","file":"Alternating Series.md","x":1185,"y":440,"width":590,"height":529}
+		{"id":"04b675de6dbc88a7","type":"file","file":"Sequence.md","x":2170,"y":-1004,"width":400,"height":344},
+		{"id":"1e65eaa92ee86ca0","type":"file","file":"Alternating Series.md","x":1915,"y":758,"width":590,"height":529},
+		{"id":"c5c0a31294ea610a","type":"file","file":"Absolute Convergence.md","x":1130,"y":878,"width":630,"height":587},
+		{"id":"4fd2e2f0b64e2a61","type":"file","file":"Ratio Test.md","x":1760,"y":-560,"width":560,"height":580},
+		{"id":"be5fc4a2b6632c53","type":"file","file":"Integral test.md","x":980,"y":-560,"width":680,"height":840},
+		{"id":"0fea95e32ca783b1","type":"file","file":"Direct Comparison Test.md","x":2570,"y":-530,"width":580,"height":520},
+		{"id":"da44a1382de02ffe","type":"file","file":"Limit Comparison Test.md","x":2570,"y":80,"width":580,"height":520}
 	],
 	"edges":[
 		{"id":"7595059ca6ce1c36","fromNode":"04b675de6dbc88a7","fromSide":"bottom","toNode":"be5fc4a2b6632c53","toSide":"top"},
