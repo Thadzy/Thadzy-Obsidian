@@ -31,8 +31,7 @@
               "title": "Vector"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vector.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vector"
+              "title": "Outline"
             }
           }
         ]
@@ -211,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79a9ea8161fd8966",
+  "active": "a73ab99c456fb8a7",
   "lastOpenFiles": [
     "Vector.md",
     "Taylor & Maclaurin Series.md",
