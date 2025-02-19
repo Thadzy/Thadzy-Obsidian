@@ -135,12 +135,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Referance.md",
+                "file": "Reference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Referance"
+              "title": "Reference"
             }
           }
         ],
@@ -297,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Referance.md",
+                "file": "Reference.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Referance"
+              "title": "Outline of Reference"
             }
           }
         ]
@@ -326,7 +326,7 @@
   "active": "c74e28f37f4f21eb",
   "lastOpenFiles": [
     "Miscellaneous.md",
-    "Referance.md",
+    "Reference.md",
     "Pointer.md",
     "Object-Oriented Programming (OOP).md",
     "Arrays.md",
