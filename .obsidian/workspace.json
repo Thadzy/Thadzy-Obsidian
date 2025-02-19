@@ -142,9 +142,19 @@
               "icon": "lucide-file",
               "title": "Reference"
             }
+          },
+          {
+            "id": "9a27532987968a94",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -297,13 +307,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reference.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reference"
+              "title": "Outline"
             }
           }
         ]
@@ -323,10 +332,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c74e28f37f4f21eb",
+  "active": "9a27532987968a94",
   "lastOpenFiles": [
-    "Miscellaneous.md",
     "Reference.md",
+    "Miscellaneous.md",
     "Pointer.md",
     "Object-Oriented Programming (OOP).md",
     "Arrays.md",
