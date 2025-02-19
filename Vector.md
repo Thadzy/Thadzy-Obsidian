@@ -80,3 +80,6 @@ vector<string> cars = {"Volvo", "BMW", "Ford", "Mazda"};
 cout << cars.size();
 ```
 
+## All Member Functions of Vector
+
+Following is the list of all member functions of std::vector class in C++:
