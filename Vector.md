@@ -16,6 +16,14 @@ for (string car : cars) {
   cout << car << "\n";  
 }
 ```
+or for-each loop
+```cpp
+vector<string> cars = {"Volvo", "BMW", "Ford", "Mazda"};  
+  
+for (string car : cars) {  
+  cout << car << "\n";  
+}
+```
 ## Access a vector
 ```cpp
 vector<string> cars = {"Volvo", "BMW", "Ford", "Mazda"};  
@@ -61,5 +69,14 @@ cars.push_back("Mini");
 ```
 
 ### Remove Vector Elements
+```cpp
+vector<string> cars = {"Volvo", "BMW", "Ford", "Mazda"};  
+cars.pop_back();
 ```
+
+## Vector Size
+```cpp
+vector<string> cars = {"Volvo", "BMW", "Ford", "Mazda"};  
+cout << cars.size();
 ```
+
