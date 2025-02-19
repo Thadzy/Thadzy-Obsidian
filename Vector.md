@@ -44,7 +44,19 @@ vector<string> cars = {"Volvo", "BMW", "Ford", "Mazda"};
 cars[0] = "Opel";  
 cout << cars[0];  // Now outputs Opel instead of Volvo
 ```
+However, it is safer to use the `.at()` function:
+```cpp
+vector<string> cars = {"Volvo", "BMW", "Ford", "Mazda"};
 
-
-
+cars.at(0) = "Opel";  
+cout << cars.at(0);  // Now outputs Opel instead of Volvo
+```
+### Add Vector Elements
+```cpp
+vector<string> cars = {"Volvo", "BMW", "Ford", "Mazda"};  
+cars.push_back("Tesla");  
+cars.push_back("VW");  
+cars.push_back("Mitsubishi");  
+cars.push_back("Mini");
+```
 
