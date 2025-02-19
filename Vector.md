@@ -119,3 +119,4 @@ Following is the list of all member functions of std::vector class in C++:
 | `get_allocator` | Returns a copy of the allocator object associated with the vector. |
 
 
+![[Pasted image 20250219235305.png]]
