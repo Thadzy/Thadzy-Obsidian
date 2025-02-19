@@ -60,4 +60,6 @@ cars.push_back("Mitsubishi");
 cars.push_back("Mini");
 ```
 
-
+### Remove Vector Elements
+```
+```
