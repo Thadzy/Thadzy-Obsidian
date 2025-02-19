@@ -37,6 +37,13 @@ vector<string> cars = {"Volvo", "BMW", "Ford", "Mazda"};
 cout << cars.at(1);   
 cout << cars.at(2);
 ```
+### Change a Vector Element
+```cpp
+vector<string> cars = {"Volvo", "BMW", "Ford", "Mazda"}; 
+
+cars[0] = "Opel";  
+cout << cars[0];  // Now outputs Opel instead of Volvo
+```
 
 
 
