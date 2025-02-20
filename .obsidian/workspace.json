@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New note.md",
+                "file": "Templates/New Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New note"
+              "title": "New Note"
             }
           }
         ],
@@ -212,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New note.md",
+                "file": "Templates/New Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of New note"
+              "title": "Outline of New Note"
             }
           }
         ]
@@ -240,7 +240,7 @@
   },
   "active": "7f41fc7ae36bffe0",
   "lastOpenFiles": [
-    "New note.md",
+    "Templates/New Note.md",
     "Templates",
     "Untitled.md",
     "2D, 3D Motion.md",
