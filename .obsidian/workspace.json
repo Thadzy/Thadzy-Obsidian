@@ -34,6 +34,16 @@
               "icon": "lucide-file",
               "title": "Vector"
             }
+          },
+          {
+            "id": "9d37754483413f2c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -215,8 +225,8 @@
   },
   "active": "67ddb46be89eaa0e",
   "lastOpenFiles": [
-    "Vector.md",
     "2D, 3D Motion.md",
+    "Vector.md",
     "Absolute Convergence.md",
     "1D Motion.md",
     "Work and Energy.md",

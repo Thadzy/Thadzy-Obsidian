@@ -3,6 +3,7 @@
 [[Projectile Motion]]
 [[Circular Motion]]
 [[Vector]]
+
 ![[Pasted image 20250103172935.png | 600]]
 ## How to calculate?
 $$ v = \frac{d}{dt}r = \frac{d}{dt}(xi + yj) = \frac{d}{dt}(xi)+\frac{d}{dt}(yj)$$
