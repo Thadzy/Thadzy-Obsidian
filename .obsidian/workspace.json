@@ -44,9 +44,19 @@
               "icon": "lucide-file",
               "title": "SeenTwice"
             }
+          },
+          {
+            "id": "4297817e0ce2961c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,13 +208,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SeenTwice.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SeenTwice"
+              "title": "Outline"
             }
           }
         ]
@@ -224,8 +233,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ff31fb1f0bb5a2c",
+  "active": "4297817e0ce2961c",
   "lastOpenFiles": [
+    "SeenTwice.md",
     "Reference.md",
     "Miscellaneous.md",
     "Pointer.md",
@@ -235,7 +245,6 @@
     "Functions.md",
     "Control Structures.md",
     "Vector.md",
-    "SeenTwice.md",
     "MinRemoval.md",
     "User Defined Data Types in C++.md",
     "Pasted image 20250219235305.png",
