@@ -12,4 +12,5 @@ $$ v = v_xi + v_yi $$
 $$ v_x = \frac{dx}{dt}, v_y = \frac{dy}{dt}$$
 $$v = \sqrt{v_i^2+v_j^2}$$
 $$θ = tan^{-1}(\frac{v_i}{v_j})$$
-Everything is similar to 1D motion but divided into calculations across 2 or 3 axes.
+**Everything is similar to 1D motion but divided into calculations across 2 or 3 axes.**
+
