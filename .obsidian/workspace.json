@@ -226,13 +226,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arrays.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Arrays"
+              "title": "Outline"
             }
           }
         ]
@@ -252,7 +251,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0df4fe9673256e86",
+  "active": "068bb0b4a6ab214f",
   "lastOpenFiles": [
     "Arrays.md",
     "Pasted image 20250220161437.png",
