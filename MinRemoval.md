@@ -1,4 +1,4 @@
-#cpp #coding
+#cpp #coding #Medium
 ```cpp
 #include <iostream>
 #include <string>
