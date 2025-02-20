@@ -53,5 +53,37 @@ Example 2 = DeliveryMan(&ex2,2,3) : Output = "Pokpong"
 - ถ้า code สามารถรันได้ จะมีผลลัพธ์แสดงอยู่ใน `result.out` ซึ่งจะแจ้งให้ทราบว่าผ่านหรือไม่ผ่านเทสอะไร
 - ถ้าใครติดปัญหาเรื่อง Permission บน Windows ให้รัน `Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope CurrentUser` ก่อน
 ```cpp
+#include <iostream>
+#include <vector>
+#include <string>
+
+std::string DeliveryMan(std::vector<std::string> *customers, int shift, int to_deliver) {
+    if (!customers || customers->empty()) return "Wrong Input";
+    int n = customers->size();
+    
+    if (to_deliver < 1 || to_deliver > n) return "Wrong Input";
+    
+    // Normalize shift to be within range
+    shift = (shift % n + n) % n;  // Ensures shift is positive and within range
+    
+    // Rotate the vector to the right by `shift`
+    std::vector<std::string> rotated(n);
+    for (int i = 0; i < n; i++) {
+        rotated[(i + shift) % n] = (*customers)[i];
+    }
+    
+    // Return the customer at the given position (1-based index)
+    return rotated[to_deliver - 1];
+}
+
+int main() {
+    std::vector<std::string> ex1 = {"Joy", "Title", "Junggun", "Yuth", "Ben"};
+    std::cout << DeliveryMan(&ex1, 5, 2) << std::endl; // Output: "Title"
+    
+    std::vector<std::string> ex2 = {"Pokpong", "Fifa", "Baipor", "Hertz", "Games", "Gang"};
+    std::cout << DeliveryMan(&ex2, 2, 3) << std::endl; // Output: "Pokpong"
+    
+    return 0;
+}
 
 ```
