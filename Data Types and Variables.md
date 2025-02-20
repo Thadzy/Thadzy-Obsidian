@@ -1,5 +1,4 @@
 #cpp 
-[[Derived Data Types in C++]]
 [[User Defined Data Types in C++]]
 
 ```cpp
