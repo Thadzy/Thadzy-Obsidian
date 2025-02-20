@@ -25,5 +25,4 @@ int main() {
     std::cout << MinRemoval("0000") << std::endl;  // Output: 0
     return 0;
 }
-
 ```
