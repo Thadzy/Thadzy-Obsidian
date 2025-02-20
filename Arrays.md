@@ -15,3 +15,11 @@ Array is the list used to store multiple values of similar data types in a conti
 - An array can have multiple dimensions.
 - The size of the array in bytes can be determined by the sizeof operator using which we can also find the number of elements in the array.
 - We can find the size of the type of elements stored in an array by subtracting adjacent addresses.
+## Array Declaration in C++
+```cpp
+data_type array_name[Size_of_array];
+```
+
+```cpp
+
+```
