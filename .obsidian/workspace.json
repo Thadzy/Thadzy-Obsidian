@@ -8,205 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a27532987968a94",
+            "id": "67ddb46be89eaa0e",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "c1755d7f413b12c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MinRemoval.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MinRemoval"
-            }
-          },
-          {
-            "id": "0ff31fb1f0bb5a2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SeenTwice.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SeenTwice"
-            }
-          },
-          {
-            "id": "4297817e0ce2961c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MaxPoints.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MaxPoints"
-            }
-          },
-          {
-            "id": "5950670f54c65f08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music Playlist.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Music Playlist"
-            }
-          },
-          {
-            "id": "851a6e2ebc44c003",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chopsticks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chopsticks"
-            }
-          },
-          {
-            "id": "4b5b9ecd0ef220a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MissingValue.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MissingValue"
-            }
-          },
-          {
-            "id": "364ff34d50bacaad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chopsticks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chopsticks"
-            }
-          },
-          {
-            "id": "0acda818ee765fc1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "b749d0a6cc93af73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DeliveryMan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DeliveryMan"
-            }
-          },
-          {
-            "id": "281c474869ba7bab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music Playlist.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Music Playlist"
-            }
-          },
-          {
-            "id": "fcfd9a9c463ffa08",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "e0825eb3f3ad94b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music Playlist.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Music Playlist"
-            }
-          },
-          {
-            "id": "d68bdd79f84f7807",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chopsticks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chopsticks"
-            }
-          },
-          {
-            "id": "65cb7068ef3e9d8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Music Playlist.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Music Playlist"
             }
           }
-        ],
-        "currentTab": 14
+        ]
       }
     ],
     "direction": "vertical"
@@ -358,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music Playlist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Music Playlist"
+              "title": "Outline"
             }
           }
         ]
@@ -384,16 +194,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65cb7068ef3e9d8a",
+  "active": "67ddb46be89eaa0e",
   "lastOpenFiles": [
+    "Work and Energy.md",
+    "Vector.md",
+    "User Defined Data Types in C++.md",
+    "Type Conversation.md",
     "Miscellaneous.md",
+    "SeenTwice.md",
+    "MinRemoval.md",
+    "Music Playlist.md",
     "MissingValue.md",
     "MaxPoints.md",
     "DeliveryMan.md",
     "Chopsticks.md",
-    "Music Playlist.md",
-    "SeenTwice.md",
-    "MinRemoval.md",
     "Reference.md",
     "Pointer.md",
     "Object-Oriented Programming (OOP).md",
@@ -401,8 +215,6 @@
     "Operators.md",
     "Functions.md",
     "Control Structures.md",
-    "Vector.md",
-    "User Defined Data Types in C++.md",
     "Pasted image 20250219235305.png",
     "Taylor & Maclaurin Series.md",
     "Fourier Series.md",
@@ -414,8 +226,6 @@
     "Pasted image 20250216170206.png",
     "Pasted image 20250216165636.png",
     "Ratio Test.md",
-    "Limit Comparison Test.md",
-    "Direct Comparison Test.md",
     "Untitled 1.canvas",
     "Pasted image 20250103173257.png",
     "Pasted image 20250103173122.png",
