@@ -44,23 +44,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "7f41fc7ae36bffe0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/New Note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "New Note"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/New Note.md",
+                "file": "2D, 3D Motion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of New Note"
+              "title": "Outline of 2D, 3D Motion"
             }
           }
         ]
@@ -238,13 +223,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f41fc7ae36bffe0",
+  "active": "67ddb46be89eaa0e",
   "lastOpenFiles": [
+    "Vector.md",
     "Templates/New Note.md",
     "Templates",
     "Untitled.md",
     "2D, 3D Motion.md",
-    "Vector.md",
     "Absolute Convergence.md",
     "1D Motion.md",
     "Work and Energy.md",
