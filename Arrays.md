@@ -21,5 +21,5 @@ data_type array_name[Size_of_array];
 ```
 
 ```cpp
-
+int arr[5];
 ```
