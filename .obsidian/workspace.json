@@ -72,9 +72,23 @@
               "icon": "lucide-file",
               "title": "Music Playlist"
             }
+          },
+          {
+            "id": "851a6e2ebc44c003",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chopsticks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chopsticks"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -226,13 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Music Playlist.md",
+                "file": "Chopsticks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Music Playlist"
+              "title": "Outline of Chopsticks"
             }
           }
         ]
@@ -252,8 +266,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5950670f54c65f08",
+  "active": "851a6e2ebc44c003",
   "lastOpenFiles": [
+    "Chopsticks.md",
     "Music Playlist.md",
     "MaxPoints.md",
     "SeenTwice.md",
@@ -283,7 +298,6 @@
     "Direct Comparison Test.md",
     "Integral test.md",
     "Circular Motion.md",
-    "Sequence.md",
     "Untitled 1.canvas",
     "Pasted image 20250103173257.png",
     "Pasted image 20250103173122.png",

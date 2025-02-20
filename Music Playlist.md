@@ -1,3 +1,4 @@
+#cpp #coding #hard 
 # MusicPlaylist -- Silver
 ## Description
 อาจารย์รับงานช่วยเขียนโปรแกรมเพื่อสร้าง playlist มา โดยผู้ใช้จะให้รายชื่อเพลงทั้งหมดที่มี (all_songs), ชื่อเพลงที่ชอบ (selected_song), และจำนวนเพลงที่ต้องการ (n) โดยมีข้อกำหนดว่าให้สร้าง playlist โดยใช้เพลงใน all_songs ที่มีความใกล้เคียงกับ selected_song มากที่สุด n ลำดับแรก โดยมีการเปรียบเทียบด้วยเกณฑ์ดังนี้ (เรียงจากสำคัญมากที่สุดไปน้อยที่สุด)
@@ -46,7 +47,6 @@
 #include <string>
 #include <algorithm>
 #include <unordered_map>
-
 // Helper function to count vowels and store order
 std::pair<std::unordered_map<char, int>, std::string> count_vowels(const std::string &song) {
     std::unordered_map<char, int> vowel_count;
