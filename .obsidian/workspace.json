@@ -195,10 +195,14 @@
             "id": "65cb7068ef3e9d8a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Music Playlist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Music Playlist"
             }
           }
         ],
@@ -255,8 +259,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "03499f87de817a49",
@@ -355,12 +358,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Music Playlist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Music Playlist"
             }
           }
         ]
@@ -382,15 +386,15 @@
   },
   "active": "65cb7068ef3e9d8a",
   "lastOpenFiles": [
-    "Chopsticks.md",
-    "Music Playlist.md",
-    "DeliveryMan.md",
-    "SeenTwice.md",
+    "Miscellaneous.md",
     "MissingValue.md",
     "MaxPoints.md",
+    "DeliveryMan.md",
+    "Chopsticks.md",
+    "Music Playlist.md",
+    "SeenTwice.md",
     "MinRemoval.md",
     "Reference.md",
-    "Miscellaneous.md",
     "Pointer.md",
     "Object-Oriented Programming (OOP).md",
     "Arrays.md",
