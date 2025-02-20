@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2D, 3D Motion.md",
+                "file": "Circular Motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2D, 3D Motion"
+              "title": "Circular Motion"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vector.md",
+                "file": "Data Types and Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vector"
+              "title": "Data Types and Variables"
             }
           },
           {
@@ -45,7 +45,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2D, 3D Motion.md",
+                "file": "Data Types and Variables.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2D, 3D Motion"
+              "title": "Outline of Data Types and Variables"
             }
           }
         ]
@@ -223,14 +224,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67ddb46be89eaa0e",
+  "active": "55ad28449fb5a576",
   "lastOpenFiles": [
+    "Control Structures.md",
+    "Data Types and Variables.md",
     "Vector.md",
+    "Circular Motion.md",
+    "Calculus 2.canvas",
+    "Basic Syntax and Structure.md",
+    "Arrays.md",
+    "Alternating Series.md",
+    "Absolute Convergence.md",
+    "2D, 3D Motion.md",
     "Templates/New Note.md",
     "Templates",
     "Untitled.md",
-    "2D, 3D Motion.md",
-    "Absolute Convergence.md",
     "1D Motion.md",
     "Work and Energy.md",
     "User Defined Data Types in C++.md",
@@ -246,14 +254,7 @@
     "Reference.md",
     "Pointer.md",
     "Object-Oriented Programming (OOP).md",
-    "Arrays.md",
-    "Operators.md",
-    "Functions.md",
-    "Control Structures.md",
     "Pasted image 20250219235305.png",
-    "Taylor & Maclaurin Series.md",
-    "Fourier Series.md",
-    "Calculus 2.canvas",
     "Pasted image 20250216170206.png",
     "Pasted image 20250216165636.png",
     "Untitled 1.canvas",
