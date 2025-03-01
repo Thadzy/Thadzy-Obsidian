@@ -1,4 +1,4 @@
-#cpp 
+cpp 
 # Vector in Computer
 ## Introduction
 Vector is the array that can resize and must have the same type
