@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -251,7 +251,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "068bb0b4a6ab214f",
+  "active": "bced4c9bc6389b19",
   "lastOpenFiles": [
     "Arrays.md",
     "Pasted image 20250220161437.png",
