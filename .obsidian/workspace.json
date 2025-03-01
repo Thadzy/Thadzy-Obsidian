@@ -25,10 +25,14 @@
             "id": "8c4a3082a75e411c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Taylor & Maclaurin Series.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Taylor & Maclaurin Series"
             }
           }
         ],
@@ -184,12 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Taylor & Maclaurin Series.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Taylor & Maclaurin Series"
             }
           }
         ]
