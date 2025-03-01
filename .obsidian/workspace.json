@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Fourier Series"
             }
+          },
+          {
+            "id": "8c4a3082a75e411c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,13 +184,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fourier Series.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fourier Series"
+              "title": "Outline"
             }
           }
         ]
@@ -199,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7319a9fdf53d87ff",
+  "active": "8c4a3082a75e411c",
   "lastOpenFiles": [
-    "Friction.md",
     "Fourier Series.md",
+    "Friction.md",
     "Direct Comparison Test.md",
     "Circular Motion.md",
     "Calculus 2.canvas",
