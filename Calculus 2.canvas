@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"75c467940bcfc5bf","x":2924,"y":-279,"width":400,"height":400,"type":"file","file":"Taylor & Maclaurin Series.md"},
 		{"id":"04b675de6dbc88a7","type":"file","file":"Sequence.md","x":2170,"y":-1004,"width":400,"height":344},
 		{"id":"4fd2e2f0b64e2a61","type":"file","file":"Ratio Test.md","x":2100,"y":-520,"width":560,"height":580},
 		{"id":"be5fc4a2b6632c53","type":"file","file":"Integral test.md","x":1320,"y":-520,"width":680,"height":840},
@@ -11,7 +10,8 @@
 		{"id":"8c46d868d2b87111","type":"file","file":"Math Induction.md","x":1930,"y":-1600,"width":880,"height":500},
 		{"id":"ccfeba04c254d521","type":"file","file":"Taylor & Maclaurin Series.md","x":3600,"y":-490,"width":400,"height":400},
 		{"id":"a5a4fe0f8ba5918a","type":"file","file":"Fourier Series.md","x":3600,"y":12,"width":400,"height":400},
-		{"id":"8eed73f33213dab0","x":3090,"y":-1550,"width":510,"height":546,"type":"file","file":"Fourier Series.md"}
+		{"id":"8eed73f33213dab0","x":3090,"y":-1550,"width":510,"height":546,"type":"file","file":"Fourier Series.md"},
+		{"id":"75c467940bcfc5bf","x":3680,"y":-1435,"width":640,"height":317,"type":"file","file":"Taylor & Maclaurin Series.md"}
 	],
 	"edges":[
 		{"id":"7595059ca6ce1c36","fromNode":"04b675de6dbc88a7","fromSide":"bottom","toNode":"be5fc4a2b6632c53","toSide":"top"},

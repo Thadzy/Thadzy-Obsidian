@@ -8,20 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ecef5aabedac6f5",
+            "id": "dc8dca191daea293",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Calculus 2.canvas",
-                "viewState": {
-                  "x": 2924.238630723577,
-                  "y": -278.8523690534289,
-                  "zoom": -1.5895023848807153
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Calculus 2"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -176,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus 2.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Calculus 2"
+              "title": "Outline"
             }
           }
         ]
@@ -202,10 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ecef5aabedac6f5",
+  "active": "dc8dca191daea293",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Calculus 2.canvas",
+    "Untitled.canvas",
     "Taylor & Maclaurin Series.md",
     "Fourier Series.md",
     "Friction.md",
