@@ -1,4 +1,4 @@
-#cpp 
+cpp 
 [[User Defined Data Types in C++]]
 
 ```cpp

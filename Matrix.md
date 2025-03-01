@@ -1,4 +1,4 @@
-#cpp 
+cpp 
 A matrix in C++ is essentially a 2D array, where data is organized in rows and columns. Below is a cheatsheet for working with matrices in C++, including declaration, initialization, and common operations.
 
 ---

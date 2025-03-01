@@ -11,10 +11,14 @@
             "id": "985be6995d761fc4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Rounding Floating Point.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rounding Floating Point"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#coding",
+                "query": "tag:#cpp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "03499f87de817a49",
@@ -169,12 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Rounding Floating Point.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Rounding Floating Point"
             }
           }
         ]
@@ -196,13 +202,23 @@
   },
   "active": "985be6995d761fc4",
   "lastOpenFiles": [
+    "Reference.md",
+    "Pointer.md",
+    "Operators.md",
+    "Object-Oriented Programming (OOP).md",
+    "Name Space.md",
+    "Miscellaneous.md",
     "Matrix.md",
+    "Loop.md",
+    "Functions.md",
+    "Data Types and Variables.md",
+    "Control Structures.md",
+    "Basic Syntax and Structure.md",
     "Arrays.md",
     "Projectile Motion.md",
     "Friction.md",
     "Circular Motion.md",
     "Pasted image 20250220161437.png",
-    "Basic Syntax and Structure.md",
     "Vector.md",
     "Templates/New Note.md",
     "Alternating Series.md",
@@ -213,16 +229,6 @@
     "Type Conversation.md",
     "Taylor & Maclaurin Series.md",
     "Sequence.md",
-    "Rounding Floating Point.md",
-    "Reference.md",
-    "Ratio Test.md",
-    "Power Series.md",
-    "Pointer.md",
-    "Operators.md",
-    "Object-Oriented Programming (OOP).md",
-    "Newton's laws.md",
-    "Name Space.md",
-    "Miscellaneous.md",
     "Calculus 2.canvas",
     "Templates",
     "Pasted image 20250219235305.png",

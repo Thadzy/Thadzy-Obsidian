@@ -1,4 +1,4 @@
-#cpp 
+pp 
 # C++ Loops Cheatsheet
 
 This cheatsheet provides a quick reference to the different types of loops available in C++. Loops are used to execute a block of code repeatedly until a specified condition is met.
