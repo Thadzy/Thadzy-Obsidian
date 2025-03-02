@@ -5,6 +5,7 @@
 [[Vector]]
 
 ## Introduction
+2D, 3D Motion is the change with time of the position or orientation of a body.
 
 ![[Pasted image 20250103172935.png | 600]]
 ## Formular
