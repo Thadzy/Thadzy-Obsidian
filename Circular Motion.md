@@ -12,6 +12,7 @@ Circular motion is the movement of object move along the circumference of a circ
 - $f = \frac{1}{T}$
 - $T = \frac{1}{f}$
 ## Linear Speed 
+is the rate at which an object travels along a straight path
 
 $$v = \frac{2\pi r}{T} => v = \omega r$$
 ## Angular Velocity
