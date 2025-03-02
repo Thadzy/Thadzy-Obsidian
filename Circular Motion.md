@@ -20,7 +20,7 @@ Angular Velocity is a measure of how quickly an object rotates around a central 
 ![[Pasted image 20241022171857.png | 300]]
 $$\omega = \frac{d\theta}{dt} = \frac{2\pi}{T}$$
 > What is the different between v and w?
->> Linear speed measure how fast a point moves along th
+>> Linear speed measure how fast a point moves along the circular path but Angular velocity tell how fast is the object will complete one full rotation
 
 ## Centripetal acceleration
 $$a_c = \frac{v^2}{r} = \omega^2 r $$
