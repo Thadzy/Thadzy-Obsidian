@@ -1,5 +1,10 @@
-#Physics [[2D, 3D Motion]]
-# 1D Motion 
+---
+tags:
+  - Physics
+date: 2025-03-02
+---
+## Introduction 
+
 ## How to solve the problem in Physics
 1. What the problem given?
 2. Visualization
