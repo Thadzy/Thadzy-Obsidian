@@ -1,4 +1,10 @@
-#Physics 
+---
+tags:
+  - Physics
+date: 2025-03-02
+---
+## Introduction 
+
 
 ![[Pasted image 20241022171212.png]]
 **Why v is not constant?**

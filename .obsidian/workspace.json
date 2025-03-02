@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1D Motion.md",
+                "file": "Circular Motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1D Motion"
+              "title": "Circular Motion"
             }
           },
           {
@@ -48,8 +48,19 @@
               "icon": "lucide-file",
               "title": "New Templates"
             }
+          },
+          {
+            "id": "abc6fe80502974f2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -201,13 +212,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1D Motion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1D Motion"
+              "title": "Outline"
             }
           }
         ]
@@ -227,18 +237,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db133d1177ccb834",
+  "active": "abc6fe80502974f2",
   "lastOpenFiles": [
-    "2D, 3D Motion.md",
-    "Vectors.md",
-    "Projectile Motion.md",
     "Templates/New Templates.md",
-    "Kinematics.md",
     "Circular Motion.md",
     "Calculus 2.canvas",
     "Alternating Series.md",
     "Absolute Convergence.md",
+    "2D, 3D Motion.md",
     "1D Motion.md",
+    "Vectors.md",
+    "Projectile Motion.md",
+    "Kinematics.md",
     "Vector.md",
     "Untitled.canvas",
     "Taylor & Maclaurin Series.md",
@@ -256,7 +266,6 @@
     "Newton's laws.md",
     "Pointer.md",
     "Operators.md",
-    "Object-Oriented Programming (OOP).md",
     "Pasted image 20250220161437.png",
     "Templates",
     "Pasted image 20250219235305.png",
