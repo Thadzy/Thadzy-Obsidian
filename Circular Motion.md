@@ -22,7 +22,7 @@ $$\omega = \frac{d\theta}{dt} = \frac{2\pi}{T}$$
 >> Linear speed measure how fast a point moves along the circular path but Angular velocity tell how fast is the object will complete one full rotation
 
 ```
-If in the same sharp w is equal else gear 
+If in the same sharp w is equal else gear mesh v is equal
 ```
 
 ## Centripetal acceleration
