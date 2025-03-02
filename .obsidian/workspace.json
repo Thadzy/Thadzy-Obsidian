@@ -45,7 +45,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,13 +198,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Circular Motion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Circular Motion"
+              "title": "Outline"
             }
           }
         ]
@@ -223,10 +223,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db133d1177ccb834",
+  "active": "abc6fe80502974f2",
   "lastOpenFiles": [
-    "Templates/New Templates.md",
     "Circular Motion.md",
+    "Templates/New Templates.md",
     "Calculus 2.canvas",
     "Alternating Series.md",
     "Absolute Convergence.md",
