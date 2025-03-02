@@ -1,12 +1,11 @@
 ---
-tags: 
-date:
+tags:
+  - Physics
+date: 2025-03-02
 ---
-#Physics ## Introduction 
-
 ## Introduction
 2D, 3D Motion is the change with time of the position or orientation of a body.
-Has many type of motion translation see more in [[Kinematics]]. 
+Has many type of motion translation see more in [[Kinematics]]. and it's include [[Vector]] to represent the direction 
 
 ![[Pasted image 20250103172935.png | 600]]
 ## Equation
