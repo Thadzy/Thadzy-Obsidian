@@ -4,8 +4,7 @@ tags:
 date: 2025-03-02
 ---
 ## Introduction
-2D, 3D Motion is the change with time of the position or orientation of a body.
-Has many type of motion translation see more in [[Kinematics]]. and it's include [[Vector]] to represent the direction 
+2D and 3D motion refer to the change in position or orientation of a body over time. Motion can be classified into different types, including translational motion (see more in [[Kinematics]]). It also involves [[Vectors]] to represent direction and includes concepts such as [[Circular Motion]] and [[Projectile Motion]].
 
 ![[Pasted image 20250103172935.png | 600]]
 ## Equation
