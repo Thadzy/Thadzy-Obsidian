@@ -8,7 +8,7 @@
 2D, 3D Motion is the change with time of the position or orientation of a body.
 
 ![[Pasted image 20250103172935.png | 600]]
-## Formular
+## Formula
 $$ v = \frac{d}{dt}r = \frac{d}{dt}(xi + yj) = \frac{d}{dt}(xi)+\frac{d}{dt}(yj)$$
 $$= i\frac{dx}{dt}+ j \frac{dy}{dt} $$
 $$ v = v_xi + v_yi $$
