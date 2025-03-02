@@ -16,11 +16,11 @@ is the rate at which an object travels along a straight path
 
 $$v = \frac{2\pi r}{T} => v = \omega r$$
 ## Angular Velocity
-Angular Velocity is a measure of how quickly an object rotates around a central point or axis.
+Angular Velocity is a measure of how quickly an object rotates around a central point or axis. It describes how quickly an object completes one full rotation.
 ![[Pasted image 20241022171857.png | 300]]
 $$\omega = \frac{d\theta}{dt} = \frac{2\pi}{T}$$
 > What is the different between v and w?
->> 
+>> Linear speed measure how fast a point moves along th
 
 ## Centripetal acceleration
 $$a_c = \frac{v^2}{r} = \omega^2 r $$
