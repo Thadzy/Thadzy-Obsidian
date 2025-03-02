@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Circular Motion.md",
+                "file": "2D, 3D Motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Circular Motion"
+              "title": "2D, 3D Motion"
             }
           }
         ]
@@ -173,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Circular Motion.md",
+                "file": "2D, 3D Motion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Circular Motion"
+              "title": "Outline of 2D, 3D Motion"
             }
           }
         ]
@@ -201,6 +201,7 @@
   },
   "active": "db133d1177ccb834",
   "lastOpenFiles": [
+    "Circular Motion.md",
     "Calculus 2.canvas",
     "Alternating Series.md",
     "Absolute Convergence.md",
@@ -212,7 +213,6 @@
     "Fourier Series.md",
     "Friction.md",
     "Direct Comparison Test.md",
-    "Circular Motion.md",
     "Templates/New Note.md",
     "Type Conversation.md",
     "Sequence.md",
