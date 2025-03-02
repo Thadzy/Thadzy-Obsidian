@@ -5,7 +5,7 @@ date: 2025-03-02
 ---
 ## Introduction 
 Circular motion is the movement of object move along the circumference of a circle there are more 1 axis so it's is [[2D, 3D Motion]] and [[Vector]] represent the direction but even though it's the same size but different direction it's not equal
-
+![[Pasted image 20250302222256.png]]
 ## Properties of circle
 - Circle has 360 = 2π rad
 - Time use 1 round = period (T)
