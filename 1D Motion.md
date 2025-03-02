@@ -4,6 +4,7 @@ tags:
 date: 2025-03-02
 ---
 ## Introduction 
+1D motion refer to the change in position or orientation of a body over time. if in x and y it's call 2D
 
 ## How to solve the problem in Physics
 1. What the problem given?
