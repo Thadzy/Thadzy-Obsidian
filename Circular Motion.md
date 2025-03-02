@@ -1,8 +1,9 @@
 #Physics 
+
 ![[Pasted image 20241022171212.png]]
 **Why v is not constant?**
 *Ans* Because u != v even through size is the same but different direction
-
+## Properties of circle
 - Circle has 360 = 2π rad
 - Time use 1 round = period (T)
 - $f = \frac{1}{T}$
