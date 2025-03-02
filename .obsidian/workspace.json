@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Templates.md",
+                "file": "Templates/New Templates.md",
                 "mode": "source",
                 "source": false
               },
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Templates.md",
+                "file": "Templates/New Templates.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -228,10 +228,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "86e77e446e3b9d04",
+  "active": "8fcf9bc88e581a6b",
   "lastOpenFiles": [
     "Kinematics.md",
-    "New Templates.md",
+    "Templates/New Templates.md",
     "2D, 3D Motion.md",
     "Circular Motion.md",
     "Calculus 2.canvas",
