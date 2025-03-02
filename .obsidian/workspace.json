@@ -39,10 +39,14 @@
             "id": "abc6fe80502974f2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "1D Motion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1D Motion"
             }
           }
         ]
@@ -225,15 +229,15 @@
   },
   "active": "db133d1177ccb834",
   "lastOpenFiles": [
+    "1D Motion.md",
+    "Circular Motion.md",
     "Pasted image 20250302222256.png",
     "Kinematics.md",
-    "Circular Motion.md",
     "Templates/New Templates.md",
     "Calculus 2.canvas",
     "Alternating Series.md",
     "Absolute Convergence.md",
     "2D, 3D Motion.md",
-    "1D Motion.md",
     "Vectors.md",
     "Projectile Motion.md",
     "Vector.md",
@@ -263,7 +267,6 @@
     "Pasted image 20250103173122.png",
     "Pasted image 20250103173058.png",
     "Pasted image 20250103173037.png",
-    "Pasted image 20250103172935.png",
-    "Pasted image 20250103172933.png"
+    "Pasted image 20250103172935.png"
   ]
 }
