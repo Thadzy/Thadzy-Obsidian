@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "2D, 3D Motion"
             }
+          },
+          {
+            "id": "1b711d3a00aac110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kinematics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kinematics"
+            }
+          },
+          {
+            "id": "86e77e446e3b9d04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Templates.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "New Templates"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2D, 3D Motion.md",
+                "file": "New Templates.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2D, 3D Motion"
+              "title": "Outline of New Templates"
             }
           }
         ]
@@ -199,13 +228,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db133d1177ccb834",
+  "active": "86e77e446e3b9d04",
   "lastOpenFiles": [
+    "Kinematics.md",
+    "New Templates.md",
+    "2D, 3D Motion.md",
     "Circular Motion.md",
     "Calculus 2.canvas",
     "Alternating Series.md",
     "Absolute Convergence.md",
-    "2D, 3D Motion.md",
     "1D Motion.md",
     "Vector.md",
     "Untitled.canvas",
@@ -227,7 +258,6 @@
     "Operators.md",
     "Object-Oriented Programming (OOP).md",
     "Math Induction.md",
-    "Limit Comparison Test.md",
     "Pasted image 20250220161437.png",
     "Templates",
     "Pasted image 20250219235305.png",
