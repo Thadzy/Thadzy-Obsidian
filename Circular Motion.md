@@ -4,7 +4,7 @@ tags:
 date: 2025-03-02
 ---
 ## Introduction 
-Circular motion is the movement of object move along the circumference of a circle It can
+Circular motion is the movement of object move along the circumference of a circle It can be uniform with a constant rate of rotation and constant tangent speed
 
 ![[Pasted image 20241022171212.png]]
 **Why v is not constant?**
