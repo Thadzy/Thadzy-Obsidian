@@ -49,8 +49,7 @@
               "title": "New Templates"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/New Templates.md",
+                "file": "2D, 3D Motion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of New Templates"
+              "title": "Outline of 2D, 3D Motion"
             }
           }
         ]
@@ -228,10 +227,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fcf9bc88e581a6b",
+  "active": "db133d1177ccb834",
   "lastOpenFiles": [
-    "Kinematics.md",
     "Templates/New Templates.md",
+    "Kinematics.md",
     "2D, 3D Motion.md",
     "Circular Motion.md",
     "Calculus 2.canvas",

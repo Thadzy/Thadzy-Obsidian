@@ -1,4 +1,9 @@
-#Physics 
+---
+tags: 
+date:
+---
+#Physics ## Introduction 
+
 ## Introduction
 2D, 3D Motion is the change with time of the position or orientation of a body.
 Has many type of motion translation see more in [[Kinematics]]. 
