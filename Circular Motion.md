@@ -4,7 +4,7 @@ tags:
 date: 2025-03-02
 ---
 ## Introduction 
-
+**circular motion** is [movement](https://en.wikipedia.org/wiki/Motion "Motion") of an object along the [circumference](https://en.wikipedia.org/wiki/Circumference "Circumference") of a [circle](https://en.wikipedia.org/wiki/Circle "Circle") or [rotation](https://en.wikipedia.org/wiki/Rotation "Rotation") along a [circular arc](https://en.wikipedia.org/wiki/Circular_arc "Circular arc"). It can be uniform, with a constant [rate of rotation](https://en.wikipedia.org/wiki/Rate_of_rotation "Rate of rotation") and constant [tangential speed](https://en.wikipedia.org/wiki/Tangential_speed "Tangential speed"), or non-uniform with a changing rate of rotation.
 
 ![[Pasted image 20241022171212.png]]
 **Why v is not constant?**
