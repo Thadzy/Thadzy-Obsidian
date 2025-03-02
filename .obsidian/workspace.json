@@ -45,8 +45,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,12 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Circular Motion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Circular Motion"
             }
           }
         ]
@@ -223,8 +223,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abc6fe80502974f2",
+  "active": "db133d1177ccb834",
   "lastOpenFiles": [
+    "Kinematics.md",
     "Circular Motion.md",
     "Templates/New Templates.md",
     "Calculus 2.canvas",
@@ -234,7 +235,6 @@
     "1D Motion.md",
     "Vectors.md",
     "Projectile Motion.md",
-    "Kinematics.md",
     "Vector.md",
     "Untitled.canvas",
     "Taylor & Maclaurin Series.md",
