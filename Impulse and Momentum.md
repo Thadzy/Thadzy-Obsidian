@@ -61,3 +61,4 @@ After A = 8 B = 12 -> therefore B = 12-4 = 4 ->
 Therefore e = 4/7
 ![[Pasted image 20241023143452.png]]
 
+The impulse-momentum theorem is logically equivalent to [[Newton's laws]] of motion (the force law).
