@@ -8,9 +8,9 @@ date: 2025-03-03
 
 is a quantity that describes an object's resistance to stopping (a kind of "moving inertia"). -> tell the state of moving object
 $$p = mv$$
-###
+### [[Kinematics]] 
 $$KE = \frac{1}{2}mv^2\frac{m}{m}$$
-$p = mv$
+$p = mv$ thus; 
 $$KE = \frac{p^2}{2m}$$
 
 ![[Pasted image 20241023133829.png]]

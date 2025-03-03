@@ -11,16 +11,6 @@
             "id": "4aa6334736e6684b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "c3dfc2d061f4dd3f",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Impulse and Momentum.md",
@@ -31,8 +21,7 @@
               "title": "Impulse and Momentum"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,12 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3dfc2d061f4dd3f",
+  "active": "4aa6334736e6684b",
   "lastOpenFiles": [
     "Kinematics.md",
+    "Impulse and Momentum.md",
     "Friction.md",
     "Newton's laws.md",
-    "Impulse and Momentum.md",
     "Fourier Series.md",
     "Direct Comparison Test.md",
     "1D Motion.md",
