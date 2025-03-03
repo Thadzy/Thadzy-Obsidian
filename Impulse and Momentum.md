@@ -30,11 +30,21 @@ $$J = F\Delta t$$
 When one object hits another object in a short period of time. 
 
 ![[Pasted image 20250303111838.png]]
-
-## 
-Elastic collision
-An **elastic collision** is defined as a type of collision where both **momentum** and **kinetic energy** are conserved. This means that after the collision, the total kinetic energy of the colliding bodies remains the same, with no net loss or conversion of energy into other forms, such as heat or sound
-![[Pasted image 20241023140225.png]]
+## **Elastic Collision**
+- The shape of the objects does not change, and the total kinetic energy is conserved.
+- **Types**:
+	- **Perfectly Elastic Collision**: No loss of kinetic energy; examples include billiard balls.
+	- **Imperfectly Elastic Collision**: Some kinetic energy is lost, often converted into other forms like heat or sound.
+- **Characteristics**: Momentum and kinetic energy are conserved.
+## **Inelastic Collision**
+- **Definition**: The shape of the objects changes, or they stick together. Kinetic energy is not conserved.
+- **Characteristics**: Momentum is conserved, but kinetic energy decreases as it is converted into other forms like deformation or heat.
+## **Explosions**
+- **Definition**: Objects break apart or separate without external forces.
+- **Characteristics**: Momentum is conserved, but kinetic energy increases as other forms of energy are converted into kinetic energy.
+- **Types**:
+- **Explosion by Separation**: Objects separate into parts, such as shooting a gun.
+- **Relative Explosion**: Objects remain connected but move relative to each other, such as a person walking on a boat.
 ## Law of Conservation of Momentum
 The **Law of Conservation of Momentum** states that in an isolated system, the total momentum remains constant if no external forces act upon it. This principle is fundamental in physics and can be expressed mathematically as:
 $$m_1u_1+m_2u_2=m_1v_1+m_2v_2$$
