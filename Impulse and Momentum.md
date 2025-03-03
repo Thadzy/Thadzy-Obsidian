@@ -1,6 +1,11 @@
-#Physics 
-[[Work and Energy]]
-## Impulse and Momentum
+---
+tags:
+  - Physics
+date: 2025-03-03
+---
+## Introduction 
+
+
 
 ![[Pasted image 20241023005521.png]]
 ![[Pasted image 20241023133804.png]]
