@@ -20,28 +20,23 @@
               "icon": "lucide-file",
               "title": "Vector"
             }
-          }
-        ]
-      },
-      {
-        "id": "57f9b9711e9d07d6",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "02beb6e583bc7c11",
+            "id": "c4c65025638abdc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Vector Projectile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Vector Projectile"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "Vector Projectile.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Vector Projectile"
             }
           }
         ]
@@ -219,12 +214,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02beb6e583bc7c11",
+  "active": "c4c65025638abdc6",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Vector Projectile.md",
+    "Vector.md",
+    "Angle Direction.md",
+    "Angle Between Vector.md",
     "Cross Product.md",
     "Dot Product.md",
-    "Vector.md",
     "Work and Energy.md",
     "Taylor & Maclaurin Series.md",
     "Sequence.md",
@@ -247,14 +244,12 @@
     "Fourier Series.md",
     "Direct Comparison Test.md",
     "1D Motion.md",
-    "Circular Motion.md",
     "Pasted image 20250303104823.png",
     "Pasted image 20250303104809.png",
     "Pasted image 20250303104807.png",
     "Pasted image 20250302223123.png",
     "Pasted image 20250302223005.png",
     "Pasted image 20250302222256.png",
-    "Templates/New Templates.md",
     "Calculus 2.canvas",
     "Untitled.canvas",
     "Pasted image 20250220161437.png",
