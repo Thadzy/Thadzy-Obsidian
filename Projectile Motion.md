@@ -1,11 +1,19 @@
-#Physics 
+---
+tags:
+  - Physics
+date: 2025-03-03
+---
+## Introduction 
+
+
 ![[Pasted image 20241022165004.png | 700]]
 **How many force did to the projectile**
 *Ans* 1. mg 
 $$mg = ma$$
 $$a = g$$
+```
 Therefor projectile is freefall with acceleration
-
+```
 ### Horizontal Motion
 
 The horizontal motion occurs at a constant velocity since there are no horizontal forces acting on the projectile (neglecting air resistance):
