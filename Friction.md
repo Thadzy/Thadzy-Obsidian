@@ -1,5 +1,11 @@
-#Physics 
-[[Newton's laws]]
+---
+tags:
+  - Physics
+date: 2025-03-03
+---
+## Introduction 
+**friction**, [force](https://www.britannica.com/science/force-physics) that resists the sliding or rolling of one [solid](https://www.britannica.com/science/solid-state-of-matter) object over another. Frictional forces
+
 **Is it real the friction always the opposite direction with direction of movement?**
 *Ans* Not always for example the carpet case friction will make the object move above the carpet friction will resisting the effort of movement 
 **Is it real? if the object doesn't move there is no friction?**
