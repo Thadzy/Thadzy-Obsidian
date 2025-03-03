@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Newton's laws.md",
+                "file": "Projectile Motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Newton's laws"
+              "title": "Projectile Motion"
             }
           }
         ]
@@ -173,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Newton's laws.md",
+                "file": "Projectile Motion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Newton's laws"
+              "title": "Outline of Projectile Motion"
             }
           }
         ]
@@ -201,14 +201,21 @@
   },
   "active": "4aa6334736e6684b",
   "lastOpenFiles": [
+    "Power Series.md",
+    "Work and Energy.md",
+    "Vector.md",
+    "Vectors.md",
+    "Taylor & Maclaurin Series.md",
+    "Sequence.md",
+    "Relative Speed.md",
+    "Projectile Motion.md",
+    "Newton's laws.md",
     "Math Induction.md",
     "Limit Comparison Test.md",
     "Kinematics.md",
     "Integral test.md",
     "Infinite Series.md",
     "Impulse and Momentum.md",
-    "Newton's laws.md",
-    "Relative Speed.md",
     "Pasted image 20250303111838.png",
     "Friction.md",
     "Fourier Series.md",
@@ -226,16 +233,9 @@
     "Alternating Series.md",
     "Absolute Convergence.md",
     "2D, 3D Motion.md",
-    "Vectors.md",
-    "Projectile Motion.md",
-    "Vector.md",
     "Untitled.canvas",
-    "Taylor & Maclaurin Series.md",
     "Templates/New Note.md",
     "Type Conversation.md",
-    "Sequence.md",
-    "README.md",
-    "Rounding Floating Point.md",
     "Pasted image 20250220161437.png",
     "Templates",
     "Pasted image 20250219235305.png",
