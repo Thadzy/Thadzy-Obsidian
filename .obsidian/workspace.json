@@ -22,6 +22,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "57f9b9711e9d07d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02beb6e583bc7c11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vector.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vector"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -199,10 +219,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "988229a8dfe5a090",
+  "active": "02beb6e583bc7c11",
   "lastOpenFiles": [
-    "Work and Energy.md",
+    "Untitled.md",
+    "Cross Product.md",
+    "Dot Product.md",
     "Vector.md",
+    "Work and Energy.md",
     "Taylor & Maclaurin Series.md",
     "Sequence.md",
     "Relative Speed.md",
@@ -233,9 +256,6 @@
     "Pasted image 20250302222256.png",
     "Templates/New Templates.md",
     "Calculus 2.canvas",
-    "Alternating Series.md",
-    "Absolute Convergence.md",
-    "2D, 3D Motion.md",
     "Untitled.canvas",
     "Pasted image 20250220161437.png",
     "Templates",
