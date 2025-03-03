@@ -7,14 +7,13 @@ date: 2025-03-03
 A projectile is any object thrown into space upon which the only acting force is gravity.
 
 ![[Pasted image 20241022165004.png | 700]]
-Only force that effect to the projectile is mg 
+Only force that effect to the projectile is mg it's use velocity to move
 $$mg = ma$$
 $$a = g$$
 ```
 Therefor projectile is freefall with acceleration
 ```
 ### Horizontal Motion
-
 The horizontal motion occurs at a constant velocity since there are no horizontal forces acting on the projectile (neglecting air resistance):
 
 $$
