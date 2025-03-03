@@ -1,4 +1,10 @@
-#Physics 
+---
+tags:
+  - Physics
+date: 2025-03-03
+---
+## Introduction 
+
 2 types of force is pull and push
 1. If the Force net = 0 object still moving with constant velocity
 2. Force net is all force = 0 
