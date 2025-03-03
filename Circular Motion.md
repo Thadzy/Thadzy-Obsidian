@@ -30,5 +30,6 @@ If in the same sharp w is equal else gear mesh v is equal
 When object move on a circular path, its direction constantly change thus its velocity changes producing an acceleration. The acceleration is directed radially toward the centre of the circle.
 $$a_c = \frac{v^2}{r} = \omega^2 r $$
 ![[Pasted image 20241022224345.png]]
->> What is the different of Centripe
+> What is the different of Centripetal Acceleration and Normal Acceleration in circular motion?
+>> centripetal acceleration specifically refers to the acceleration toward the center of a circular path, while "normal circular acceleration" -> is like tell how fast the speed is changing l
 
