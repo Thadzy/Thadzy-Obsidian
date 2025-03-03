@@ -27,20 +27,13 @@ $$\int_{x_1}^{x_2}F_{ll}dx = \frac{1}{2}mv^2-\frac{1}{2}mu^2$$
 If θ=90∘θ=90∘, then cos⁡(90∘)=0cos(90∘)=0,
 ## Gravitational Potential Energy
 ![[Pasted image 20241023000213.png]]
-**N = ?**
-*Ans* N = 0 because it's perpendicular with the movement or displacement at that moment
-Work = 
+>N = ?
+>>Ans N = 0 because it's perpendicular with the movement or displacement at that moment Work = 
+
 $$\int_{x_1}^{x_2}F_{ll}dx = \int- mgsin\alpha ds$$
 $$-mg\Delta y$$
 y = h there for $GPE = mgh$
-**How the sin(alpha) come from**?
-*Ans*
-![[Pasted image 20241023000548.png]]
-sin(alpha) = $\frac{dy}{ds}$
-In physics, **work** refers to the energy transferred to or from an object when a force is applied to it
-**How we know the system?**
-*Ans*
-**How many types of energy**
+## Type of Energy
 $$W = \Delta KE + \Delta GPE + \Delta EPE$$
 ## Spring
 ![[Pasted image 20241023001335.png]]
