@@ -7,6 +7,7 @@ date: 2025-03-03
 Work is defined as transferring energy into an object so that there is some displacement. Energy is defined as the ability to do work.
 
 In physics, **work** refers to the energy transferred to or from an object when a force is applied to it
+## [[Kinematics]]
 
 ![[Pasted image 20241022234801.png]]
 $F_{ll}$ = Rate of change of movement
@@ -26,6 +27,7 @@ $$\int_{x_1}^{x_2}F_{ll}dx = \frac{1}{2}mv^2-\frac{1}{2}mu^2$$
     
 If θ=90∘θ=90∘, then cos⁡(90∘)=0cos(90∘)=0,
 ## Gravitational Potential Energy
+
 ![[Pasted image 20241023000213.png]]
 >N = ?
 >>Ans N = 0 because it's perpendicular with the movement or displacement at that moment Work = 
@@ -47,10 +49,7 @@ $$P(t) =\frac{W}{\Delta t}$$
 $$P = \frac{W}{t}=Fv$$
 ## Conservation of Energy
 **Total Energy Conservation**: In a closed or isolated system, the sum of all forms of energy (kinetic, potential, thermal, etc.) remains constant. If energy is lost in one part of the system, it must be gained in another part, ensuring that the total energy remains unchanged
-
-![[Pasted image 20241023134032.png | 500]]
-
-## Summary of Energy Transformation:
+## Summary of Energy Transformation
 Throughout the entire motion:
 - When rising: KE decreases → GPE increases.
 - At the top: KE = 0 → GPE is maximum.
