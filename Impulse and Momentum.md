@@ -14,7 +14,7 @@ $p = mv$ thus;
 $$KE = \frac{p^2}{2m}$$
 
 ![[Pasted image 20241023133829.png]]
-**Kinematics in system is decreased because it's change to heat or GPE or something**
+**Kinematics in system is decreased because it's change to heat or GPE or something** [[Work and Energy]]
 ### Momentum changed
 $$\Sigma F = \frac{\Delta P}{\Delta t}$$
 
@@ -60,5 +60,4 @@ Before A = 10 B = 3 -> therefore B = 10-3 = 7 <-
 After A = 8 B = 12 -> therefore B = 12-4 = 4 ->
 Therefore e = 4/7
 ![[Pasted image 20241023143452.png]]
-# Impulse-Momentum Theorem
-The impulse-momentum theorem states that the change in momentum of an object equals the impulse applied to it.
+
