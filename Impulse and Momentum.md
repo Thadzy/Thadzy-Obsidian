@@ -6,7 +6,8 @@ date: 2025-03-03
 # Momentum
 ## Introduction 
 
-is a quantity that describes an object's resistance to stopping (a kind of "moving inertia").
+is a quantity that describes an object's resistance to stopping (a kind of "moving inertia"). 
+$$p = mv$$
 
 ![[Pasted image 20241023005521.png]]
 ![[Pasted image 20241023133804.png]]
