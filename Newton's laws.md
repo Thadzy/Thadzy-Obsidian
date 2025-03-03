@@ -4,6 +4,7 @@ tags:
 date: 2025-03-03
 ---
 ## Introduction 
+are three physical laws that describe the relationship between the motion of an object and the forces acting on it. 
 
 2 types of force is pull and push
 1. If the Force net = 0 object still moving with constant velocity
