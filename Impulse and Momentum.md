@@ -21,6 +21,8 @@ $$\Sigma F = \frac{\Delta P}{\Delta t}$$
 $$\Delta P = (\Sigma F)(\Delta t)$$
 Momentum changed =  Net force x time of force action => **Impulse**
 **The total momentum of the system is constant and does not change.**
+# Collision
+When one object hits another object in a short period of time.
 ## Elastic collision
 An **elastic collision** is defined as a type of collision where both **momentum** and **kinetic energy** are conserved. This means that after the collision, the total kinetic energy of the colliding bodies remains the same, with no net loss or conversion of energy into other forms, such as heat or sound
 ![[Pasted image 20241023140225.png]]
@@ -28,7 +30,7 @@ An **elastic collision** is defined as a type of collision where both **momen
 The **Law of Conservation of Momentum** states that in an isolated system, the total momentum remains constant if no external forces act upon it. This principle is fundamental in physics and can be expressed mathematically as:
 $$m_1u_1+m_2u_2=m_1v_1+m_2v_2$$
 ![[Pasted image 20241023140805.png]]
-## Relative speed
+## [[Relative speed]]
 ![[Pasted image 20241023141051.png]]
 $$∣u_A​−u_B​∣=∣v_B​−v_A​∣$$
 ## Coefficient of restitution
