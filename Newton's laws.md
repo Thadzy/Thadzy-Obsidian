@@ -13,11 +13,9 @@ are three physical laws that describe the relationship between the motion of an 
 2. Force net is all force = 0 
 3. In vertical $mg = N$
 
-Force net doesn't make object move but it is changing the state of motion of objects is **Momentum**
-Force make velocity change and accerelation
-
+Force net doesn't make object move but it is changing the state of motion of objects is [[Impulse and Momentum]]
+Force make velocity change thus acceleration change
 ## Definition of momentum
-![[Pasted image 20241022231423.png]]
 Force net  = Rate of change of momentum
 # First law
 $$\Sigma F = 0$$
