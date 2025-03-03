@@ -24,8 +24,9 @@ $$\omega = \frac{d\theta}{dt} = \frac{2\pi}{T}$$
 ```
 If in the same sharp w is equal else gear mesh v is equal
 ```
+![[Pasted image 20250303104823.png]]
 
-## Centripetal acceleration
+## Centripetal Acceleration
 $$a_c = \frac{v^2}{r} = \omega^2 r $$
 ![[Pasted image 20241022224345.png]]
 **How above formula come from?**
