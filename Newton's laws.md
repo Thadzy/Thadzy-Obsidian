@@ -23,9 +23,11 @@ Force net  = Rate of change of momentum
 $$\Sigma F = 0$$
 https://mediaplayer.pearsoncmg.com/assets/_frames.true/secs-egv2e-two-observers-watch-the-same-coffee-mug
 https://mediaplayer.pearsoncmg.com/assets/_frames.true/secs-egv2e-strange-forces
-**inertial frame of reference**.
-Newton's first law holds true only in an inertial frame of reference. External forces, such as NN (normal force) and ff (friction), create a moment that causes the cup to fall.
+
+**inertial frame of reference**
+Newton's first law holds true only in an inertial frame of reference. External forces, such as N (normal force) and f (friction), create a moment that causes the cup to fall.
 ## Second law
+the acceleration of an object is directly proportional to the net force acting on it
 $$\Sigma F = ma$$
 ## Third law
 $$Action = Reaction$$
