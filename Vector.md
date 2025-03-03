@@ -1,1 +1,0 @@
-#Calculus #Calculus2 #Physics 
