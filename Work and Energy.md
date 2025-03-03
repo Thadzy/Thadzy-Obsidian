@@ -1,5 +1,13 @@
-#Physics 
+---
+tags:
+  - Physics
+date: 2025-03-03
+---
+## Introduction 
+Work is defined as transferring energy into an object so that there is some displacement. Energy is defined as the ability to do work.
+
 In physics, **work** refers to the energy transferred to or from an object when a force is applied to it
+
 ![[Pasted image 20241022234801.png]]
 $F_{ll}$ = Rate of change of movement
 $F_{c}$ = Supporting objects
@@ -12,8 +20,6 @@ $$F_{ll} = mv\frac{dv}{dx}$$
 Integrate
 $$\int_{x_1}^{x_2}F_{ll}dx = \int_{u}^{v}mv dv$$
 $$\int_{x_1}^{x_2}F_{ll}dx = \frac{1}{2}mv^2-\frac{1}{2}mu^2$$
-**Why chain rule is true?**
-**Why I use only F_ll but not F_c**
 **Why F_c doesn't make the kinetic energy**
 - Forces that act perpendicular to the direction of motion do not do work on the object. Work is defined as:
     $$W=F⋅d⋅cos⁡(θ)W=F⋅d⋅cos(θ)$$
