@@ -13,7 +13,7 @@ $$a = g$$
 ```
 Therefor projectile is freefall with acceleration
 ```
-### Horizontal Motion
+## Horizontal Motion
 The horizontal motion occurs at a constant velocity since there are no horizontal forces acting on the projectile (neglecting air resistance):
 
 $$
@@ -27,8 +27,7 @@ v_{0x} = v_0 \cos(\theta)
 $$
 
 is the horizontal component of the initial velocity.
-
-### Vertical Motion
+## Vertical Motion
 
 The vertical motion is influenced by gravity and can be described by the following equations:
 
