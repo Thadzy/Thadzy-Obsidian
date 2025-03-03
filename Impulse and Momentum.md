@@ -24,12 +24,15 @@ Momentum changed =  Net force x time of force action => **Impulse**
 **The total momentum of the system is constant and does not change.**
 
 # Impulse
-When one object hits another object in a short period of time. is a quantity that describes the effect of a net force acting on an object (a kind of "moving force").
+is a quantity that describes the effect of a net force acting on an object (a kind of "moving force").
 $$J = F\Delta t$$
 # Collision
+When one object hits another object in a short period of time. 
 
 ![[Pasted image 20250303111838.png]]
-## Elastic collision
+
+## 
+Elastic collision
 An **elastic collision** is defined as a type of collision where both **momentum** and **kinetic energy** are conserved. This means that after the collision, the total kinetic energy of the colliding bodies remains the same, with no net loss or conversion of energy into other forms, such as heat or sound
 ![[Pasted image 20241023140225.png]]
 ## Law of Conservation of Momentum
