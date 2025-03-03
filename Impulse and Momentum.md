@@ -14,9 +14,8 @@ $p = mv$ thus;
 $$KE = \frac{p^2}{2m}$$
 
 ![[Pasted image 20241023133829.png]]
-KE in system is decreased because it's change to heat or EPE
-**How do we know there are net force acting with box Y?**
-*Ans* Because I know force net = rate of change of momentum, Y has the changing momentum
+Kinematics in system is decreased because it's change to heat or GPE or something
+
 $$\Sigma F = \frac{\Delta P}{\Delta t}$$
 =
 $$\Delta P = (\Sigma F)(\Delta t)$$
