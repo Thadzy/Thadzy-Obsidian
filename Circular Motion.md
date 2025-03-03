@@ -31,5 +31,5 @@ When object move on a circular path, its direction constantly change thus its ve
 $$a_c = \frac{v^2}{r} = \omega^2 r $$
 ![[Pasted image 20241022224345.png]]
 > What is the different of Centripetal Acceleration and Normal Acceleration in circular motion?
->> centripetal acceleration specifically refers to the acceleration toward the center of a circular path, while "normal circular acceleration" -> is like tell how fast the speed is changing l
+>> centripetal acceleration specifically refers to the acceleration toward the center of a circular path, while "normal circular acceleration" -> is like tell how fast the speed is changing like 1D motion.
 
