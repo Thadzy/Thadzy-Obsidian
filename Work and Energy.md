@@ -20,12 +20,11 @@ $$F_{ll} = mv\frac{dv}{dx}$$
 Integrate
 $$\int_{x_1}^{x_2}F_{ll}dx = \int_{u}^{v}mv dv$$
 $$\int_{x_1}^{x_2}F_{ll}dx = \frac{1}{2}mv^2-\frac{1}{2}mu^2$$
-**Why F_c doesn't make the kinetic energy**
-- Forces that act perpendicular to the direction of motion do not do work on the object. Work is defined as:
+>Why F_c doesn't make the kinetic energy?
+>>Forces that act perpendicular to the direction of motion do not do work on the object. Work is defined as:
     $$W=F⋅d⋅cos⁡(θ)W=F⋅d⋅cos(θ)$$
     
 If θ=90∘θ=90∘, then cos⁡(90∘)=0cos(90∘)=0,
-
 ## Gravitational Potential Energy
 ![[Pasted image 20241023000213.png]]
 **N = ?**
