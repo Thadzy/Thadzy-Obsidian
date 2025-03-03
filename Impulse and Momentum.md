@@ -6,18 +6,9 @@ date: 2025-03-03
 # Momentum
 ## Introduction 
 
-is a quantity that describes an object's resistance to stopping (a kind of "moving inertia"). 
+is a quantity that describes an object's resistance to stopping (a kind of "moving inertia"). -> tell the state of moving object
 $$p = mv$$
-
-![[Pasted image 20241023005521.png]]
-![[Pasted image 20241023133804.png]]
-
-First principle Impulse and Momentum $\Sigma F \Delta t = \Delta p$
-if net force of the system = o, momentum of system will be the same
-$$\Delta P_x + \Delta P_y = 0$$
-But $$P_x + P_y = Constant$$
-Momentum P tell the state of moving object
-KE will be the energy in moving object
+###
 $$KE = \frac{1}{2}mv^2\frac{m}{m}$$
 $p = mv$
 $$KE = \frac{p^2}{2m}$$
