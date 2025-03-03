@@ -49,7 +49,7 @@ $$m_1u_1+m_2u_2=m_1v_1+m_2v_2$$
 ## [[Relative speed]]
 ![[Pasted image 20241023141051.png]]
 $$∣u_A​−u_B​∣=∣v_B​−v_A​∣$$
-## Coefficient of restitution
+# Coefficient of restitution
 The **coefficient of restitution (COR)** is a measure of how elastic a collision is between two bodies.
 - **e=1**: This indicates a **perfectly elastic collision**, where no kinetic energy is lost, and the objects rebound with the same speed they approached each other.
 - **e=0**: This represents a **perfectly inelastic collision**, where the objects do not rebound at all and stick together after the impact.
@@ -60,10 +60,5 @@ Before A = 10 B = 3 -> therefore B = 10-3 = 7 <-
 After A = 8 B = 12 -> therefore B = 12-4 = 4 ->
 Therefore e = 4/7
 ![[Pasted image 20241023143452.png]]
-​
-**How They Relate**:
-- **Impulse and Momentum**: Impulse directly relates to momentum because it represents the change in momentum. When a net force acts on an object for a certain amount of time, it changes the object's momentum. For example, *when you kick a ball, the force of your foot (impulse) changes the ball's momentum.*
-- **Momentum and Kinetic Energy**: While both momentum and kinetic energy depend on mass and velocity, they describe different aspects of motion. Momentum is a vector quantity (it has direction), while kinetic energy is a scalar quantity (it does not have direction).
-- **Energy Transformation**:
-- When a force acts on an object (impulse), it can change the object's kinetic energy. For example, in a collision, if one object loses momentum, that momentum is transferred to another object, resulting in a change in kinetic energy for both objects.
-- In inelastic collisions, some kinetic energy is transformed into other forms of energy (like heat or sound), demonstrating how energy can change forms during interactions.
+# Impulse-Momentum Theorem
+The impulse-momentum theorem states that the change in momentum of an object equals the impulse applied to it.
