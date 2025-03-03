@@ -17,11 +17,13 @@ $$KE = \frac{p^2}{2m}$$
 Kinematics in system is decreased because it's change to heat or GPE or something
 ### Momentum changed
 $$\Sigma F = \frac{\Delta P}{\Delta t}$$
+
 =
 $$\Delta P = (\Sigma F)(\Delta t)$$
 Momentum changed =  Net force x time of force action => **Impulse**
 **The total momentum of the system is constant and does not change.**
-# Collision
+
+# Impulse
 When one object hits another object in a short period of time.
 ## Elastic collision
 An **elastic collision** is defined as a type of collision where both **momentum** and **kinetic energy** are conserved. This means that after the collision, the total kinetic energy of the colliding bodies remains the same, with no net loss or conversion of energy into other forms, such as heat or sound
