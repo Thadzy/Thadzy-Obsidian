@@ -15,7 +15,7 @@ $$KE = \frac{p^2}{2m}$$
 
 ![[Pasted image 20241023133829.png]]
 Kinematics in system is decreased because it's change to heat or GPE or something
-
+### Momentum changed
 $$\Sigma F = \frac{\Delta P}{\Delta t}$$
 =
 $$\Delta P = (\Sigma F)(\Delta t)$$
