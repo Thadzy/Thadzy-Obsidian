@@ -4,11 +4,10 @@ tags:
 date: 2025-03-03
 ---
 ## Introduction 
-
+A projectile is any object thrown into space upon which the only acting force is gravity.
 
 ![[Pasted image 20241022165004.png | 700]]
-**How many force did to the projectile**
-*Ans* 1. mg 
+Only force that effect to the projectile is mg 
 $$mg = ma$$
 $$a = g$$
 ```
