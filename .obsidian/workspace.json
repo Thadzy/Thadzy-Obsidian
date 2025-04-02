@@ -25,17 +25,12 @@
             "id": "67aa6fa9151c8ae5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Calculus 2.canvas",
-                "viewState": {
-                  "x": 2926.8019422252937,
-                  "y": -239.5373853769874,
-                  "zoom": -1.5895023848807153
-                }
+                "file": "Mechanics_of_Materials_By_B_J_7th-1.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Calculus 2"
+              "icon": "lucide-file-text",
+              "title": "Mechanics_of_Materials_By_B_J_7th-1"
             }
           }
         ],
@@ -191,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calculus 2.canvas",
+                "file": "Mechanics_of_Materials_By_B_J_7th-1.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Calculus 2"
+              "title": "Outline of Mechanics_of_Materials_By_B_J_7th-1"
             }
           }
         ]
@@ -219,6 +214,8 @@
   },
   "active": "67aa6fa9151c8ae5",
   "lastOpenFiles": [
+    "Calculus 2.canvas",
+    "Mechanics_of_Materials_By_B_J_7th-1.pdf",
     "Vector Projectile.md",
     "Vector.md",
     "Taylor & Maclaurin Series.md",
@@ -233,7 +230,6 @@
     "Direct Comparison Test.md",
     "Cross Product.md",
     "Circular Motion.md",
-    "Calculus 2.canvas",
     "Angle Direction.md",
     "Angle Between Vector.md",
     "Work and Energy.md",
@@ -247,7 +243,6 @@
     "Impulse and Momentum.md",
     "Pasted image 20250303111838.png",
     "Friction.md",
-    "Fourier Series.md",
     "Pasted image 20250303104823.png",
     "Pasted image 20250303104809.png",
     "Pasted image 20250303104807.png",
