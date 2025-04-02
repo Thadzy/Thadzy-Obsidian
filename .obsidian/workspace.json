@@ -4,20 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "4445b66392ba5c78",
+        "id": "7409b1d0b881dc81",
         "type": "tabs",
         "children": [
           {
-            "id": "a1489c3546009185",
+            "id": "d83be480ba98bc0f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Vector Projectile.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vector Projectile"
+            }
+          },
+          {
+            "id": "67aa6fa9151c8ae5",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Calculus 2.canvas",
+                "viewState": {
+                  "x": 2926.8019422252937,
+                  "y": -239.5373853769874,
+                  "zoom": -1.5895023848807153
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Calculus 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,12 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Calculus 2.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Calculus 2"
             }
           }
         ]
@@ -194,13 +217,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1489c3546009185",
+  "active": "67aa6fa9151c8ae5",
   "lastOpenFiles": [
     "Vector Projectile.md",
-    "Relative Speed.md",
     "Vector.md",
     "Taylor & Maclaurin Series.md",
     "Sequence.md",
+    "Relative Speed.md",
     "README.md",
     "Ratio Test.md",
     "Power Series.md",
