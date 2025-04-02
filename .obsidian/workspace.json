@@ -32,9 +32,21 @@
               "icon": "lucide-file-text",
               "title": "Mechanics_of_Materials_By_B_J_7th-1"
             }
+          },
+          {
+            "id": "bf2f74287847fe8b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67aa6fa9151c8ae5",
+  "active": "bf2f74287847fe8b",
   "lastOpenFiles": [
     "Calculus 2.canvas",
     "Mechanics_of_Materials_By_B_J_7th-1.pdf",
