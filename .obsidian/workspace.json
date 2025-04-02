@@ -32,9 +32,26 @@
               "icon": "lucide-file-text",
               "title": "Mechanics_of_Materials_By_B_J_7th-1"
             }
+          },
+          {
+            "id": "89dbda7fd6efadd0",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics_of_Materials_By_B_J_7th-1.pdf",
+                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mechanics_of_Materials_By_B_J_7th-1"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -212,10 +229,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67aa6fa9151c8ae5",
+  "active": "89dbda7fd6efadd0",
   "lastOpenFiles": [
-    "Vector Projectile.md",
+    "Untitled.canvas",
     "Mechanics_of_Materials_By_B_J_7th-1.pdf",
+    "Vector Projectile.md",
     "Calculus 2.canvas",
     "Vector.md",
     "Taylor & Maclaurin Series.md",
@@ -249,7 +267,6 @@
     "Pasted image 20250302223123.png",
     "Pasted image 20250302223005.png",
     "Pasted image 20250302222256.png",
-    "Untitled.canvas",
     "Pasted image 20250220161437.png",
     "Templates",
     "Pasted image 20250219235305.png",
