@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d83be480ba98bc0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vector Projectile.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vector Projectile"
-            }
-          },
-          {
             "id": "67aa6fa9151c8ae5",
             "type": "leaf",
             "state": {
@@ -32,26 +18,8 @@
               "icon": "lucide-file-text",
               "title": "Mechanics_of_Materials_By_B_J_7th-1"
             }
-          },
-          {
-            "id": "89dbda7fd6efadd0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,10 +82,14 @@
             "id": "068bb0b4a6ab214f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Cross Product.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cross Product"
             }
           }
         ]
@@ -203,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Mechanics_of_Materials_By_B_J_7th-1.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Mechanics_of_Materials_By_B_J_7th-1"
             }
           }
         ]
@@ -229,11 +201,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "89dbda7fd6efadd0",
+  "active": "67aa6fa9151c8ae5",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Mechanics_of_Materials_By_B_J_7th-1.pdf",
+    "Physics.canvas",
+    "Cross Product.md",
     "Vector Projectile.md",
+    "Mechanics_of_Materials_By_B_J_7th-1.pdf",
     "Calculus 2.canvas",
     "Vector.md",
     "Taylor & Maclaurin Series.md",
@@ -246,7 +219,6 @@
     "Math Induction.md",
     "Dot Product.md",
     "Direct Comparison Test.md",
-    "Cross Product.md",
     "Circular Motion.md",
     "Angle Direction.md",
     "Angle Between Vector.md",
