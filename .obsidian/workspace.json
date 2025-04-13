@@ -11,12 +11,14 @@
             "id": "67aa6fa9151c8ae5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Mechanics_of_Materials_By_B_J_7th-1.pdf"
+                "file": "Dot Product.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Mechanics_of_Materials_By_B_J_7th-1"
+              "icon": "lucide-file",
+              "title": "Dot Product"
             }
           }
         ]
@@ -175,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics_of_Materials_By_B_J_7th-1.pdf",
+                "file": "Dot Product.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mechanics_of_Materials_By_B_J_7th-1"
+              "title": "Outline of Dot Product"
             }
           }
         ]
@@ -203,10 +205,10 @@
   },
   "active": "67aa6fa9151c8ae5",
   "lastOpenFiles": [
+    "Mechanics_of_Materials_By_B_J_7th-1.pdf",
     "Physics.canvas",
     "Cross Product.md",
     "Vector Projectile.md",
-    "Mechanics_of_Materials_By_B_J_7th-1.pdf",
     "Calculus 2.canvas",
     "Vector.md",
     "Taylor & Maclaurin Series.md",
