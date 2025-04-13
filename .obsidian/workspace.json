@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67aa6fa9151c8ae5",
+            "id": "2949f0d3f2a9858f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dot Product.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dot Product"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -77,28 +73,24 @@
         ]
       },
       {
-        "id": "03499f87de817a49",
+        "id": "d43090fa9cbbfc13",
         "type": "tabs",
         "children": [
           {
-            "id": "068bb0b4a6ab214f",
+            "id": "28bb798821cd0fef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cross Product.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cross Product"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 428.5
   },
   "right": {
     "id": "218d543182c71048",
@@ -177,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dot Product.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dot Product"
+              "title": "Outline"
             }
           }
         ]
@@ -203,11 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67aa6fa9151c8ae5",
+  "active": "2949f0d3f2a9858f",
   "lastOpenFiles": [
+    "Cross Product.md",
+    "Dot Product.md",
     "Mechanics_of_Materials_By_B_J_7th-1.pdf",
     "Physics.canvas",
-    "Cross Product.md",
     "Vector Projectile.md",
     "Calculus 2.canvas",
     "Vector.md",
@@ -219,7 +211,6 @@
     "Power Series.md",
     "Newton's laws.md",
     "Math Induction.md",
-    "Dot Product.md",
     "Direct Comparison Test.md",
     "Circular Motion.md",
     "Angle Direction.md",
