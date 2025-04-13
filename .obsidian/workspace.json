@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2949f0d3f2a9858f",
+            "id": "ad5943b08dae43a1",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -194,14 +194,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2949f0d3f2a9858f",
+  "active": "ad5943b08dae43a1",
   "lastOpenFiles": [
+    "Absolute Convergence.md",
+    "Alternating Series.md",
+    "2D, 3D Motion.md",
+    "1D Motion.md",
+    "Calculus 2.canvas",
+    "Infinite Series.md",
     "Cross Product.md",
     "Dot Product.md",
     "Mechanics_of_Materials_By_B_J_7th-1.pdf",
     "Physics.canvas",
     "Vector Projectile.md",
-    "Calculus 2.canvas",
     "Vector.md",
     "Taylor & Maclaurin Series.md",
     "Sequence.md",
@@ -221,11 +226,7 @@
     "Vectors.md",
     "Limit Comparison Test.md",
     "Kinematics.md",
-    "Integral test.md",
-    "Infinite Series.md",
-    "Impulse and Momentum.md",
     "Pasted image 20250303111838.png",
-    "Friction.md",
     "Pasted image 20250303104823.png",
     "Pasted image 20250303104809.png",
     "Pasted image 20250303104807.png",
