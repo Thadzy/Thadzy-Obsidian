@@ -2,7 +2,6 @@
 tags:
   - Calculus
   - Calculus2
-  - Kinematics
 date:
 ---
 ## Introduction 
