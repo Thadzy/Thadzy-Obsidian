@@ -2,9 +2,10 @@
 tags:
   - Calculus2
   - Series
-date:
+date: 2025-04-14
 ---
-#Calculus2 #Series 
+## Introduction 
+a series where the signs of the terms alternate between positive and negative.
 $$\Sigma_{n=1}^\infty (-1)^n*\frac{1}{n} = -1 + \frac{1}{2}-\frac{1}{3}+\frac{1}{4}+...$$
 ## Conditions
 1. $\lim_{n\to\infty} a_n = 0$ 
@@ -13,4 +14,4 @@ then converge use p-series or geomatric
 
 Take only positive 
 
-## Introduction 
+

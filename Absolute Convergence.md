@@ -2,7 +2,7 @@
 tags:
   - Calculus2
   - Series
-date:
+date: 2025-04-14
 ---
 # Introduction
 a series converges both when taking the absolute value of each term and when taking the original terms.
