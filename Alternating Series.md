@@ -1,3 +1,9 @@
+---
+tags:
+  - Calculus2
+  - Series
+date:
+---
 #Calculus2 #Series 
 $$\Sigma_{n=1}^\infty (-1)^n*\frac{1}{n} = -1 + \frac{1}{2}-\frac{1}{3}+\frac{1}{4}+...$$
 ## Conditions
@@ -7,3 +13,4 @@ then converge use p-series or geomatric
 
 Take only positive 
 
+## Introduction 
