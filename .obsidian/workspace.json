@@ -13,22 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work and Energy.md",
+                "file": "Vector.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Work and Energy"
+              "title": "Vector"
             }
           },
           {
             "id": "794c6a26f343c129",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -185,13 +185,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work and Energy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Work and Energy"
+              "title": "Outline"
             }
           }
         ]
@@ -212,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21ff298387bc3341",
+  "active": "28bb798821cd0fef",
   "lastOpenFiles": [
     "Vector.md",
     "Work and Energy.md",
