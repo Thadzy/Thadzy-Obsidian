@@ -174,4 +174,4 @@ Each component function describes the path along each axis as tt changes.
 
 ---
 
-Let me know if you want this exported as a PDF, Markdown, or formatted as LaTeX for reports.
+Let me know if you want this exported as a PDF, Markdown, or formatted as LaTeX for reports.[[Calculus II Vector 1c16a0bdba2a807fa2f9dfd84b22916a]]
