@@ -1,4 +1,4 @@
-#Calculus2 
+#Calculus2 #Series
 
 $\Sigma_{n=1}^\infty |a_n|$ => C then $\Sigma a_n$ => C "Absolute Convergent"
 
