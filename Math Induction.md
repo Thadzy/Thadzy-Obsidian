@@ -1,5 +1,9 @@
-#Calculus2 #Series 
-
+---
+tags:
+  - Calculus2
+  - Series
+date:
+---
 # Introduction
 The idea behind the math induction is 
 1. Show : n = 1 (at least 1 term is true)

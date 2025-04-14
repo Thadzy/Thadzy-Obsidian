@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math Induction.md",
+                "file": "Power Series.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Math Induction"
+              "title": "Power Series"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Calculus2",
+                "query": "tag:#Series",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d43090fa9cbbfc13",
@@ -201,8 +202,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "794c6a26f343c129",
+  "active": "4873ddff736fbee9",
   "lastOpenFiles": [
+    "Physics.canvas",
+    "Newton's laws.md",
+    "Math Induction.md",
     "Limit Comparison Test.md",
     "Integral test.md",
     "Infinite Series.md",
@@ -222,10 +226,7 @@
     "Ratio Test.md",
     "Projectile Motion.md",
     "Power Series.md",
-    "Physics.canvas",
-    "Newton's laws.md",
     "Mechanics_of_Materials_By_B_J_7th-1.pdf",
-    "Math Induction.md",
     "Calculus 2.canvas",
     "README.md",
     "Calculus II Vector 1c16a0bdba2a807fa2f9dfd84b22916a/1.Vectors_Lines_and_Planes_Student.pdf.md",
