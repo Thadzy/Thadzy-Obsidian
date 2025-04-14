@@ -14,7 +14,6 @@ $$ r'(t) = \lim_{\Delta t\to0}\frac{r(t + \Delta t) -r(t)}{\Delta t} $$
 if |r(t)| ≠ 0; |r(t)| is const when r’(t) ⊥ r(t) for every t
 
 </aside>
-
 ## Smooth Curve
 if r(t) is continuous and ≠ 0 for every a ≤ t ≤ b ⇒ **Smooth Curve**
 and we call curve C from r(t) is smooth curve
