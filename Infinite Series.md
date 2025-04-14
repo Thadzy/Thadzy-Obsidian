@@ -1,4 +1,9 @@
-#Calculus2 #Series 
+---
+tags:
+  - Calculus2
+  - Series
+date: 2025-04-14
+---
 ## geometric series
 $$\Sigma_{n=1}^\infty ar^{n-1}$$
 |r| < 1 => Converge 

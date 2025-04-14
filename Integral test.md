@@ -1,4 +1,13 @@
-#Calculus2 [[Infinite Series]] #Series 
+---
+tags:
+  - Calculus2
+  - Series
+date: 2025-04-14
+---
+[[Infinite Series]]
+## Introduction 
+
+
 
 $$\int_1^\infty f(x)dx = N = Converge$$
 
