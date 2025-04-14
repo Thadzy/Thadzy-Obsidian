@@ -4,389 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "7409b1d0b881dc81",
+        "id": "ca4c82b008871fcc",
         "type": "tabs",
         "children": [
           {
-            "id": "98ed4ce1b8d53f44",
+            "id": "379c7363ce0e3af1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vector.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vector"
-            }
-          },
-          {
-            "id": "dee951b48f61b090",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vector in Coordination Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vector in Coordination Systems"
-            }
-          },
-          {
-            "id": "10e29ba18b82d8f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vector between 2 points.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vector between 2 points"
-            }
-          },
-          {
-            "id": "abf987d6f31a0949",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magnitude of Vector (Norm).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Magnitude of Vector (Norm)"
-            }
-          },
-          {
-            "id": "7ed6ce7e6b2146f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit Vector.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unit Vector"
-            }
-          },
-          {
-            "id": "d8cc5408f7d1420b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dot Product.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dot Product"
-            }
-          },
-          {
-            "id": "3c52b874ca64d8b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angle Between Vectors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Angle Between Vectors"
-            }
-          },
-          {
-            "id": "bd2b4c3ea61a82b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Direction angle and Direction cosine.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Direction angle and Direction cosine"
-            }
-          },
-          {
-            "id": "22785612155a92bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vector Projection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vector Projection"
-            }
-          },
-          {
-            "id": "72120d3c7763f867",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cross Product.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cross Product"
-            }
-          },
-          {
-            "id": "eae8a39d4d6eecae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Straight line in 3D coordinate system.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Straight line in 3D coordinate system"
-            }
-          },
-          {
-            "id": "40828c2ba4231947",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Distance between point and straight line.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Distance between point and straight line"
-            }
-          },
-          {
-            "id": "7db1f7da3e3cf51d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plane Equation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plane Equation"
-            }
-          },
-          {
-            "id": "8cf3ce7a9ca0b18f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angles and intersections between planes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Angles and intersections between planes"
-            }
-          },
-          {
-            "id": "7632b3557b6af5ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vector Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vector Functions"
-            }
-          },
-          {
-            "id": "de44965b469d6d72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Derivative of a vector function.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Derivative of a vector function"
-            }
-          },
-          {
-            "id": "7ca38ee31d95a60e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arc length as a parameter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arc length as a parameter"
-            }
-          },
-          {
-            "id": "1041a5939ffb5e73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tangent Vector.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tangent Vector"
-            }
-          },
-          {
-            "id": "49faeda0cc94e2ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Velocity, Acceleration and Speed.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Velocity, Acceleration and Speed"
-            }
-          },
-          {
-            "id": "5d2003661e1b2edb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit Tangent Vector.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unit Tangent Vector"
-            }
-          },
-          {
-            "id": "0b2431c7ee62b6e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curvature.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Curvature"
-            }
-          },
-          {
-            "id": "b03101654aba7663",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit Normal Vector.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unit Normal Vector"
-            }
-          },
-          {
-            "id": "c7512443dd3ae8ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Circle of Curvature and Radius of Curvature.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Circle of Curvature and Radius of Curvature"
-            }
-          },
-          {
-            "id": "5b658d18549ad0d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit Binormal Vector.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unit Binormal Vector"
-            }
-          },
-          {
-            "id": "8cfbb4dd1877128e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frenet frame or TNB Frame.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Frenet frame or TNB Frame"
-            }
-          },
-          {
-            "id": "e531f6be69e1d25b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Torsion.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Torsion"
-            }
-          },
-          {
-            "id": "5ae43018ca3cde0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 25
+        ]
       }
     ],
     "direction": "vertical"
@@ -566,32 +197,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e531f6be69e1d25b",
+  "active": "379c7363ce0e3af1",
   "lastOpenFiles": [
-    "Frenet frame or TNB Frame.md",
-    "Torsion.md",
-    "Pasted image 20250414125623.png",
+    "2D, 3D Motion.md",
     "Untitled.md",
+    "Torsion.md",
+    "Frenet frame or TNB Frame.md",
     "Unit Binormal Vector.md",
-    "Pasted image 20250414125521.png",
     "Circle of Curvature and Radius of Curvature.md",
-    "Pasted image 20250414125444.png",
     "Unit Normal Vector.md",
-    "Pasted image 20250414125411.png",
     "Curvature.md",
-    "Pasted image 20250414125215.png",
     "Unit Tangent Vector.md",
-    "Pasted image 20250414125139.png",
     "Velocity, Acceleration and Speed.md",
     "Tangent Vector.md",
-    "Pasted image 20250414125019.png",
     "Arc length as a parameter.md",
-    "Pasted image 20250414124931.png",
     "Derivative of a vector function.md",
     "Vector Functions.md",
-    "Pasted image 20250414124802.png",
     "Angles and intersections between planes.md",
-    "Pasted image 20250414124607.png",
     "Plane Equation.md",
     "Distance between point and straight line.md",
     "Straight line in 3D coordinate system.md",
@@ -601,9 +223,18 @@
     "Angle Between Vectors.md",
     "Dot Product.md",
     "Unit Vector.md",
-    "1D Motion.md",
     "Magnitude of Vector (Norm).md",
     "Vector between 2 points.md",
+    "Pasted image 20250414125653.png",
+    "Pasted image 20250414125623.png",
+    "Pasted image 20250414125521.png",
+    "Pasted image 20250414125444.png",
+    "Pasted image 20250414125411.png",
+    "Pasted image 20250414125215.png",
+    "Pasted image 20250414125139.png",
+    "Pasted image 20250414125019.png",
+    "Pasted image 20250414124931.png",
+    "Pasted image 20250414124802.png",
     "Physics.canvas",
     "Mechanics_of_Materials_By_B_J_7th-1.pdf",
     "Calculus 2.canvas",
