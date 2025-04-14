@@ -39,10 +39,14 @@
             "id": "10e29ba18b82d8f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Vector between 2 points.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Vector between 2 points"
             }
           }
         ],
@@ -228,6 +232,7 @@
   },
   "active": "10e29ba18b82d8f7",
   "lastOpenFiles": [
+    "Vector between 2 points.md",
     "Vector in Coordination Systems.md",
     "Vector.md",
     "Pasted image 20250414120830.png",
