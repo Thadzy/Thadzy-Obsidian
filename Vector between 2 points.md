@@ -9,3 +9,4 @@ How to find Ex if B, C at coordinates (-1,-2,3) and (1,1,4) please find the Vect
 ```
 Solution **last - before** Therefore CB = B - C
 ```
+![[Pasted image 20250414120958.png]]
