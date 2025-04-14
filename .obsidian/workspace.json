@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Unit Vector"
             }
+          },
+          {
+            "id": "d8cc5408f7d1420b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dot Product.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dot Product"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -258,10 +272,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ed6ce7e6b2146f8",
+  "active": "d8cc5408f7d1420b",
   "lastOpenFiles": [
-    "1D Motion.md",
     "Unit Vector.md",
+    "Dot Product.md",
+    "1D Motion.md",
     "Pasted image 20250414121159.png",
     "Magnitude of Vector (Norm).md",
     "Pasted image 20250414121047.png",

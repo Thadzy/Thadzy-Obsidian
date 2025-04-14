@@ -2,7 +2,7 @@
 tags:
   - Calculus2
   - Vector
-date:
+date: 2025-04-14
 ---
 ## Introduction 
 is the vector size = 1
@@ -12,4 +12,4 @@ $$u = \frac{v}{||v||}$$
 >> $|\hat{v}| = \sqrt{\left(\frac{x}{\sqrt{x^2 + y^2 + z^2}}\right)^2 + \left(\frac{y}{\sqrt{x^2 + y^2 + z^2}}\right)^2 + \left(\frac{z}{\sqrt{x^2 + y^2 + z^2}}\right)^2}$
 >> simplify this
 >> $|\hat{v}| = \sqrt{\frac{x^2 + y^2 + z^2}{x^2 + y^2 + z^2}} = \sqrt{1} = 1$
->> 
+
