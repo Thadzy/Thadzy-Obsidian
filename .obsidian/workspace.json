@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ca4c82b008871fcc",
+        "id": "4445b66392ba5c78",
         "type": "tabs",
         "children": [
           {
-            "id": "2fd00ef31549ffa3",
+            "id": "a1489c3546009185",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -29,7 +29,6 @@
       {
         "id": "a29239a69ea2c3c0",
         "type": "tabs",
-        "dimension": 56.33663366336633,
         "children": [
           {
             "id": "8fcf9bc88e581a6b",
@@ -50,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Calculus2",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +73,11 @@
         ]
       },
       {
-        "id": "d43090fa9cbbfc13",
+        "id": "03499f87de817a49",
         "type": "tabs",
-        "dimension": 43.663366336633665,
         "children": [
           {
-            "id": "28bb798821cd0fef",
+            "id": "068bb0b4a6ab214f",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -92,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 380.5
   },
   "right": {
     "id": "218d543182c71048",
@@ -183,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 284.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,34 +194,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2fd00ef31549ffa3",
+  "active": "068bb0b4a6ab214f",
   "lastOpenFiles": [
-    "1D Motion.md",
-    "2D, 3D Motion.md",
-    "Untitled.md",
-    "Torsion.md",
-    "Frenet frame or TNB Frame.md",
-    "Unit Binormal Vector.md",
-    "Circle of Curvature and Radius of Curvature.md",
-    "Unit Normal Vector.md",
-    "Curvature.md",
-    "Unit Tangent Vector.md",
     "Velocity, Acceleration and Speed.md",
-    "Tangent Vector.md",
-    "Arc length as a parameter.md",
-    "Derivative of a vector function.md",
-    "Vector Functions.md",
-    "Angles and intersections between planes.md",
-    "Plane Equation.md",
-    "Distance between point and straight line.md",
-    "Straight line in 3D coordinate system.md",
-    "Cross Product.md",
+    "Vector in Coordination Systems.md",
+    "Vector between 2 points.md",
     "Vector Projection.md",
-    "Direction angle and Direction cosine.md",
-    "Angle Between Vectors.md",
-    "Dot Product.md",
+    "Vector Functions.md",
+    "Untitled.md",
     "Unit Vector.md",
-    "Magnitude of Vector (Norm).md",
+    "Unit Tangent Vector.md",
+    "Unit Normal Vector.md",
+    "Unit Binormal Vector.md",
+    "Torsion.md",
+    "Tangent Vector.md",
+    "Straight line in 3D coordinate system.md",
+    "Plane Equation.md",
+    "Physics.canvas",
     "Pasted image 20250414125653.png",
     "Pasted image 20250414125623.png",
     "Pasted image 20250414125521.png",
@@ -234,10 +221,21 @@
     "Pasted image 20250414125019.png",
     "Pasted image 20250414124931.png",
     "Pasted image 20250414124802.png",
-    "Physics.canvas",
     "Mechanics_of_Materials_By_B_J_7th-1.pdf",
+    "Magnitude of Vector (Norm).md",
+    "Frenet frame or TNB Frame.md",
+    "Distance between point and straight line.md",
+    "Direction angle and Direction cosine.md",
+    "Derivative of a vector function.md",
+    "Curvature.md",
+    "Circle of Curvature and Radius of Curvature.md",
+    "Arc length as a parameter.md",
+    "Angles and intersections between planes.md",
+    "Angle Between Vectors.md",
+    "Vector Projectile.md",
+    "Relative Speed.md",
     "Calculus 2.canvas",
-    "Calculus II Vector 1c16a0bdba2a807fa2f9dfd84b22916a",
+    "Untitled.canvas",
     "Templates",
     "Untitled 1.canvas"
   ]
