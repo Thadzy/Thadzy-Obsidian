@@ -1,4 +1,12 @@
-#Calculus2 #Series 
+---
+tags:
+  - Calculus2
+  - Series
+date: 2025-04-14
+---
+## Introduction 
+A Fourier series is a mathematical tool that decomposes periodic functions into an infinite sum of sine and cosine functions.
+
 
 $$f(x) = a_0 + \sum_{n=1}^{\infty} \left( a_n \cos \frac{n\pi x}{L} + b_n \sin \frac{n\pi x}{L} \right)$$
 
