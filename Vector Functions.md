@@ -12,6 +12,7 @@ $$ r(t) = x(t)i + y(t)i + z(t)k $$
 - x(t), y(t), z(t) is component of r(t)
 
 ## Might useful example
-
 $$ r(t) = 2costi + 2sintj + tk $$
 
+![[Pasted image 20250414124802.png]]
+This is a Circular helix x^2 + y^2 = 4​

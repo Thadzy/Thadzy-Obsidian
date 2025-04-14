@@ -216,9 +216,23 @@
               "icon": "lucide-file",
               "title": "Vector Functions"
             }
+          },
+          {
+            "id": "de44965b469d6d72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Derivative of a vector function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Derivative of a vector function"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -398,10 +412,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7632b3557b6af5ed",
+  "active": "de44965b469d6d72",
   "lastOpenFiles": [
-    "Angles and intersections between planes.md",
     "Vector Functions.md",
+    "Derivative of a vector function.md",
+    "Pasted image 20250414124802.png",
+    "Angles and intersections between planes.md",
     "Pasted image 20250414124607.png",
     "Plane Equation.md",
     "Pasted image 20250414124501.png",
@@ -419,7 +435,6 @@
     "Pasted image 20250414121637.png",
     "Angle Between Vectors.md",
     "Dot Product.md",
-    "Pasted image 20250414121509.png",
     "Unit Vector.md",
     "1D Motion.md",
     "Magnitude of Vector (Norm).md",
@@ -436,7 +451,6 @@
     "Limit Comparison Test.md",
     "Integral test.md",
     "Infinite Series.md",
-    "Impulse and Momentum.md",
     "Mechanics_of_Materials_By_B_J_7th-1.pdf",
     "Calculus 2.canvas",
     "Calculus II Vector 1c16a0bdba2a807fa2f9dfd84b22916a",
