@@ -1,177 +1,555 @@
----
-tags:
-  - Calculus
-  - Calculus2
-date:
----
 
----
 
-# 📘 Introduction to Vectors in 3D Space
+Created: March 25, 2025 10:50 PM
+Tags: #Calculus2 
 
-A **vector** is a mathematical object characterized by **magnitude** (length) and **direction**. Vectors are fundamental in physics, engineering, and mathematics, especially in 3D coordinate systems.
+[1.Vectors, Lines and Planes_Student.pdf](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/1.Vectors_Lines_and_Planes_Student.pdf)
 
----
+[2.+Vector+Functions_Student-1 (2).pdf](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/2.VectorFunctions_Student-1_(2).pdf)
 
-## 1. Vectors in Coordinate Systems
+# 1. Vector in Coordination Systems
 
-![Vector Representations](attachment:c1e3cfdd-2f24-4ad4-8ee4-258c138ff6f8:image.png)
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image.png)
 
-Vectors are often represented in 2D and 3D Cartesian coordinate systems using component form:
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%201.png)
 
-v⃗=ai^+bj^+ck^\vec{v} = a\hat{i} + b\hat{j} + c\hat{k}
+# 2. Vector between 2 points
 
----
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%202.png)
 
-## 2. Vector Between Two Points
+How to find Ex if B, C at coordinates (-1,-2,3) and (1,1,4) please find the Vector CB 
 
-Given two points:
+Solution **last - before** Therefore CB = B - C
 
-- B(−1,−2,3)B(-1, -2, 3)
-    
-- C(1,1,4)C(1, 1, 4)
-    
+# 3. Magnitude of Vector (Norm)
 
-To find the vector **CB**, subtract the coordinates of **C** from **B**:
+is the length or the size of the vector 
 
-CB⃗=B⃗−C⃗=(−1,−2,3)−(1,1,4)=(−2,−3,−1)\vec{CB} = \vec{B} - \vec{C} = (-1, -2, 3) - (1, 1, 4) = (-2, -3, -1)
+$$
+|| A || = \sqrt{a_1^2+a_2^2+a_3^2}
+$$
 
-> 💡 Rule: **Vector from point P to Q is** PQ⃗=Q⃗−P⃗\vec{PQ} = \vec{Q} - \vec{P}
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%203.png)
 
----
+<aside>
+💡
 
-## 3. Magnitude of a Vector (Norm)
+How to Pythagorean can find the Magnitude of the vector? 
 
-The **magnitude** (or **norm**) of a vector A⃗=(a1,a2,a3)\vec{A} = (a_1, a_2, a_3) is:
+Maybe about the shadow it’s represent the components x,y,z
 
-∥A⃗∥=a12+a22+a32\|\vec{A}\| = \sqrt{a_1^2 + a_2^2 + a_3^2}
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%204.png)
 
-![Norm Diagram](attachment:2729dc55-1d9c-45aa-8c96-4b0b451e6c2a:image.png)
+</aside>
 
----
+# 4. Unit Vector
 
-## 4. Unit Vector
+is the vector size = 1
 
-A **unit vector** has a magnitude of **1**. It is calculated by dividing a vector by its norm:
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%205.png)
 
-u^=v⃗∥v⃗∥\hat{u} = \frac{\vec{v}}{\|\vec{v}\|} ∣v^∣=(x∥v⃗∥)2+(y∥v⃗∥)2+(z∥v⃗∥)2=x2+y2+z2x2+y2+z2=1=1|\hat{v}| = \sqrt{\left(\frac{x}{\|\vec{v}\|}\right)^2 + \left(\frac{y}{\|\vec{v}\|}\right)^2 + \left(\frac{z}{\|\vec{v}\|}\right)^2} = \sqrt{\frac{x^2 + y^2 + z^2}{x^2 + y^2 + z^2}} = \sqrt{1} = 1
+$$
+u = \frac{v}{||v||}
+$$
 
----
+<aside>
+💡
 
-## 5. Dot Product
+Why unit vector = 1?
 
-The **dot product** (scalar product) of two vectors:
+$|\hat{v}| = \sqrt{\left(\frac{x}{\sqrt{x^2 + y^2 + z^2}}\right)^2 + \left(\frac{y}{\sqrt{x^2 + y^2 + z^2}}\right)^2 + \left(\frac{z}{\sqrt{x^2 + y^2 + z^2}}\right)^2}$
 
-A⃗⋅B⃗=AxBx+AyBy+AzBz\vec{A} \cdot \vec{B} = A_xB_x + A_yB_y + A_zB_z
+simplify this
 
-Alternatively:
+$|\hat{v}| = \sqrt{\frac{x^2 + y^2 + z^2}{x^2 + y^2 + z^2}} = \sqrt{1} = 1$
 
-A⃗⋅B⃗=∣A⃗∣∣B⃗∣cos⁡θ\vec{A} \cdot \vec{B} = |\vec{A}| |\vec{B}| \cos\theta
+</aside>
 
----
+# 5. Dot Product
 
-## 6. Angle Between Vectors
+is the multiply 2 vectors to scale the length
 
-θ=cos⁡−1(A⃗⋅B⃗∣A⃗∣∣B⃗∣)\theta = \cos^{-1} \left( \frac{\vec{A} \cdot \vec{B}}{|\vec{A}||\vec{B}|} \right)
+$$
+A⋅B=Ax​Bx​+Ay​By​+Az​Bz​
+$$
 
----
+$$
+a⋅b=∣a∣∣b∣cos(θ)
+$$
 
-## 7. Direction Angles and Cosines
+<aside>
+💡
 
-[Watch on YouTube](https://www.youtube.com/watch?v=ZoCxUV893fo)
+What is cos theta 
 
-Direction angles are calculated based on the vector's angle with respect to the **x-, y-, and z-axes**, using the same formula as the angle between vectors.
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/061c76ff-a63a-4d31-942c-7db570cffbfb.png)
 
----
+measure how 2 vectors closely align in direction if 
 
-## 8. Vector Projection
+**θ = 0 parallel**
 
-[Watch: Vector Projection](https://www.youtube.com/watch?v=Rw70zkvqEiE)
+**θ = 90 perpendicular**
 
-### Scalar Projection:
+**θ < 90 negative (opposite direction)**
 
-compB(A⃗)=A⃗⋅B⃗∣B⃗∣\text{comp}_B(\vec{A}) = \frac{\vec{A} \cdot \vec{B}}{|\vec{B}|}
+</aside>
 
-### Vector Projection:
+# 6. Angle Between Vectors
 
-projB(A⃗)=A⃗⋅B⃗∣B⃗∣2B⃗\text{proj}_B(\vec{A}) = \frac{\vec{A} \cdot \vec{B}}{|\vec{B}|^2} \vec{B}
+$$
+\theta = cos^{-1}(\frac{AB}{|A||B|})
+$$
 
----
+# 7. Direction angle and Direction cosine
 
-## 9. Cross Product
+https://www.youtube.com/watch?v=ZoCxUV893fo
 
-The **cross product** yields a vector perpendicular to both vectors:
+maybe just use Angle Between Vectors of 3 dimension 
 
-A⃗×B⃗=∣i^j^k^AxAyAzBxByBz∣\vec{A} \times \vec{B} = \begin{vmatrix} \hat{i} & \hat{j} & \hat{k} \\ A_x & A_y & A_z \\ B_x & B_y & B_z \\ \end{vmatrix}
+find the vector that the problem wants and calculate the theta by the axis
 
-Magnitude:
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%206.png)
 
-∣A⃗×B⃗∣=∣A⃗∣∣B⃗∣sin⁡θ|\vec{A} \times \vec{B}| = |\vec{A}||\vec{B}|\sin\theta
+# 8. Vector Projection
 
----
+https://www.youtube.com/watch?v=Rw70zkvqEiE
 
-## 10. Triple Products
+is the process of projecting 1 vector onto another vector it helps to determine how much one vector lies in the direction of another  there are 2 types
 
-### Scalar Triple Product (Volume of Parallelepiped):
+## Scalar Projection
 
-A⃗⋅(B⃗×C⃗)\vec{A} \cdot (\vec{B} \times \vec{C})
+Components of one vector along another
 
-Volume = Base Area×Height\text{Base Area} \times \text{Height}
+Ex. Components of vector A along vector B
 
-Base Area=∣B⃗×C⃗∣,Height=∣projB⃗×C⃗A⃗∣\text{Base Area} = |\vec{B} \times \vec{C}|,\quad \text{Height} = \left| \text{proj}_{\vec{B} \times \vec{C}} \vec{A} \right|
+$$
+Comp_B(A) = \frac{AB}{|B|}
+$$
 
-### Vector Triple Product:
+## Vector Projection
 
-A⃗×(B⃗×C⃗)\vec{A} \times (\vec{B} \times \vec{C})
+$$
+proj_B(A) = \frac{AB}{|B|^2}B
+$$
 
----
+<aside>
+💡
 
-## 11. Line in 3D Space
+Imagine a flashlight shining from a tip of A onto B
 
-A line LL passing through point P0(x0,y0,z0)P_0(x_0, y_0, z_0) and parallel to vector v⃗=(a,b,c)\vec{v} = (a, b, c) is defined as:
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%207.png)
 
-(x,y,z)=(x0+at,y0+bt,z0+ct)(x, y, z) = (x_0 + at, y_0 + bt, z_0 + ct)
+</aside>
 
-### Symmetric Form:
+<aside>
+💡
 
-x−x0a=y−y0b=z−z0c\frac{x - x_0}{a} = \frac{y - y_0}{b} = \frac{z - z_0}{c}
+Observation
 
----
+Vector Projection is the vector
 
-## 12. Distance from a Point to a Line
+Scalar Projection is length of projection (Non-negative)
 
-Given point QQ and line LL, the distance is:
+Scalar Component might be negative if the obtuse angle
 
-Distance=∣PQ⃗∣sin⁡θ=∣PQ⃗×v⃗∣∣v⃗∣\text{Distance} = |\vec{PQ}|\sin\theta = \frac{|\vec{PQ} \times \vec{v}|}{|\vec{v}|}
+</aside>
 
----
+# 9. Cross Product
 
-## 13. Plane Equation
+is the product between 2 vectors that output third vector that will be perpendicular to A and B 
 
-A plane through point P0(x0,y0,z0)P_0(x_0, y_0, z_0) with normal vector N⃗=(a,b,c)\vec{N} = (a, b, c):
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%208.png)
 
-a(x−x0)+b(y−y0)+c(z−z0)=0a(x - x_0) + b(y - y_0) + c(z - z_0) = 0
+$$
+\mathbf{A} \times \mathbf{B} =\begin{vmatrix} \mathbf{i} & \mathbf{j} & \mathbf{k} \\ A_x & A_y & A_z \\ B_x & B_y & B_z \end{vmatrix}
+$$
 
-Or:
+## Magnitude of the Cross Product
 
-Ax+By+Cz+D=0Ax + By + Cz + D = 0
+$$
+∥A×B∥=∥A∥∥B∥sinθ
+$$
 
----
+<aside>
+💡
 
-## 14. Angle Between Two Planes
+If θ = 0, θ = 180 vectors are parallel, and the cross product is zero
 
-cos⁡θ=N1⃗⋅N2⃗∣N1⃗∣∣N2⃗∣⇒θ=cos⁡−1(N1⃗⋅N2⃗∣N1⃗∣∣N2⃗∣)\cos\theta = \frac{\vec{N_1} \cdot \vec{N_2}}{|\vec{N_1}||\vec{N_2}|} \quad \Rightarrow \quad \theta = \cos^{-1}\left(\frac{\vec{N_1} \cdot \vec{N_2}}{|\vec{N_1}||\vec{N_2}|}\right)
+If θ = 90, vectors are perpendicular
 
----
+</aside>
 
-## 15. Vector Functions
+# 10. Triple Product
 
-A vector-valued function in space:
+there are 2 types
 
-r⃗(t)=x(t)i^+y(t)j^+z(t)k^\vec{r}(t) = x(t)\hat{i} + y(t)\hat{j} + z(t)\hat{k}
+## Scalar Triple Product
 
-Each component function describes the path along each axis as tt changes.
+is volume of parallelopiped
 
----
+$$
+A(B \times C)
+$$
 
-Let me know if you want this exported as a PDF, Markdown, or formatted as LaTeX for reports.[[Calculus II Vector 1c16a0bdba2a807fa2f9dfd84b22916a]]
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%209.png)
+
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%2010.png)
+
+### Find the  volume of parallelopiped
+
+Base Area = $|B \times C|$
+
+Height = $|proj_{B \times C}A|$
+
+## Vector Triple Product
+
+$$
+A \times (B \times C)
+$$
+
+# 11. Straight line in 3D coordinate system
+
+Give the line L pass the point $P_0(x_0,y_0,z_0)$ and parallel with the vector v
+
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%2011.png)
+
+Therefore,  every point in P(x,y,z) on line L will have the real number t that makes :
+
+$$
+P_0P = tv
+$$
+
+- $P_0P$  is the distance between $P_0$  to any P
+- v give the direction of the line
+- t is the scalar
+
+$$
+or (x-x_0,y-y_0,z-z_0)=(ta,tb,tc)
+$$
+
+<aside>
+💡
+
+Pipeline
+
+1. Start at Point $P_0$
+2. Vector v shows which way it goes
+3. By scaling t to v to make it reach the point $P_0$
+</aside>
+
+In other words, it’s called
+
+## Parametric Equation
+
+use to describe the path of an object
+
+$$
+x = x_0 + at
+$$
+
+$$
+y = y_0 +bt
+$$
+
+$$
+z = z_0 + ct
+$$
+
+- v is the direction vector of line L
+- a,b,c is the direction number
+
+we call the equation of L in
+
+$$
+\frac{x-x_0}{a}=\frac{y-y_0}{b}=\frac{z-z_0}{c}
+$$
+
+and a,b,c ≠ 0 we called symmetric equation
+
+# 12. Distance between point and straight  line
+
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%2012.png)
+
+Distance between Q and line L =
+
+$$
+|PQ|sin\theta=\frac{|PQ \times v|}{|v|}
+$$
+
+# 13. **Plane Equation**
+
+Plane is the set of point (x,y,z) according to equation Ax+By+Cz+D = 0
+
+$$
+a(x−x0​)+b(y−y0​)+c(z−z0​)=0
+$$
+
+- A,B,C are the components of a vector to the plane
+- (x,y,z) are the coordinates of any point on the plane
+- D is a constant that determines the position of the plane
+
+<aside>
+💡
+
+The key concept is 
+
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%2013.png)
+
+It uses position vector and perpendicular concepts is 
+
+**Position vector concept**
+
+$$
+P_0P
+$$
+
+**Perpendicularity Condition**
+
+$$
+N \cdot P_0P = 0
+$$
+
+Therefore, N = (a,b,c), P = x-x0
+
+$$
+a(x−x0)+b(y−y0)+c(z−z0)=0
+$$
+
+</aside>
+
+# 14. Angles and intersections between planes
+
+**Angle between plane =** angle between normal vector of two planes act on each other
+
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%2014.png)
+
+$$
+cos \theta = \frac{N_1 \cdot N_2}{|N_1||N_2|}
+$$
+
+$$
+\theta = cos^{-1}\frac{N_1 \cdot N_2}{|N_1||N_2|}
+$$
+
+<aside>
+💡
+
+Two planes if not parallel, always intersect; $N_1 \times N_2$ is the vector parallel with the two planes.
+
+</aside>
+
+# 15.  Vector Functions
+
+$$
+r(t) = x(t)i + y(t)i + z(t)k
+$$
+
+- r(t) is function vector of t
+- x(t), y(t), z(t) is component of r(t)
+
+## Might useful example
+
+$$
+r(t) = 2costi + 2sintj + tk
+$$
+
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%2015.png)
+
+This is a **Circular helix  $x^2 + y^2 = 4$**
+
+# 16. Derivative of a vector function
+
+use derivative 
+
+$$
+r'(t) = \lim_{\Delta t\to0}\frac{r(t + \Delta t) -r(t)}{\Delta t}
+$$
+
+<aside>
+💡
+
+if |r(t)| ≠ 0; |r(t)| is const when r’(t) ⊥ r(t) for every t 
+
+</aside>
+
+## Smooth Curve
+
+if r(t) is continuous and ≠ 0 for every a ≤ t ≤ b ⇒ **Smooth Curve** 
+
+and we call curve C from r(t) is smooth curve
+
+## Length of a space curve
+
+we can find the length of curve C on [a, b]
+
+$$
+L = \int_a^b\sqrt{[x'(t)]^2+[y'(t)]^2+[z'(t)]^2} dt
+$$
+
+$$
+\int_a^b|r'(t)|dt
+$$
+
+# 17. Arc length as a parameter
+
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%2016.png)
+
+$$
+s(\tau) = \int_a^\tau|r'(\tau)|d\tau = \int_a^\tau\sqrt{[x'(\tau)]^2+[y'(\tau)]^2+[z'(\tau)]^2} dt
+$$
+
+<aside>
+💡
+
+$$
+\frac{ds}{dt} = |r'(t)|
+$$
+
+If C is the Smooth curve
+
+$$
+r(s) = x(s)i+y(s)j+z(s)k
+$$
+
+When s is the arc length parameter therefore
+
+$$
+|r'(s)|=1
+$$
+
+</aside>
+
+# 18. Tangent Vector
+
+is a vector that is tangent to the curve
+
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%2017.png)
+
+- No definition of tangent vector if r’(t) = 0
+- The equation is of curve C at $t = t_0$
+
+$$
+r(t) = r(t_0) + tr'(t_0)
+$$
+
+# 19. Velocity, Acceleration and Speed
+
+1. Velocity vector is $r'(t)$
+2. Acceleration vector is $r''(t)$
+3. Speed is $|v(t)|$
+4. Direction of v(t) is $\frac{v(t)}{|v(t)|}$
+
+# 20. Unit Tangent Vector
+
+It’s like the Tangent vector but = 1
+
+$$
+T(t) = \frac{r'(t)}{|r'(t)|} = \frac{v(t)}{|v(t)|}
+$$
+
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/f86ac2bd-6e8d-4d29-a954-de98f43035d2.png)
+
+# 21. Curvature
+
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%2018.png)
+
+As we see this T since P1 → P2 has a little changed but P3 is very much so we will use **The rate of change of the tangent vector is 1 unit compare with s to tell the Curvature (C)**
+
+<aside>
+💡
+
+Because of Unit tangent vector doesn’t change the volume but change only direction
+
+</aside>
+
+K is Kappa
+
+$$
+K(s) = |\frac{dT}{ds}| = |r''(s)|
+$$
+
+$$
+K(t) = |\frac{dT}{ds}| = \frac{1}{|v|}|\frac{dT}{ds}| = \frac{T'(t)}{r'(t)}
+$$
+
+$$
+K(t) = \frac{|r'(t) \times r''(t)|}{|r'(t)|^3} = \frac{|v(t) \times a(t)|}{|v(t)^3|}
+$$
+
+# 22. Unit Normal Vector
+
+a normal vector that is perpendicular to the vector
+
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%2019.png)
+
+$$
+N(t) = \frac{T'(t)}{|T'(t)|}
+$$
+
+What if r(s) it will be
+
+$$
+N(s) = \frac{1}{K}\frac{dT}{ds}
+$$
+
+N(s) is Principal unit normal vector
+
+<aside>
+💡
+
+N always point to the circle
+
+</aside>
+
+# 23. Circle of Curvature and Radius of Curvature
+
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%2020.png)
+
+We call the circle that is tangent with circle C at P the **Circle of curvature  or Osculation circle**
+
+and the Radius of Curvature is 
+
+$$
+\rho = \frac{1}{K}
+$$
+
+and the center call **Center of Curvature**
+
+# 22. Unit Binormal Vector
+
+is a unit vector that orthogonal  T(t) and N(t)
+
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%2021.png)
+
+$$
+B = T \times N
+$$
+
+<aside>
+💡
+
+B is unit vector because $||B|| = ||T \times N|| = ||T||||N||sin\frac{\pi}{2} = 1$
+
+</aside>
+
+## Frenet frame or TNB Frame
+
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%2022.png)
+
+- T - N is Osculating plane
+- N - B is Normal plane
+- B - T is Rectifying plane
+
+# 23. Torsion
+
+It is a tool used to measure how twisted a curve is
+
+![image.png](Calculus%20II%20Vector%201c16a0bdba2a807fa2f9dfd84b22916a/image%2023.png)
+
+$$
+τ=−\frac{dB/dt⋅N}{∣∣dr/dt∣∣}
+$$
+
+- Tangent vector (T(t)) shows the direction of the curve
+- Normal vector (N(t)) points toward the curve’s curvature direction
+- Binormal vector (B(t)) forms a right-handed systems with T and N
