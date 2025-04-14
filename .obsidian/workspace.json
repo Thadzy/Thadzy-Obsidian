@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sequence.md",
+                "file": "Work and Energy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sequence"
+              "title": "Work and Energy"
             }
           },
           {
@@ -31,7 +31,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,8 +212,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21ff298387bc3341",
+  "active": "794c6a26f343c129",
   "lastOpenFiles": [
+    "Work and Energy.md",
+    "Vector.md",
+    "Taylor & Maclaurin Series.md",
+    "Sequence.md",
     "Ratio Test.md",
     "Projectile Motion.md",
     "Power Series.md",
@@ -233,10 +238,6 @@
     "Absolute Convergence.md",
     "2D, 3D Motion.md",
     "1D Motion.md",
-    "Vector.md",
-    "Work and Energy.md",
-    "Taylor & Maclaurin Series.md",
-    "Sequence.md",
     "README.md",
     "Calculus II Vector 1c16a0bdba2a807fa2f9dfd84b22916a/1.Vectors_Lines_and_Planes_Student.pdf.md",
     "Calculus II Vector 1c16a0bdba2a807fa2f9dfd84b22916a",
