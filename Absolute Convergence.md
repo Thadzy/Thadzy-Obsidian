@@ -1,8 +1,11 @@
 ---
-tags: 
+tags:
+  - Calculus2
+  - Series
 date:
 ---
-#Calculus2 #Series
+# Introduction
+a series converges both when taking the absolute value of each term and when taking the original terms.
 
 $\Sigma_{n=1}^\infty |a_n|$ => C then $\Sigma a_n$ => C "Absolute Convergent"
 
