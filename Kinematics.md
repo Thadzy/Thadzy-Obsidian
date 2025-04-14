@@ -1,6 +1,0 @@
----
-tags:
-  - Kinematics
-date:
----
-## Introduction 
