@@ -1,4 +1,4 @@
-#Calculus2 
+#Calculus2 #Series 
 
 # Introduction
 The idea behind the math induction is 

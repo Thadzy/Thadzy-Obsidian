@@ -1,4 +1,4 @@
-#Calculus2 [[Infinite Series]]
+#Calculus2 [[Infinite Series]] #Series 
 $a_n > 0$
 $b_n > 0$
 $$\lim_{n\to\infty} (\frac{a_n}{b_n}) = L$$

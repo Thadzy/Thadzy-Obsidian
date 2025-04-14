@@ -1,6 +1,7 @@
 ---
 tags:
   - Physics
+  - Mechanics
 date: 2025-03-03
 ---
 # Momentum
