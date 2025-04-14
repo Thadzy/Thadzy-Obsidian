@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Vector in Coordination Systems"
             }
+          },
+          {
+            "id": "10e29ba18b82d8f7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,10 +226,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dee951b48f61b090",
+  "active": "10e29ba18b82d8f7",
   "lastOpenFiles": [
-    "Vector.md",
     "Vector in Coordination Systems.md",
+    "Vector.md",
+    "Pasted image 20250414120830.png",
     "Taylor & Maclaurin Series.md",
     "Ratio Test.md",
     "Projectile Motion.md",
@@ -247,7 +258,6 @@
     "Calculus II Vector 1c16a0bdba2a807fa2f9dfd84b22916a/1.Vectors_Lines_and_Planes_Student.pdf.md",
     "Calculus II Vector 1c16a0bdba2a807fa2f9dfd84b22916a",
     "Vector Projectile.md",
-    "Relative Speed.md",
     "Pasted image 20241022110240.png",
     "Pasted image 20250303114523.png",
     "Pasted image 20250303111838.png",
@@ -257,7 +267,6 @@
     "Pasted image 20250302223123.png",
     "Pasted image 20250302223005.png",
     "Pasted image 20250302222256.png",
-    "Pasted image 20250220161437.png",
     "Templates",
     "Untitled 1.canvas"
   ]
