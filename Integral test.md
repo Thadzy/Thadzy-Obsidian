@@ -6,8 +6,7 @@ date: 2025-04-14
 ---
 [[Infinite Series]]
 ## Introduction 
-
-
+The integral test is a method to determine whether an infinite series converges or diverges by comparing it to an improper integral. 
 
 $$\int_1^\infty f(x)dx = N = Converge$$
 
