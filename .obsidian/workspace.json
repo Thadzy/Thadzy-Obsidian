@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "379c7363ce0e3af1",
+            "id": "2fd00ef31549ffa3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Calculus2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428.5
+    "width": 404.5
   },
   "right": {
     "id": "218d543182c71048",
@@ -183,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.5,
-    "collapsed": true
+    "width": 256.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,8 +196,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "379c7363ce0e3af1",
+  "active": "2fd00ef31549ffa3",
   "lastOpenFiles": [
+    "1D Motion.md",
     "2D, 3D Motion.md",
     "Untitled.md",
     "Torsion.md",
@@ -224,7 +224,6 @@
     "Dot Product.md",
     "Unit Vector.md",
     "Magnitude of Vector (Norm).md",
-    "Vector between 2 points.md",
     "Pasted image 20250414125653.png",
     "Pasted image 20250414125623.png",
     "Pasted image 20250414125521.png",
