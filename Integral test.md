@@ -1,4 +1,4 @@
-#Calculus #Calculus2 [[Infinite Series]]
+#Calculus2 [[Infinite Series]]
 
 $$\int_1^\infty f(x)dx = N = Converge$$
 

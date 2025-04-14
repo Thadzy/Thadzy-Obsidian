@@ -1,4 +1,4 @@
-#Calculus #Calculus2 
+#Calculus2 
 
 $$f(x) = a_0 + \sum_{n=1}^{\infty} \left( a_n \cos \frac{n\pi x}{L} + b_n \sin \frac{n\pi x}{L} \right)$$
 
