@@ -167,16 +167,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distance between point and straight  line.md",
+                "file": "Distance between point and straight line.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distance between point and straight  line"
+              "title": "Distance between point and straight line"
+            }
+          },
+          {
+            "id": "7db1f7da3e3cf51d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plane Equation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Plane Equation"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -356,11 +370,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40828c2ba4231947",
+  "active": "7db1f7da3e3cf51d",
   "lastOpenFiles": [
+    "Distance between point and straight line.md",
+    "Plane Equation.md",
     "Pasted image 20250414124332.png",
     "Straight line in 3D coordinate system.md",
-    "Distance between point and straight  line.md",
     "Pasted image 20250414124232.png",
     "Pasted image 20250414124230.png",
     "Cross Product.md",
@@ -378,7 +393,6 @@
     "1D Motion.md",
     "Pasted image 20250414121159.png",
     "Magnitude of Vector (Norm).md",
-    "Pasted image 20250414121047.png",
     "Vector between 2 points.md",
     "Vector in Coordination Systems.md",
     "Vector.md",
