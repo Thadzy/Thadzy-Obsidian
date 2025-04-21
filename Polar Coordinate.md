@@ -19,3 +19,6 @@ if -r direction is opposite
 if + theta CCW
 else - theta CW
 ```
+![[Pasted image 20250421111756.png | 600]]
+$$x = rcos\theta$$
+$$y = rsin\theta$$
