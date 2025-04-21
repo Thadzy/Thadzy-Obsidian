@@ -13,7 +13,8 @@ date: 2025-04-21
 
 ## Symmetry Tests for graph
 
-| Symmetry with respect to | Unchanged if r |
-| :----------------------- | :------------: |
-| Polar Axis (x-axis)      |     y = b      |
-| Vertical Line            |     x = a      |
+| Symmetry with respect to | Unchanged if replacing |
+| :----------------------- | :--------------------: |
+| Polar Axis (x-axis)      |        θ by -θ         |
+| Line θ=pi/2 (y-axis)     |       θ by pi-θ        |
+| Pole (Orgin)             |        r by -r         |
