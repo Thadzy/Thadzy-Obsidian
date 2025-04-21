@@ -5,10 +5,9 @@ tags:
 date: 2025-04-21
 ---
 ## Introduction 
-```
-| Left |  Center  | Right |
-|:-----|:--------:|------:|
-| L0   | **bold** | $1600 |
-| L1   |  `code`  |   $12 |
-| L2   | _italic_ |    $1 |
-```
+
+| Linear Equation | Cartesian | Polar |
+| :-------------- | :-------: | ----: |
+| Horizontal Line |   y = b   |  rsin |
+| Vertical Line   |   x = a   |   $12 |
+
