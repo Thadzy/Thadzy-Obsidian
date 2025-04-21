@@ -16,5 +16,9 @@ date: 2025-04-21
 | Symmetry with respect to | Unchanged if replacing |
 | :----------------------- | :--------------------: |
 | Polar Axis (x-axis)      |        θ by -θ         |
-| Line θ=pi/2 (y-axis)     |       θ by pi-θ        |
+| Line θ=π/2 (y-axis)      |        θ by π-θ        |
 | Pole (Orgin)             |        r by -r         |
+
+## Make the table 
+| θ   | r = 1+2cos |
+| :-- | :--------: |
