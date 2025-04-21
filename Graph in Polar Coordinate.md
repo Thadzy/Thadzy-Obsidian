@@ -6,8 +6,9 @@ date: 2025-04-21
 ---
 ## Introduction 
 
-| Linear Equation | Cartesian | Polar |
-| :-------------- | :-------: | ----: |
-| Horizontal Line |   y = b   |  rsin |
-| Vertical Line   |   x = a   |   $12 |
+| Linear Equation | Cartesian |     Polar |
+| :-------------- | :-------: | --------: |
+| Horizontal Line |   y = b   | rsinθ = a |
+| Vertical Line   |   x = a   | rcosθ = b |
 
+## Sym
