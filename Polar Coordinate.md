@@ -19,6 +19,8 @@ if -r direction is opposite
 if + theta CCW
 else - theta CW
 ```
+# The relation between certain and polar coordinates
 ![[Pasted image 20250421111756.png | 600]]
+
 $$x = rcos\theta$$
 $$y = rsin\theta$$
