@@ -11,3 +11,7 @@ $$(r, \theta)$$
 > Why use Polar Coordinate
 >> Use to simplify the problem in circular or rotation in Physics or Engineering Ex. GPS use to determine locations base on distance and direction from the reference point
 
+```
+if -r direction is opposite
+```
+
