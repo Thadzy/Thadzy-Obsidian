@@ -2,7 +2,7 @@
 tags:
   - Calculus2
   - "#Polar"
-date:
+date: 2025-04-21
 ---
 ## Introduction 
 ![[Pasted image 20250421110832.png]]
