@@ -9,4 +9,4 @@ date:
 Is the point in the plane located by using distance from the pole and an angle from the reference direction (the polar axis) 
 $$(r, \theta)$$
 > Why use Polar Coordinate
->> Use to simplify the problem in circular 
+>> Use to simplify the problem in circular or rotation in Physics or Engineering Ex. GPS use to determine locations base on distance and direction from the referance point
