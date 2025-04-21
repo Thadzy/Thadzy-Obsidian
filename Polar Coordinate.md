@@ -15,3 +15,7 @@ $$(r, \theta)$$
 if -r direction is opposite
 ```
 
+```
+if + theta CCW
+else - theta CW
+```
