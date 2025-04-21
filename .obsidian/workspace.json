@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Draw Polar Coordinate Graph.md",
+                "file": "Graph in Polar Coordinate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Draw Polar Coordinate Graph"
+              "title": "Graph in Polar Coordinate"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Polar Coordinate.md",
+                "file": "Graph in Polar Coordinate.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Polar Coordinate"
+              "title": "Outline of Graph in Polar Coordinate"
             }
           }
         ]
@@ -213,12 +214,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f5e3bac39fa092e",
+  "active": "79a5b8ec2fcb6036",
   "lastOpenFiles": [
+    "Polar Coordinate.md",
     "Pasted image 20250421111756.png",
     "Pasted image 20250421111754.png",
-    "Draw Polar Coordinate Graph.md",
-    "Polar Coordinate.md",
+    "Graph in Polar Coordinate.md",
     "Pasted image 20250421110832.png",
     "Integral test.md",
     "Velocity, Acceleration and Speed.md",
@@ -243,7 +244,6 @@
     "Pasted image 20250414125411.png",
     "Pasted image 20250414125215.png",
     "Pasted image 20250414125139.png",
-    "Pasted image 20250414125019.png",
     "Mechanics_of_Materials_By_B_J_7th-1.pdf",
     "Magnitude of Vector (Norm).md",
     "Frenet frame or TNB Frame.md",

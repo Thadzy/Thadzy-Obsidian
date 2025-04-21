@@ -27,4 +27,4 @@ $$x = rcos\theta$$
 $$y = rsin\theta$$
 ## Polar
 $$r^2 = x^2 + y^2$$
-$$tan\theta = \frac{x}{y}$$
+$$tan\theta = \frac{y}{x}$$
