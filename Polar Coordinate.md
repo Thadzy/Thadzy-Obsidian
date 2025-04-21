@@ -21,6 +21,10 @@ else - theta CW
 ```
 # The relation between certain and polar coordinates
 ![[Pasted image 20250421111756.png | 600]]
+## Cartesian
 
 $$x = rcos\theta$$
 $$y = rsin\theta$$
+## Polar
+$$r^2 = x^2 + y^2$$
+$$tan\theta = \frac{x}{y}$$
