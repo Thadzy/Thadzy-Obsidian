@@ -35,8 +35,7 @@
               "title": "Draw Polar Coordinate Graph"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draw Polar Coordinate Graph.md",
+                "file": "Polar Coordinate.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Draw Polar Coordinate Graph"
+              "title": "Outline of Polar Coordinate"
             }
           }
         ]
@@ -214,10 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79a5b8ec2fcb6036",
+  "active": "5f5e3bac39fa092e",
   "lastOpenFiles": [
-    "Polar Coordinate.md",
     "Draw Polar Coordinate Graph.md",
+    "Polar Coordinate.md",
     "Pasted image 20250421110832.png",
     "Integral test.md",
     "Velocity, Acceleration and Speed.md",
