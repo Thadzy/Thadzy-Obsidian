@@ -11,4 +11,9 @@ date: 2025-04-21
 | Horizontal Line |   y = b   | rsinθ = a |
 | Vertical Line   |   x = a   | rcosθ = b |
 
-## Sym
+## Symmetry Tests for graph
+
+| Symmetry with respect to | Unchanged if r |
+| :----------------------- | :------------: |
+| Polar Axis (x-axis)      |     y = b      |
+| Vertical Line            |     x = a      |
