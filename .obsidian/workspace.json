@@ -16,21 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "3628e325c749946c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3628e325c749946c",
+  "active": "ddf265530c06fbd3",
   "lastOpenFiles": [
     "Graph in Polar Coordinate.md",
     "Pasted image 20250421112835.png",
