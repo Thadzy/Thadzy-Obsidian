@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ddf265530c06fbd3",
+            "id": "8a023c6f4bae06b5",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -194,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ddf265530c06fbd3",
+  "active": "8a023c6f4bae06b5",
   "lastOpenFiles": [
+    "2 อินทิกรัลหลายชั้น_Student.pdf",
+    "1 Polar Student.pdf",
     "Graph in Polar Coordinate.md",
     "Pasted image 20250421112835.png",
     "Polar Coordinate.md",
