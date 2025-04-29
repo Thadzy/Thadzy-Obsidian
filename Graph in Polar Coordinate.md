@@ -20,5 +20,8 @@ date: 2025-04-21
 | Pole (Orgin)             |        r by -r         |
 
 ## Make the table 
-| θ   | r = 1+2cos |
-| :-- | :--------: |
+| θ   | r = 1+2cosθ = ... |
+| :-- | :---------------: |
+Make the table to all Q1 Q2 Q3 Q4
+by theta = 
+![[Pasted image 20250421112835.png]]
