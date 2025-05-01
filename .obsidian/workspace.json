@@ -32,6 +32,20 @@
             }
           },
           {
+            "id": "58babe5f64556f58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++ Polymorphism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C++ Polymorphism"
+            }
+          },
+          {
             "id": "bc50af2660c1547d",
             "type": "leaf",
             "state": {
@@ -116,7 +130,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -268,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++ Inheritance.md",
+                "file": "C++ Polymorphism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++ Inheritance"
+              "title": "Outline of C++ Polymorphism"
             }
           }
         ]
@@ -294,9 +308,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0fae6468fb940df",
+  "active": "58babe5f64556f58",
   "lastOpenFiles": [
     "C++ Inheritance.md",
+    "C++ Polymorphism.md",
     "C++ Encapsulation.md",
     "C++ Access Specifiers.md",
     "C++ Constructors.md",
@@ -337,7 +352,6 @@
     "Pasted image 20250414125411.png",
     "Mechanics_of_Materials_By_B_J_7th-1.pdf",
     "Magnitude of Vector (Norm).md",
-    "Frenet frame or TNB Frame.md",
     "Calculus 2.canvas",
     "Untitled.canvas",
     "Templates",
