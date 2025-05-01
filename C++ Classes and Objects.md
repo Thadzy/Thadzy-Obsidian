@@ -10,3 +10,15 @@ Everything in C++ is associated with classes and objects, along with its attribu
 Attributes and methods are basically **variables** and **functions** that belongs to the class. These are often referred to as "class members".
 
 A class is a user-defined data type that we can use in our program, and it works as an object constructor, or a "blueprint" for creating objects.
+
+## Create a Class
+To create a class, use the `class` keyword:
+### Example
+Create a class called "`MyClass`":
+```cpp
+class MyClass {       // The class  
+  public:             // Access specifier  
+    int myNum;        // Attribute (int variable)  
+    string myString;  // Attribute (string variable)  
+};
+```
