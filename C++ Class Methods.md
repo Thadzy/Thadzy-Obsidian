@@ -33,7 +33,7 @@ class MyClass {        // The class
 };  
   
 // Method/function definition outside the class  
-void **MyClass::myMethod()** {  
+void MyClass::myMethod() {  
   cout << "Hello World!";  
 }  
   
@@ -43,3 +43,4 @@ int main() {
   return 0;  
 }
 ```
+To define a function outside the class definition, you have to declare it inside the class and then define it outside of the class. This is done by specifiying the name of the class, followed the scope resolution `::`operator, followed by the name of the function:
