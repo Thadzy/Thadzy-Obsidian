@@ -85,7 +85,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "03499f87de817a49",
@@ -210,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77fb9ea9100f235d",
+  "active": "4873ddff736fbee9",
   "lastOpenFiles": [
     "OOP.md",
     "4_VM_Equations Deformation_AJT 2025.pdf",
