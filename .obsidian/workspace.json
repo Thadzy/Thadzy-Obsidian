@@ -30,9 +30,18 @@
               "icon": "lucide-file",
               "title": "OOP"
             }
+          },
+          {
+            "id": "d6141a712bedd522",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,8 +94,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "03499f87de817a49",
@@ -106,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 340.5
   },
   "right": {
     "id": "218d543182c71048",
@@ -185,13 +193,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OOP"
+              "title": "Outline"
             }
           }
         ]
@@ -211,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4873ddff736fbee9",
+  "active": "8a023c6f4bae06b5",
   "lastOpenFiles": [
     "OOP.md",
     "4_VM_Equations Deformation_AJT 2025.pdf",
