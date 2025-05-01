@@ -198,13 +198,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++ Classes and Objects.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++ Classes and Objects"
+              "title": "Outline"
             }
           }
         ]
@@ -224,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6141a712bedd522",
+  "active": "068bb0b4a6ab214f",
   "lastOpenFiles": [
     "C++ Classes and Objects.md",
     "OOP.md",
