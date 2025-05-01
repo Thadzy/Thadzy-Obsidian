@@ -20,7 +20,7 @@ class Vehicle {
 };  
   
 // Derived class  
-**class Car: public Vehicle** {  
+class Car: public Vehicle {  
   public:  
     string model = "Mustang";  
 };  
@@ -32,3 +32,6 @@ int main() {
   return 0;  
 }
 ```
+>Why And When To Use "Inheritance"?
+>>It is useful for code reusability: reuse attributes and methods of an existing class when you create a new class.
+
