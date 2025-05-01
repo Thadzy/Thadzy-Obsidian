@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "C++ Constructors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "C++ Constructors"
             }
           }
         ],
@@ -226,13 +226,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "C++ Constructors.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of C++ Constructors"
             }
           }
         ]
@@ -255,7 +255,7 @@
   "active": "0df9741bf9843dcd",
   "lastOpenFiles": [
     "C++ Class Methods.md",
-    "Untitled 1.md",
+    "C++ Constructors.md",
     "C++ Classes and Objects.md",
     "OOP.md",
     "Pasted image 20250501154730.png",
