@@ -20,6 +20,7 @@ int main() {
 }
 ```
 ## Constructor Parameters
+do not have to declare and define the constructor separately
 ```cpp
 class Car {        // The class  
   public:          // Access specifier  
