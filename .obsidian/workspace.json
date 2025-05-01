@@ -41,7 +41,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,12 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "OOP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of OOP"
             }
           }
         ]
@@ -218,8 +220,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a023c6f4bae06b5",
+  "active": "77fb9ea9100f235d",
   "lastOpenFiles": [
+    "Pasted image 20250501154730.png",
     "OOP.md",
     "4_VM_Equations Deformation_AJT 2025.pdf",
     "5_Thin Membrane Mohr_AJT 2025.pdf",
@@ -261,7 +264,6 @@
     "Derivative of a vector function.md",
     "Curvature.md",
     "Circle of Curvature and Radius of Curvature.md",
-    "Arc length as a parameter.md",
     "Calculus 2.canvas",
     "Untitled.canvas",
     "Templates",
