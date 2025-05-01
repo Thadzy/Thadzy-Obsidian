@@ -129,8 +129,7 @@
               "title": "C++ Access Specifiers"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,13 +281,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++ Polymorphism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++ Polymorphism"
+              "title": "Outline"
             }
           }
         ]
@@ -308,10 +306,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "58babe5f64556f58",
+  "active": "8a023c6f4bae06b5",
   "lastOpenFiles": [
-    "C++ Inheritance.md",
     "C++ Polymorphism.md",
+    "C++ Inheritance.md",
     "C++ Encapsulation.md",
     "C++ Access Specifiers.md",
     "C++ Constructors.md",
