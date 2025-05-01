@@ -35,14 +35,18 @@
             "id": "d6141a712bedd522",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "C++ Classes and Objects.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "C++ Classes and Objects"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP.md",
+                "file": "C++ Classes and Objects.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OOP"
+              "title": "Outline of C++ Classes and Objects"
             }
           }
         ]
@@ -220,10 +224,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77fb9ea9100f235d",
+  "active": "d6141a712bedd522",
   "lastOpenFiles": [
-    "Pasted image 20250501154730.png",
+    "C++ Classes and Objects.md",
     "OOP.md",
+    "Pasted image 20250501154730.png",
     "4_VM_Equations Deformation_AJT 2025.pdf",
     "5_Thin Membrane Mohr_AJT 2025.pdf",
     "2 อินทิกรัลหลายชั้น_Student.pdf",
@@ -255,7 +260,6 @@
     "Pasted image 20250414125521.png",
     "Pasted image 20250414125444.png",
     "Pasted image 20250414125411.png",
-    "Pasted image 20250414125215.png",
     "Mechanics_of_Materials_By_B_J_7th-1.pdf",
     "Magnitude of Vector (Norm).md",
     "Frenet frame or TNB Frame.md",
