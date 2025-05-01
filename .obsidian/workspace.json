@@ -115,7 +115,8 @@
               "title": "C++ Access Specifiers"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -267,12 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "C++ Inheritance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of C++ Inheritance"
             }
           }
         ]
@@ -292,7 +294,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a023c6f4bae06b5",
+  "active": "c0fae6468fb940df",
   "lastOpenFiles": [
     "C++ Inheritance.md",
     "C++ Encapsulation.md",
