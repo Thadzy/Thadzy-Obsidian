@@ -32,6 +32,13 @@ int main() {
   return 0;  
 }
 ```
+
+Output :
+```
+Tuut, tuut!  
+Ford Mustang
+```
+
 >Why And When To Use "Inheritance"?
 >>It is useful for code reusability: reuse attributes and methods of an existing class when you create a new class.
 
