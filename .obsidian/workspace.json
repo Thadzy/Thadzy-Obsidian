@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "C++ Access Specifiers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "C++ Access Specifiers"
             }
           }
         ],
@@ -240,13 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "C++ Access Specifiers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of C++ Access Specifiers"
             }
           }
         ]
@@ -269,7 +269,7 @@
   "active": "9997dba0dd6e4ac1",
   "lastOpenFiles": [
     "C++ Constructors.md",
-    "Untitled 1.md",
+    "C++ Access Specifiers.md",
     "C++ Class Methods.md",
     "C++ Classes and Objects.md",
     "OOP.md",
