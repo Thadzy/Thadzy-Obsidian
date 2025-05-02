@@ -9,7 +9,24 @@ In C++, a **reference** works as an alias for an existing variable, providing 
 ## Creating References
 A reference variable is a "reference" to an existing variable, and it is created with the `&` operator:
 ```cpp
-string food = "Pizza";  // food variable  
-string &meal = food;    // reference to food
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+  string food = "Pizza";
+  string &meal = food;
+
+  cout << food << "\n";
+  cout << meal << "\n";
+  return 0;
+}
 ```
+
+Output :
+```
+Pizza  
+Pizza
+```
+
 
