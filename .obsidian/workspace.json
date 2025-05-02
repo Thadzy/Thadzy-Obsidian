@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Useful Example C++ OOP"
             }
+          },
+          {
+            "id": "11ba11a819600bd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOP5-A-Bronze2-Logic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OOP5-A-Bronze2-Logic"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful Example C++ OOP.md",
+                "file": "OOP5-A-Bronze2-Logic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Useful Example C++ OOP"
+              "title": "Outline of OOP5-A-Bronze2-Logic"
             }
           }
         ]
@@ -199,10 +214,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da4d018216a89237",
+  "active": "11ba11a819600bd7",
   "lastOpenFiles": [
-    "OOP4-B-Silver-DNA_Linked_List.md",
+    "OOP5-A-Bronze2-Logic.md",
     "Useful Example C++ OOP.md",
+    "OOP4-B-Silver-DNA_Linked_List.md",
     "OOP.md",
     "C++ Class Methods.md",
     "C++ Encapsulation.md",
@@ -235,7 +251,6 @@
     "Untitled.md",
     "Unit Vector.md",
     "Unit Tangent Vector.md",
-    "Unit Normal Vector.md",
     "Physics.canvas",
     "Pasted image 20250414125653.png",
     "Pasted image 20250414125623.png",

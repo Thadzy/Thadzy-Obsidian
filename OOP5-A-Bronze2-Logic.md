@@ -1,0 +1,113 @@
+---
+tags:
+  - Cpp
+  - OOP
+date: 2025-05-02
+---
+## README
+# Logic -- Bronze
+## Description
+- Objective: ให้น้องๆช่วยพี่ทีเอเขียนคลาส LogicTools ให้เรียบร้อย โดย class นี้จะถูกสร้างด้วยค่าเริ่มต้น 1 ค่า (`a`) แล้วนำมาเก็บไว้ใน `data_` และภายในคลาสจะมีคำสั่งหลักคือ Operate ซึ่งจะทำการคำนวณค่าทางตรรกะระหว่างข้อมูลที่มีอยู่กับข้อมูลที่รับเข้ามา (`b`) ด้วยชุดค่าสำสั่งใน `cmd` ซึ่งประกอบไปด้วย `{"OR", "AND"}` แล้วนำข้อมูลมาเก็บไว้ใน `data_`
+
+พี่ทีเอเขียนฟังก์ชัน Operate ไว้ให้เรียบร้อยแล้วแต่ว่ายังไม่ได้เขียนฟังก์ชันย่อยของคลาส LogicTools ดังนี้
+
+```cpp
+  // returns string representing data_ AND b
+  std::string AND(std::string b);
+
+  // returns string representing data_ OR b
+  std::string OR(std::string b);
+```
+
+- ---
+### Input Example
+
+a = "1001"  
+
+b = "0110"  
+
+cmd = {"OR", "AND"}
+### ขั้นตอนการคำนวณ
+เริ่มต้นด้วยค่า `a = "1001"`
+คำสั่งแรกใน `cmd` คือ "OR"  
+ทำการ OR ระหว่าง `a` กับ `b`: ผลลัพธ์หลังจากการ OR: `a = "1111"`
+
+คำสั่งถัดไปใน `cmd` คือ "AND"  
+
+ทำการ AND ระหว่าง `a` (ที่อัปเดตแล้ว) กับ `b`: ผลลัพธ์หลังจากการ AND: `a = "0110"`
+
+  
+
+### หมายเหตุ
+
+- `a` และ `b` ต้องมีความยาวเท่ากัน
+
+- รองรับคำสั่ง `OR` และ `AND` เท่านั้นใน `cmd`
+
+- ทุกคำสั่งใน `cmd` จะอัปเดตค่า `a` ตามลำดับ
+
+  
+
+- Function:
+
+```cpp
+
+class LogicTools {
+
+public:
+
+  // constructor รับค่าตั้งต้นมาเก็บไว้ใน data_
+
+  LogicTools(std::string init);
+
+  
+
+  // Getter for data_
+
+  std::string data() const { return data_; }
+
+  
+
+  // returns string representing data_ AND b
+
+  std::string AND(std::string b);
+
+  
+
+  // returns string representing data_ OR b
+
+  std::string OR(std::string b);
+
+  
+
+  // Operate function (Do not need to modify this function)
+
+  void Operate(std::string b, const std::vector<std::string>& cmd);
+
+  
+
+private:
+
+  std::string data_;
+
+};
+
+```
+
+  
+
+## Examples
+
+`a = 1001, b = 0110 , cmd {"AND"} -> a = 0000`
+
+`a = 1001, b = 0110 , cmd {"OR"}  -> a = 1111`
+
+  
+
+## วิธีการทดสอบ
+
+- สามารถกด run script เพื่อทดสอบกับ test cases ที่เตรียมไว้ให้โดยการรัน `run_eval_windows.ps1` (หรือ `run_eval_mac.sh` สำหรับคนที่ใช้ MacOS) บน terminal ภายใน VSCode (หรือคลิ๊กขวาที่ไฟล์แล้วเลือก `Run Code`)
+
+- ถ้า code สามารถรันได้ จะมีผลลัพธ์แสดงอยู่ใน `result.out` ซึ่งจะแจ้งให้ทราบว่าผ่านหรือไม่ผ่านเทสอะไร
+
+- ถ้าใครติดปัญหาเรื่อง Permission บน Windows ให้รัน `Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope CurrentUser` ก่อน
