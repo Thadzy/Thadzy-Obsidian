@@ -25,10 +25,14 @@
             "id": "7ed96c65189e244b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "OOP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OOP"
             }
           }
         ],
@@ -184,12 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "OOP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of OOP"
             }
           }
         ]
