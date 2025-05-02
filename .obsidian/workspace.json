@@ -296,13 +296,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++ References.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of C++ References"
+              "title": "Outline"
             }
           }
         ]
@@ -322,7 +321,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "baae9d8772e4bc3e",
+  "active": "068bb0b4a6ab214f",
   "lastOpenFiles": [
     "C++ References.md",
     "C++ Polymorphism.md",
