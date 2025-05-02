@@ -104,4 +104,31 @@ struct DNANode {
     DNANode* prev; // Pointer to the previous base
 };
 ```
-#
+# dna_linked_list.h
+```cpp
+#pragma once
+#include "base_class.h"
+
+class DNALinkedList {
+public:
+// Default constructor
+DNALinkedList() = default;
+//1. Constructor from a string - creates a DNA sequence from input string
+//   - Decode if string contain the alphabet in "ATCG" by pairing the bases using GetPair()
+//   - Creates linked list nodes for each character in the string
+DNALinkedList(const std::string& s);
+DNANode* header() { return header_; }
+DNANode* tail() { return tail_; }
+int length() { return length_; }
+char GetPair(char c);
+void AddDNABase(char c);
+bool isPalindrome();
+bool CanFormPalindrome();
+void MakePalindrome();
+
+private:
+    DNANode* header_ = nullptr;  // Pointer to first node in DNA Linked List
+    DNANode* tail_ = nullptr;    // Pointer to last node in DNA Linked List
+    int length_ = 0;             // Number of bases (nodes) in the DNA Linked List
+};
+```
