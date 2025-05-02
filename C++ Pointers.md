@@ -30,3 +30,5 @@ string* mystring; // Preferred
 string *mystring;  
 string * mystring;
 ```
+
+[[C++ Dereference]]
