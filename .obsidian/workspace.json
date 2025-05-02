@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "OOP5-A-Bronze2-Logic"
             }
+          },
+          {
+            "id": "874c06fea1a077e7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,13 +198,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP5-A-Bronze2-Logic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OOP5-A-Bronze2-Logic"
+              "title": "Outline"
             }
           }
         ]
@@ -214,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11ba11a819600bd7",
+  "active": "874c06fea1a077e7",
   "lastOpenFiles": [
     "OOP5-A-Bronze2-Logic.md",
     "Useful Example C++ OOP.md",

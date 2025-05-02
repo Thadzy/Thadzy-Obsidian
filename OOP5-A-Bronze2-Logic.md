@@ -69,91 +69,45 @@ private:
 #include <iostream>
 LogicTools::LogicTools(std::string a) {
   // add constructor code here
-
   data_ = a;
-
 }
-
-  
-
 std::string LogicTools::AND(std::string b) {
-
   // add code here
-
   std::string AND = "";
-
-  
-
   for(int i = 0;i < data_.size(); i++){
-
     if(data_[i] == '1' && b[i] == '1'){
-
       AND += '1';
-
     }
-
     else{
-
       AND += '0';
-
     }
-
   }
-
   return AND;
-
 }
-
-  
-
 std::string LogicTools::OR(std::string b) {
-
   // code here
-
   std::string OR = "";
-
-  
-
   for(int i = 0;i < data_.size(); i++){
-
     if(data_[i] == '1' || b[i] == '1'){
-
       OR += '1';
-
     }
-
     else{
-
       OR += '0';
-
     }
-
   }
-
   return OR;
 
 }
 
-  
-
 // Operate function (Do not need to modify this function)
-
 void LogicTools::Operate(std::string b, const std::vector<std::string>& cmd) {
-
   for (const auto &command : cmd) {
-
     if (command == "AND") {
-
       data_ = AND(b);
-
     } else if (command == "OR") {
-
       data_ = OR(b);
-
     }
-
   }
-
 }
 
   
