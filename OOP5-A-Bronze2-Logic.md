@@ -31,70 +31,31 @@ cmd = {"OR", "AND"}
 เริ่มต้นด้วยค่า `a = "1001"`
 คำสั่งแรกใน `cmd` คือ "OR"  
 ทำการ OR ระหว่าง `a` กับ `b`: ผลลัพธ์หลังจากการ OR: `a = "1111"`
-
 คำสั่งถัดไปใน `cmd` คือ "AND"  
-
 ทำการ AND ระหว่าง `a` (ที่อัปเดตแล้ว) กับ `b`: ผลลัพธ์หลังจากการ AND: `a = "0110"`
-
-  
-
 ### หมายเหตุ
-
 - `a` และ `b` ต้องมีความยาวเท่ากัน
-
 - รองรับคำสั่ง `OR` และ `AND` เท่านั้นใน `cmd`
-
 - ทุกคำสั่งใน `cmd` จะอัปเดตค่า `a` ตามลำดับ
-
-  
-
 - Function:
-
 ```cpp
-
 class LogicTools {
-
 public:
-
   // constructor รับค่าตั้งต้นมาเก็บไว้ใน data_
-
   LogicTools(std::string init);
-
-  
-
   // Getter for data_
-
   std::string data() const { return data_; }
-
-  
-
   // returns string representing data_ AND b
-
   std::string AND(std::string b);
-
-  
-
   // returns string representing data_ OR b
-
   std::string OR(std::string b);
-
-  
-
   // Operate function (Do not need to modify this function)
-
   void Operate(std::string b, const std::vector<std::string>& cmd);
-
-  
-
 private:
-
   std::string data_;
-
 };
 
 ```
-
-  
 
 ## Examples
 
@@ -102,12 +63,142 @@ private:
 
 `a = 1001, b = 0110 , cmd {"OR"}  -> a = 1111`
 
+# Logic.cpp
+```cpp
+#include "Logic.h"
+#include <iostream>
+LogicTools::LogicTools(std::string a) {
+  // add constructor code here
+
+  data_ = a;
+
+}
+
   
 
-## วิธีการทดสอบ
+std::string LogicTools::AND(std::string b) {
 
-- สามารถกด run script เพื่อทดสอบกับ test cases ที่เตรียมไว้ให้โดยการรัน `run_eval_windows.ps1` (หรือ `run_eval_mac.sh` สำหรับคนที่ใช้ MacOS) บน terminal ภายใน VSCode (หรือคลิ๊กขวาที่ไฟล์แล้วเลือก `Run Code`)
+  // add code here
 
-- ถ้า code สามารถรันได้ จะมีผลลัพธ์แสดงอยู่ใน `result.out` ซึ่งจะแจ้งให้ทราบว่าผ่านหรือไม่ผ่านเทสอะไร
+  std::string AND = "";
 
-- ถ้าใครติดปัญหาเรื่อง Permission บน Windows ให้รัน `Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope CurrentUser` ก่อน
+  
+
+  for(int i = 0;i < data_.size(); i++){
+
+    if(data_[i] == '1' && b[i] == '1'){
+
+      AND += '1';
+
+    }
+
+    else{
+
+      AND += '0';
+
+    }
+
+  }
+
+  return AND;
+
+}
+
+  
+
+std::string LogicTools::OR(std::string b) {
+
+  // code here
+
+  std::string OR = "";
+
+  
+
+  for(int i = 0;i < data_.size(); i++){
+
+    if(data_[i] == '1' || b[i] == '1'){
+
+      OR += '1';
+
+    }
+
+    else{
+
+      OR += '0';
+
+    }
+
+  }
+
+  return OR;
+
+}
+
+  
+
+// Operate function (Do not need to modify this function)
+
+void LogicTools::Operate(std::string b, const std::vector<std::string>& cmd) {
+
+  for (const auto &command : cmd) {
+
+    if (command == "AND") {
+
+      data_ = AND(b);
+
+    } else if (command == "OR") {
+
+      data_ = OR(b);
+
+    }
+
+  }
+
+}
+
+  
+
+//a = 1001, b = 0110 , cmd {"AND"} -> a = 0000 a = 1001, b = 0110 , cmd {"OR"}  -> a = 1111
+
+// int main() {
+
+//   std::string a = "1001";
+
+//   std::string b = "0110";
+
+//   std::vector<std::string> cmd1 = {"AND"};
+
+//   std::vector<std::string> cmd2 = {"OR"};
+
+  
+
+//   LogicTools tool(a);
+
+  
+
+//   // Test AND
+
+//   tool.Operate(b, cmd1);
+
+//   std::cout << "Result after AND: " << tool.data() << std::endl;
+
+  
+
+//   // Reinitialize tool
+
+//   tool = LogicTools(a);
+
+  
+
+//   // Test OR
+
+//   tool.Operate(b, cmd2);
+
+//   std::cout << "Result after OR: " << tool.data() << std::endl;
+
+  
+
+//   return 0;
+
+// }
+```
