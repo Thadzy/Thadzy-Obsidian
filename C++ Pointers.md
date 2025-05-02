@@ -20,4 +20,12 @@ cout << &food << "\n";
 // Output the memory address of food with the pointer (0x6dfed4)  
 cout << ptr << "\n";
 ```
+Create a pointer variable with the name `ptr`, that **points to** a `string` variable, by using the asterisk sign `*` (`string* ptr`). Note that the type of the pointer has to match the type of the variable you're working with.
+Use the `&` operator to store the memory address of the variable called `food`, and assign it to the pointer.
+Now, `ptr` holds the value of `food`'s memory address.
 
+```There are three ways to declare pointer variables, but the first way is preferred:
+string* mystring; // Preferred  
+string *mystring;  
+string * mystring;
+```
