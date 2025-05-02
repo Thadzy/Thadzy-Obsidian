@@ -14,3 +14,20 @@ In C++ (especially in **Object-Oriented Programming**, or OOP), using a trailing
 ### Meaning of `variable_` (trailing underscore)
 - `variable_` indicates that the variable is a **private member of a class**.
 - It helps distinguish member variables from local variables or parameters, especially in constructors or setters.
+
+```cpp
+class Person {
+private:
+    std::string name_;  // private member variable
+public:
+    Person(const std::string& name) {
+        name_ = name; // clearly assigns the parameter to the member
+    }
+};
+```
+
+```cpp
+Person(const std::string& name) {
+    this->name = name; // use of this-> required to avoid name conflict
+}
+```
