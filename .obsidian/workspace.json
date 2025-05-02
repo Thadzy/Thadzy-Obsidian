@@ -39,10 +39,14 @@
             "id": "874c06fea1a077e7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "OOP5-A-Bronze2-Logic.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OOP5-A-Bronze2-Logic"
             }
           }
         ],
@@ -198,12 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "OOP5-A-Bronze2-Logic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of OOP5-A-Bronze2-Logic"
             }
           }
         ]
