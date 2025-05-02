@@ -31,3 +31,9 @@ Person(const std::string& name) {
     this->name = name; // use of this-> required to avoid name conflict
 }
 ```
+
+|Signature|Meaning|Efficiency|
+|---|---|---|
+|`std::string name`|Passed by value → copied|❌ slow|
+|`std::string& name`|Passed by reference, modifiable|⚠️ risky|
+|`const std::string& name`|Passed by reference, **read-only** (✔ preferred)|✅ efficient|
