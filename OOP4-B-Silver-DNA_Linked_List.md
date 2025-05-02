@@ -113,9 +113,6 @@ class DNALinkedList {
 public:
 // Default constructor
 DNALinkedList() = default;
-//1. Constructor from a string - creates a DNA sequence from input string
-//   - Decode if string contain the alphabet in "ATCG" by pairing the bases using GetPair()
-//   - Creates linked list nodes for each character in the string
 DNALinkedList(const std::string& s);
 DNANode* header() { return header_; }
 DNANode* tail() { return tail_; }
@@ -132,3 +129,5 @@ private:
     int length_ = 0;             // Number of bases (nodes) in the DNA Linked List
 };
 ```
+# dna_linked_list.cpp
+
