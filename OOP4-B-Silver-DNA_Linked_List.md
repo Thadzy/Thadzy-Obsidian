@@ -130,4 +130,111 @@ private:
 };
 ```
 # dna_linked_list.cpp
+```cpp
+#include "dna_linked_list.h"
+#include <vector>
+#include <unordered_map>
+#include <algorithm>
 
+// Constructor: Builds the linked list from a string, using base pairing
+DNALinkedList::DNALinkedList(const std::string &s) {
+  for (char c : s) {
+    char pair = GetPair(c);   // Get the base pair (A↔T, C↔G)
+    AddDNABase(pair);         // Add paired base to the linked list
+  }
+}
+
+// GetPair: Returns the complementary base
+char DNALinkedList::GetPair(char c) {
+  switch (c) {
+    case 'A': return 'T';
+    case 'T': return 'A';
+    case 'C': return 'G';
+    case 'G': return 'C';
+    default:  return c;  // If not A/T/C/G, return the character itself
+  }
+}
+
+// AddDNABase: Adds a new base to the end of the doubly linked list
+void DNALinkedList::AddDNABase(char c) {
+  DNANode* newNode = new DNANode{c, nullptr, nullptr};  // Create new node
+  if (!header_) {
+    // If list is empty, new node is both head and tail
+    header_ = tail_ = newNode;
+  } else {
+    // Link the new node to the current tail
+    tail_->next = newNode;
+    newNode->prev = tail_;
+    tail_ = newNode; // Update tail pointer
+  }
+  length_++; // Increment list length
+}
+
+// isPalindrome: Checks if the list is a palindrome
+bool DNALinkedList::isPalindrome() {
+  DNANode* left = header_;
+  DNANode* right = tail_;
+  while (left && right && left != right && left->prev != right) {
+    if (left->base != right->base)
+      return false; // Not a palindrome if characters differ
+    left = left->next;
+    right = right->prev;
+  }
+  return true;
+}
+
+// CanFormPalindrome: Checks if we can rearrange the list to be a palindrome
+bool DNALinkedList::CanFormPalindrome() {
+  std::unordered_map<char, int> freq;
+  DNANode* node = header_;
+  while (node) {
+    freq[node->base]++;  // Count frequency of each base
+    node = node->next;
+  }
+
+  int oddCount = 0;
+  for (const auto& pair : freq) {
+    if (pair.second % 2 != 0)
+      oddCount++;  // Count how many characters occur an odd number of times
+  }
+
+  // A palindrome can have at most 1 character with odd frequency
+  return oddCount <= 1;
+}
+
+// MakePalindrome: Rearranges list to form the smallest lexicographical palindrome
+void DNALinkedList::MakePalindrome() {
+  if (isPalindrome()) return; // Do nothing if it's already a palindrome
+
+  std::unordered_map<char, int> freq;
+  DNANode* node = header_;
+  while (node) {
+    freq[node->base]++; // Count character frequency
+    node = node->next;
+  }
+
+  std::vector<char> half; // Left half of palindrome
+  char midChar = '\0';    // Optional middle character for odd-length palindromes
+
+  for (auto& [c, count] : freq) {
+    for (int i = 0; i < count / 2; ++i)
+      half.push_back(c);  // Push half of the characters
+    if (count % 2 == 1)
+      midChar = c;        // Store middle character if needed
+  }
+
+  std::sort(half.begin(), half.end()); // Lexicographically smallest order
+
+  std::vector<char> fullList = half;
+  if (midChar != '\0') fullList.push_back(midChar);  // Insert center character
+  for (auto it = half.rbegin(); it != half.rend(); ++it)
+    fullList.push_back(*it);  // Add reverse of left half to form right half
+
+  // Rewrite original list using the new character sequence
+  node = header_;
+  for (char c : fullList) {
+    node->base = c;
+    node = node->next;
+  }
+}
+```

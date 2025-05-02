@@ -6,3 +6,4 @@ date: 2025-05-02
 ---
 ## Introduction 
 [[OOP4-B-Silver-DNA_Linked_List]]
+[[OOP5-A-Bronze-LogicTool]]
