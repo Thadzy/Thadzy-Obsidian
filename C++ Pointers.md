@@ -24,7 +24,8 @@ Create a pointer variable with the name `ptr`, that **points to** a `string`
 Use the `&` operator to store the memory address of the variable called `food`, and assign it to the pointer.
 Now, `ptr` holds the value of `food`'s memory address.
 
-```There are three ways to declare pointer variables, but the first way is preferred:
+```
+There are three ways to declare pointer variables, but the first way is preferred:
 string* mystring; // Preferred  
 string *mystring;  
 string * mystring;
