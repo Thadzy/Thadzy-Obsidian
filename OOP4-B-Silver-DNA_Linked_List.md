@@ -63,71 +63,45 @@ Example 1 (Basic) : input = "XTXTY"
                s.header()->next->next->next->next->base = 'Y'
 
 Example 2 (Advance) : input = "TACOCAT"
-
     // Constructor + GetPair + AddDNABase
-
     DNALinkedList s(input);
-
     -> switch bases first = "ATGOGTA"
-
     Expected : s.header()->base = 'A'
-
                s.header()->next->base = 'T'
-
                s.header()->next->next->base = 'G'
-
                s.header()->next->next->next->base = 'O'
-
                s.header()->next->next->next->next->base = 'G'
-
                s.header()->next->next->next->next->next->base = 'T'
-
                s.header()->next->next->next->next->next->next->base = 'A'
 
     // IsPalindrome
-
     s.IsPalindrome();
-
     Expected : true
-
-  
-
     // CanFormPalindrome
-
     s.CanFormPalindrome();
-
     Expected : true
-
     // MakePalindrome
-
     s.MakePalindrome();
-
     Expected : s.header()->base = 'A'
-
                s.header()->next->base = 'T'
-
                s.header()->next->next->base = 'G'
-
                s.header()->next->next->next->base = 'O'
-
                s.header()->next->next->next->next->base = 'G'
-
                s.header()->next->next->next->next->next->base = 'T'
-
-               s.header()->next->next->next->next->next->next->base = 'A'
-
+               s.header()->next->next->next->next->next->next->base = 'A'
     (Linked List เหมือนเดิมเพราะเป็น Palindrome อยู่แล้ว)
-
     ; หากตัวอย่างไม่ได้เป็น Palindrome อยู่แล้ว ลำดับ Linked List ก็จะแค่เรียงใหม่
-
 ```
 
-  
-
-## วิธีการทดสอบ
-
-- สามารถกด run script เพื่อทดสอบกับ test cases ที่เตรียมไว้ให้โดยการรัน `run_eval_windows.ps1` (หรือ `run_eval_mac.sh` สำหรับคนที่ใช้ MacOS) บน terminal ภายใน VSCode (หรือคลิ๊กขวาที่ไฟล์แล้วเลือก `Run Code`)
-
-- ถ้า code สามารถรันได้ จะมีผลลัพธ์แสดงอยู่ใน `result.out` ซึ่งจะแจ้งให้ทราบว่าผ่านหรือไม่ผ่านเทสอะไร
-
-- ถ้าใครติดปัญหาเรื่อง Permission บน Windows ให้รัน `Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope CurrentUser` ก่อน
+# Baseclass.h
+```cpp
+#pragma once
+#include <vector>
+#include <string>
+struct DNANode {
+    char base; // Character of one base
+    DNANode* next; // Pointer to the next base
+    DNANode* prev; // Pointer to the previous base
+};
+```
+#
