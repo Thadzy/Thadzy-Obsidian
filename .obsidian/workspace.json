@@ -11,10 +11,14 @@
             "id": "038bcdbd024e7a13",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Magnitude of Vector (Norm).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magnitude of Vector (Norm)"
             }
           }
         ]
@@ -169,12 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Magnitude of Vector (Norm).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Magnitude of Vector (Norm)"
             }
           }
         ]
@@ -196,6 +201,7 @@
   },
   "active": "038bcdbd024e7a13",
   "lastOpenFiles": [
+    "Unit Vector.md",
     "OOP5-A-Bronze2-Logic.md",
     "Useful Example C++ OOP.md",
     "OOP4-B-Silver-DNA_Linked_List.md",
@@ -229,7 +235,6 @@
     "Vector Projection.md",
     "Vector Functions.md",
     "Untitled.md",
-    "Unit Vector.md",
     "Unit Tangent Vector.md",
     "Physics.canvas",
     "Pasted image 20250414125653.png",
