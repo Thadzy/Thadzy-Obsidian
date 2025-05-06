@@ -69,10 +69,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "1 Polar Student.pdf"
+                "file": "2 อินทิกรัลหลายชั้น_Student.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "1 Polar Student"
+              "title": "2 อินทิกรัลหลายชั้น_Student"
             }
           }
         ],
@@ -228,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Polar Student.pdf",
+                "file": "2 อินทิกรัลหลายชั้น_Student.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1 Polar Student"
+              "title": "Outline of 2 อินทิกรัลหลายชั้น_Student"
             }
           }
         ]
@@ -256,10 +256,10 @@
   },
   "active": "c8664b11b8fdf4a3",
   "lastOpenFiles": [
+    "1 Polar Student.pdf",
     "2 อินทิกรัลหลายชั้น_Student.pdf",
     "Area in Polar Coordinates.md",
     "Pasted image 20250506083309.png",
-    "1 Polar Student.pdf",
     "Unit Vector.md",
     "Untitled.md",
     "Untitled 2.md",
