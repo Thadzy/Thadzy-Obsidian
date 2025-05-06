@@ -67,10 +67,12 @@
             "id": "c8664b11b8fdf4a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "2 อินทิกรัลหลายชั้น_Student.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2 อินทิกรัลหลายชั้น_Student"
             }
           }
         ],
@@ -226,12 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "2 อินทิกรัลหลายชั้น_Student.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2 อินทิกรัลหลายชั้น_Student"
             }
           }
         ]
@@ -250,43 +253,6 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
-  },
-  "floating": {
-    "id": "2c82bb67aa4af568",
-    "type": "floating",
-    "children": [
-      {
-        "id": "94cf7df3e82aa761",
-        "type": "window",
-        "children": [
-          {
-            "id": "04b97a43c7a26585",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4de6d78c38230257",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "1 Polar Student.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "1 Polar Student"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2154,
-        "y": 263,
-        "width": 1252,
-        "height": 993,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
   },
   "active": "c8664b11b8fdf4a3",
   "lastOpenFiles": [
