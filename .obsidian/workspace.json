@@ -18,8 +18,19 @@
               "icon": "lucide-file-text",
               "title": "1 Polar Student"
             }
+          },
+          {
+            "id": "a9df1f62b38e17c8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,13 +182,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Polar Student.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1 Polar Student"
+              "title": "Outline"
             }
           }
         ]
@@ -197,8 +207,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4de6d78c38230257",
+  "active": "a9df1f62b38e17c8",
   "lastOpenFiles": [
+    "1 Polar Student.pdf",
     "2 อินทิกรัลหลายชั้น_Student.pdf",
     "5_Thin Membrane Mohr_AJT 2025.pdf",
     "4_VM_Equations Deformation_AJT 2025.pdf",
@@ -220,7 +231,6 @@
     "C++ Constructors.md",
     "C++ Classes and Objects.md",
     "Pasted image 20250501154730.png",
-    "1 Polar Student.pdf",
     "Graph in Polar Coordinate.md",
     "Pasted image 20250421112835.png",
     "Polar Coordinate.md",
