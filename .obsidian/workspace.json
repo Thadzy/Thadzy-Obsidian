@@ -216,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Polar Student.pdf",
+                "file": "Area in Polar Coordinates.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1 Polar Student"
+              "title": "Outline of Area in Polar Coordinates"
             }
           }
         ]
@@ -279,13 +279,14 @@
       }
     ]
   },
-  "active": "4de6d78c38230257",
+  "active": "dd3260d54a0bde1a",
   "lastOpenFiles": [
+    "Pasted image 20250506083309.png",
+    "1 Polar Student.pdf",
     "Area in Polar Coordinates.md",
     "Unit Vector.md",
     "Untitled.md",
     "Untitled 2.md",
-    "1 Polar Student.pdf",
     "Graphs of polar equations you should know.md",
     "Pasted image 20250506082708.png",
     "Pasted image 20250506082540.png",
@@ -317,7 +318,6 @@
     "Pasted image 20250421110832.png",
     "Integral test.md",
     "Velocity, Acceleration and Speed.md",
-    "Vector in Coordination Systems.md",
     "Physics.canvas",
     "Pasted image 20250414125653.png",
     "Pasted image 20250414125623.png",
