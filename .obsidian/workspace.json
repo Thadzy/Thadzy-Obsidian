@@ -62,9 +62,19 @@
               "icon": "lucide-file",
               "title": "Unit Vector"
             }
+          },
+          {
+            "id": "c8664b11b8fdf4a3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -216,13 +226,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Area in Polar Coordinates.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Area in Polar Coordinates"
+              "title": "Outline"
             }
           }
         ]
@@ -279,11 +288,11 @@
       }
     ]
   },
-  "active": "dd3260d54a0bde1a",
+  "active": "c8664b11b8fdf4a3",
   "lastOpenFiles": [
+    "Area in Polar Coordinates.md",
     "Pasted image 20250506083309.png",
     "1 Polar Student.pdf",
-    "Area in Polar Coordinates.md",
     "Unit Vector.md",
     "Untitled.md",
     "Untitled 2.md",
@@ -321,7 +330,6 @@
     "Physics.canvas",
     "Pasted image 20250414125653.png",
     "Pasted image 20250414125623.png",
-    "Pasted image 20250414125521.png",
     "Mechanics_of_Materials_By_B_J_7th-1.pdf",
     "Calculus 2.canvas",
     "Untitled.canvas",
