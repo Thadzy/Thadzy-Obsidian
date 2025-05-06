@@ -69,10 +69,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "2 อินทิกรัลหลายชั้น_Student.pdf"
+                "file": "1 Polar Student.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "2 อินทิกรัลหลายชั้น_Student"
+              "title": "1 Polar Student"
             }
           }
         ],
@@ -228,12 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1 Polar Student.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 1 Polar Student"
             }
           }
         ]
@@ -253,7 +254,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "068bb0b4a6ab214f",
+  "active": "c8664b11b8fdf4a3",
   "lastOpenFiles": [
     "2 อินทิกรัลหลายชั้น_Student.pdf",
     "Area in Polar Coordinates.md",
