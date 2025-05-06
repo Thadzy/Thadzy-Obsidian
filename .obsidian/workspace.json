@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Graphs of polar equations you should know.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Graphs of polar equations you should know"
             }
           }
         ],
@@ -188,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Graphs of polar equations you should know.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of Graphs of polar equations you should know"
             }
           }
         ]
@@ -253,10 +253,10 @@
   },
   "active": "530f005df5dcd230",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "1 Polar Student.pdf",
+    "Graphs of polar equations you should know.md",
     "Graph in Polar Coordinate.md",
     "Polar Coordinate.md",
-    "1 Polar Student.pdf",
     "2 อินทิกรัลหลายชั้น_Student.pdf",
     "5_Thin Membrane Mohr_AJT 2025.pdf",
     "4_VM_Equations Deformation_AJT 2025.pdf",
@@ -287,7 +287,6 @@
     "Vector in Coordination Systems.md",
     "Vector between 2 points.md",
     "Vector Projection.md",
-    "Vector Functions.md",
     "Physics.canvas",
     "Pasted image 20250414125653.png",
     "Pasted image 20250414125623.png",
