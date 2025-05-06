@@ -228,13 +228,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 อินทิกรัลหลายชั้น_Student.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2 อินทิกรัลหลายชั้น_Student"
+              "title": "Outline"
             }
           }
         ]
@@ -254,8 +253,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8664b11b8fdf4a3",
+  "active": "068bb0b4a6ab214f",
   "lastOpenFiles": [
+    "2 อินทิกรัลหลายชั้น_Student.pdf",
     "Area in Polar Coordinates.md",
     "Pasted image 20250506083309.png",
     "1 Polar Student.pdf",
@@ -267,7 +267,6 @@
     "Pasted image 20250506082540.png",
     "Graph in Polar Coordinate.md",
     "Polar Coordinate.md",
-    "2 อินทิกรัลหลายชั้น_Student.pdf",
     "5_Thin Membrane Mohr_AJT 2025.pdf",
     "4_VM_Equations Deformation_AJT 2025.pdf",
     "Magnitude of Vector (Norm).md",
