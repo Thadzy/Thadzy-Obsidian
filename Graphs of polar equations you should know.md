@@ -9,72 +9,71 @@ Graphs of polar equations you should know
 ![[Pasted image 20250506082540.png]]
 ![[Pasted image 20250506082708.png]]
 
+# Graphs of Polar Equations – Quick Reference
+
 ## Circles
 - **Equations:**
-  - \( r = a \cos(\theta) \)
-  - \( r = a \sin(\theta) \)
+  - $r = a \cos(\theta)$  
+  - $r = a \sin(\theta)$
 - **Notes:**
   - Center is offset from the pole.
-  - Radius is \( |a|/2 \).
+  - Radius is $\frac{|a|}{2}$.
 
 ---
 
 ## Lines
 - **Equations:**
-  - \( \theta = \text{constant} \) — line through the origin  
-  - \( r = \frac{a}{\cos(\theta)} \) or \( r = \frac{a}{\sin(\theta)} \) — vertical or horizontal lines  
+  - $\theta = \text{constant}$ — line through the origin  
+  - $r = \frac{a}{\cos(\theta)}$, $r = \frac{a}{\sin(\theta)}$ — vertical or horizontal lines  
 - **Notes:**
-  - Used to represent straight lines in polar coordinates.
+  - Used to represent straight lines in polar form.
 
 ---
 
 ## Cardioids
 - **Equations:**
-  - \( r = a(1 \pm \cos(\theta)) \)
-  - \( r = a(1 \pm \sin(\theta)) \)
+  - $r = a(1 \pm \cos(\theta))$  
+  - $r = a(1 \pm \sin(\theta))$
 - **Notes:**
   - Heart-shaped curves.
   - Touch the pole.
-  - Symmetric about the x-axis (cos) or y-axis (sin).
+  - Symmetric about x-axis (cos) or y-axis (sin).
 
 ---
 
 ## Limaçons
 - **Equations:**
-  - \( r = a \pm b \cos(\theta) \)
-  - \( r = a \pm b \sin(\theta) \)
+  - $r = a \pm b \cos(\theta)$  
+  - $r = a \pm b \sin(\theta)$
 - **Notes:**
-  - \( a < b \): Inner loop  
-  - \( a = b \): Cardioid  
-  - \( a > b \): Dimpled or convex shape
+  - $a < b$: inner loop  
+  - $a = b$: cardioid  
+  - $a > b$: dimpled or convex shape
 
 ---
 
 ## Rose Curves
 - **Equations:**
-  - \( r = a \cos(n\theta) \)
-  - \( r = a \sin(n\theta) \)
+  - $r = a \cos(n\theta)$  
+  - $r = a \sin(n\theta)$
 - **Petal Count:**
-  - If \( n \) is even → \( 2n \) petals  
-  - If \( n \) is odd → \( n \) petals  
-- **Notes:**
-  - Symmetrical and centered at the pole.
+  - $n$ even → $2n$ petals  
+  - $n$ odd → $n$ petals
 
 ---
 
 ## Lemniscates
 - **Equations:**
-  - \( r^2 = a^2 \cos(2\theta) \)
-  - \( r^2 = a^2 \sin(2\theta) \)
+  - $r^2 = a^2 \cos(2\theta)$  
+  - $r^2 = a^2 \sin(2\theta)$
 - **Notes:**
-  - Figure-eight shaped curves.
-  - Centered at the origin.
+  - Figure-eight shape centered at the pole.
 
 ---
 
-## Spirals (e.g., Archimedean)
+## Spirals (Archimedean)
 - **Equation:**
-  - \( r = a\theta \)
+  - $r = a\theta$
 - **Notes:**
-  - The radius increases with angle.
-  - Often used to model natural growth or rotational motion.
+  - Radius increases with angle.
+  - Common in nature and rotational systems.

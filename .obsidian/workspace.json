@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Graphs of polar equations you should know"
             }
+          },
+          {
+            "id": "dd3260d54a0bde1a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,13 +198,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphs of polar equations you should know.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Graphs of polar equations you should know"
+              "title": "Outline"
             }
           }
         ]
@@ -251,12 +260,12 @@
       }
     ]
   },
-  "active": "530f005df5dcd230",
+  "active": "dd3260d54a0bde1a",
   "lastOpenFiles": [
+    "Graphs of polar equations you should know.md",
     "Pasted image 20250506082708.png",
     "Pasted image 20250506082540.png",
     "1 Polar Student.pdf",
-    "Graphs of polar equations you should know.md",
     "Graph in Polar Coordinate.md",
     "Polar Coordinate.md",
     "2 อินทิกรัลหลายชั้น_Student.pdf",
@@ -293,7 +302,6 @@
     "Pasted image 20250414125653.png",
     "Pasted image 20250414125623.png",
     "Pasted image 20250414125521.png",
-    "Pasted image 20250414125444.png",
     "Mechanics_of_Materials_By_B_J_7th-1.pdf",
     "Calculus 2.canvas",
     "Untitled.canvas",
