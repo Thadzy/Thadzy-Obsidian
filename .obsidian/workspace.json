@@ -39,10 +39,28 @@
             "id": "dd3260d54a0bde1a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Area in Polar Coordinates.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Area in Polar Coordinates"
+            }
+          },
+          {
+            "id": "1fb1d5839d81d4ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unit Vector.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unit Vector"
             }
           }
         ],
@@ -198,12 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1 Polar Student.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 1 Polar Student"
             }
           }
         ]
@@ -260,18 +279,21 @@
       }
     ]
   },
-  "active": "dd3260d54a0bde1a",
+  "active": "4de6d78c38230257",
   "lastOpenFiles": [
+    "Area in Polar Coordinates.md",
+    "Unit Vector.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "1 Polar Student.pdf",
     "Graphs of polar equations you should know.md",
     "Pasted image 20250506082708.png",
     "Pasted image 20250506082540.png",
-    "1 Polar Student.pdf",
     "Graph in Polar Coordinate.md",
     "Polar Coordinate.md",
     "2 อินทิกรัลหลายชั้น_Student.pdf",
     "5_Thin Membrane Mohr_AJT 2025.pdf",
     "4_VM_Equations Deformation_AJT 2025.pdf",
-    "Unit Vector.md",
     "Magnitude of Vector (Norm).md",
     "OOP5-A-Bronze2-Logic.md",
     "Useful Example C++ OOP.md",
@@ -296,8 +318,6 @@
     "Integral test.md",
     "Velocity, Acceleration and Speed.md",
     "Vector in Coordination Systems.md",
-    "Vector between 2 points.md",
-    "Vector Projection.md",
     "Physics.canvas",
     "Pasted image 20250414125653.png",
     "Pasted image 20250414125623.png",
