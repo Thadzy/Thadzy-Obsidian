@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "038bcdbd024e7a13",
+            "id": "4de6d78c38230257",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Unit Vector.md",
-                "mode": "source",
-                "source": false
+                "file": "1 Polar Student.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Unit Vector"
+              "icon": "lucide-file-text",
+              "title": "1 Polar Student"
             }
           }
         ]
@@ -173,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unit Vector.md",
+                "file": "1 Polar Student.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit Vector"
+              "title": "Outline of 1 Polar Student"
             }
           }
         ]
@@ -199,10 +197,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "038bcdbd024e7a13",
+  "active": "4de6d78c38230257",
   "lastOpenFiles": [
-    "Magnitude of Vector (Norm).md",
+    "2 อินทิกรัลหลายชั้น_Student.pdf",
+    "5_Thin Membrane Mohr_AJT 2025.pdf",
+    "4_VM_Equations Deformation_AJT 2025.pdf",
     "Unit Vector.md",
+    "Magnitude of Vector (Norm).md",
     "OOP5-A-Bronze2-Logic.md",
     "Useful Example C++ OOP.md",
     "OOP4-B-Silver-DNA_Linked_List.md",
@@ -219,9 +220,6 @@
     "C++ Constructors.md",
     "C++ Classes and Objects.md",
     "Pasted image 20250501154730.png",
-    "4_VM_Equations Deformation_AJT 2025.pdf",
-    "5_Thin Membrane Mohr_AJT 2025.pdf",
-    "2 อินทิกรัลหลายชั้น_Student.pdf",
     "1 Polar Student.pdf",
     "Graph in Polar Coordinate.md",
     "Pasted image 20250421112835.png",
@@ -235,7 +233,6 @@
     "Vector between 2 points.md",
     "Vector Projection.md",
     "Vector Functions.md",
-    "Untitled.md",
     "Physics.canvas",
     "Pasted image 20250414125653.png",
     "Pasted image 20250414125623.png",
