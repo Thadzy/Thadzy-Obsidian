@@ -74,9 +74,19 @@
               "icon": "lucide-file-text",
               "title": "4_VM_Equations Deformation_AJT 2025"
             }
+          },
+          {
+            "id": "e82d9633f20ab1bd",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -228,13 +238,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4_VM_Equations Deformation_AJT 2025.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 4_VM_Equations Deformation_AJT 2025"
+              "title": "Outline"
             }
           }
         ]
@@ -254,10 +263,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64ce2526297b9681",
+  "active": "e82d9633f20ab1bd",
   "lastOpenFiles": [
-    "5_Thin Membrane Mohr_AJT 2025.pdf",
     "4_VM_Equations Deformation_AJT 2025.pdf",
+    "5_Thin Membrane Mohr_AJT 2025.pdf",
     "Unit Vector.md",
     "2 อินทิกรัลหลายชั้น_Student.pdf",
     "1 Polar Student.pdf",
