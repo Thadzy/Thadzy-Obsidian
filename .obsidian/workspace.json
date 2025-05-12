@@ -79,10 +79,12 @@
             "id": "e82d9633f20ab1bd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "1 Polar Student.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1 Polar Student"
             }
           }
         ],
@@ -238,12 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1 Polar Student.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 1 Polar Student"
             }
           }
         ]
