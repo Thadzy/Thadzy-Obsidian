@@ -81,10 +81,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "1 Polar Student.pdf"
+                "file": "4_VM_Equations Deformation_AJT 2025.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "1 Polar Student"
+              "title": "4_VM_Equations Deformation_AJT 2025"
             }
           }
         ],
@@ -240,13 +240,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Polar Student.pdf",
+                "file": "4_VM_Equations Deformation_AJT 2025.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1 Polar Student"
+              "title": "Outline of 4_VM_Equations Deformation_AJT 2025"
             }
           }
         ]
@@ -266,10 +266,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e82d9633f20ab1bd",
+  "active": "8fcf9bc88e581a6b",
   "lastOpenFiles": [
-    "4_VM_Equations Deformation_AJT 2025.pdf",
     "1 Polar Student.pdf",
+    "4_VM_Equations Deformation_AJT 2025.pdf",
     "5_Thin Membrane Mohr_AJT 2025.pdf",
     "Unit Vector.md",
     "2 อินทิกรัลหลายชั้น_Student.pdf",
