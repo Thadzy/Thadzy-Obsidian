@@ -67,10 +67,12 @@
             "id": "64ce2526297b9681",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "4_VM_Equations Deformation_AJT 2025.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "4_VM_Equations Deformation_AJT 2025"
             }
           }
         ],
@@ -226,12 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "4_VM_Equations Deformation_AJT 2025.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 4_VM_Equations Deformation_AJT 2025"
             }
           }
         ]
