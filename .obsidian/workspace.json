@@ -77,8 +77,7 @@
               "title": "OOP1-A-Wood1-BMI"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,13 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP2-A-Bronze2-Uber.md",
+                "file": "Useful Example C++ OOP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OOP2-A-Bronze2-Uber"
+              "title": "Outline of Useful Example C++ OOP"
             }
           }
         ]
@@ -256,10 +255,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b15e0e5c805cf935",
+  "active": "a4cb99eed8dbe027",
   "lastOpenFiles": [
-    "Useful Example C++ OOP.md",
     "OOP2-A-Bronze2-Uber.md",
+    "Useful Example C++ OOP.md",
     "OOP2-A-Bronze1-StructList.md",
     "OOP1-A-Wood2-DOB.md",
     "OOP1-A-Wood1-BMI.md",
