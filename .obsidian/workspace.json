@@ -119,7 +119,8 @@
               "title": "OOP1-A-Wood1-BMI"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP3-A-Bronze1-OddEven.md",
+                "file": "OOP6.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OOP3-A-Bronze1-OddEven"
+              "title": "Outline of OOP6"
             }
           }
         ]
@@ -297,13 +298,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4cb99eed8dbe027",
+  "active": "ae4f5512a8f8b448",
   "lastOpenFiles": [
+    "OOP3-A-Bronze1-OddEven.md",
     "Useful Example C++ OOP.md",
     "OOP5-A-Bronze2-Logic.md",
     "OOP6.md",
     "OOP3-A-Bronze1-Kittens_Nanny.md",
-    "OOP3-A-Bronze1-OddEven.md",
     "OOP4-B-Silver-DNA-Linked-List.md",
     "OOP2-A-Bronze2-Uber.md",
     "OOP2-A-Bronze1-StructList.md",
