@@ -119,7 +119,8 @@
               "title": "OOP1-A-Wood1-BMI"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP5-A-Bronze2-Logic.md",
+                "file": "OOP6.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OOP5-A-Bronze2-Logic"
+              "title": "Outline of OOP6"
             }
           }
         ]
@@ -297,8 +298,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4cb99eed8dbe027",
+  "active": "ae4f5512a8f8b448",
   "lastOpenFiles": [
+    "OOP5-A-Bronze2-Logic.md",
     "Useful Example C++ OOP.md",
     "OOP4-B-Silver-DNA-Linked-List.md",
     "OOP6.md",
@@ -324,7 +326,6 @@
     "Graph in Polar Coordinate.md",
     "Polar Coordinate.md",
     "Magnitude of Vector (Norm).md",
-    "OOP5-A-Bronze2-Logic.md",
     "OOP4-B-Silver-DNA_Linked_List.md",
     "OOP.md",
     "C++ Class Methods.md",
