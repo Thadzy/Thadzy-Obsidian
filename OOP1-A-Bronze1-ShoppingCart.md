@@ -66,5 +66,33 @@ Total Price: (1000*3)+(100*5) = 3500 (no VAT) => 3500
 
 ```
 
-  
 
+```cpp
+#include "shopping_cart.h"
+#include <iostream>
+
+double ShoppingCart(const std::vector<ItemInfo> &items) {
+    double total_prices = 0.0;
+
+    for (const ItemInfo& item : items) {
+        std::cout <<"Item ID: " << item.id << '\n';
+
+        bool is_food = (item.id.size() >= 6 &&
+                        (item.id[0] == '5' || item.id[0] == '6' || item.id[0] == '7'));
+
+        double temp_prices = item.unit_price * item.count;
+
+        if (is_food) {
+            std::cout << "Food: " << temp_prices << '\n';
+        } else {
+            temp_prices *= 1.07;
+            std::cout << "Non Food: " << temp_prices << '\n';
+        }
+
+        total_prices += temp_prices;
+    }
+
+    return total_prices;
+}
+
+```
