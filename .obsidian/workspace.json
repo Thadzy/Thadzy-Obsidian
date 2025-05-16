@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOP4-B-Silver-DNA-Linked-List.md",
+                "file": "OOP5-A-Bronze2-Logic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OOP4-B-Silver-DNA-Linked-List"
+              "title": "OOP5-A-Bronze2-Logic"
             }
           },
           {
@@ -271,13 +271,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP4-B-Silver-DNA-Linked-List.md",
+                "file": "OOP5-A-Bronze2-Logic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OOP4-B-Silver-DNA-Linked-List"
+              "title": "Outline of OOP5-A-Bronze2-Logic"
             }
           }
         ]
@@ -300,8 +300,8 @@
   "active": "a4cb99eed8dbe027",
   "lastOpenFiles": [
     "Useful Example C++ OOP.md",
-    "OOP6.md",
     "OOP4-B-Silver-DNA-Linked-List.md",
+    "OOP6.md",
     "OOP3-A-Bronze1-OddEven.md",
     "OOP3-A-Bronze1-Kittens_Nanny.md",
     "OOP2-A-Bronze2-Uber.md",
