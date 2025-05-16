@@ -86,9 +86,19 @@
               "icon": "lucide-file-text",
               "title": "1 Polar Student"
             }
+          },
+          {
+            "id": "28bdaa9500523ad6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -240,13 +250,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Polar Student.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1 Polar Student"
+              "title": "Outline"
             }
           }
         ]
@@ -266,10 +275,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e82d9633f20ab1bd",
+  "active": "28bdaa9500523ad6",
   "lastOpenFiles": [
-    "2 อินทิกรัลหลายชั้น_Student.pdf",
     "1 Polar Student.pdf",
+    "2 อินทิกรัลหลายชั้น_Student.pdf",
     "4_VM_Equations Deformation_AJT 2025.pdf",
     "5_Thin Membrane Mohr_AJT 2025.pdf",
     "Unit Vector.md",
