@@ -119,7 +119,8 @@
               "title": "OOP1-A-Wood1-BMI"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -271,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP5-A-Bronze2-Logic.md",
+                "file": "OOP3-A-Bronze1-Kittens_Nanny.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OOP5-A-Bronze2-Logic"
+              "title": "Outline of OOP3-A-Bronze1-Kittens_Nanny"
             }
           }
         ]
@@ -297,11 +298,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4cb99eed8dbe027",
+  "active": "84d8225026c7e28c",
   "lastOpenFiles": [
     "OOP3-A-Bronze1-OddEven.md",
-    "OOP6.md",
     "OOP5-A-Bronze2-Logic.md",
+    "OOP6.md",
     "Useful Example C++ OOP.md",
     "OOP4-B-Silver-DNA-Linked-List.md",
     "OOP3-A-Bronze1-Kittens_Nanny.md",
