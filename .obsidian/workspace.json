@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP3-A-Bronze1-Kittens_Nanny.md",
+                "file": "OOP6.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OOP3-A-Bronze1-Kittens_Nanny"
+              "title": "Outline of OOP6"
             }
           }
         ]
@@ -298,14 +298,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84d8225026c7e28c",
+  "active": "ae4f5512a8f8b448",
   "lastOpenFiles": [
+    "OOP3-A-Bronze1-Kittens_Nanny.md",
     "OOP3-A-Bronze1-OddEven.md",
     "OOP5-A-Bronze2-Logic.md",
     "OOP6.md",
     "Useful Example C++ OOP.md",
     "OOP4-B-Silver-DNA-Linked-List.md",
-    "OOP3-A-Bronze1-Kittens_Nanny.md",
     "OOP2-A-Bronze2-Uber.md",
     "OOP2-A-Bronze1-StructList.md",
     "OOP1-A-Wood2-DOB.md",
