@@ -54,5 +54,45 @@ Output: get_odd_numbers() = {5,7,9,11} , get_even_numbers = {6,8,10,12}
 
   
 ```cpp
+#include "OddEven.h"
+
+OddEvenTools::OddEvenTools(const std::vector<int> &n) {
+  for (int number : n) {
+    if (number % 2 == 0) {
+      even_numbers_.push_back(number);
+    } else {
+      odd_numbers_.push_back(number);
+    }
+  }
+}
+
+std::vector<int> OddEvenTools::get_odd_numbers() const {
+  return odd_numbers_;
+}
+
+std::vector<int> OddEvenTools::get_even_numbers() const {
+  return even_numbers_;
+}
+
+```
+
+```cpp
+#pragma once
+#include <vector>
+
+class OddEvenTools {
+public:
+  // Constructor
+  OddEvenTools(const std::vector<int> &n);
+
+  // function that return vector of odd numbers
+  std::vector<int> get_odd_numbers() const;
+  // function that return vector of even numbers
+  std::vector<int> get_even_numbers() const;
+
+private:
+  std::vector<int> odd_numbers_;
+  std::vector<int> even_numbers_;
+};
 
 ```

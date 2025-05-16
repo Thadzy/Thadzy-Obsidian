@@ -105,8 +105,7 @@
               "title": "OOP1-A-Wood1-BMI"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP3-A-Bronze1-OddEven.md",
+                "file": "Useful Example C++ OOP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OOP3-A-Bronze1-OddEven"
+              "title": "Outline of Useful Example C++ OOP"
             }
           }
         ]
@@ -284,7 +283,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7482adbdcbd93ed9",
+  "active": "a4cb99eed8dbe027",
   "lastOpenFiles": [
     "OOP3-A-Bronze1-OddEven.md",
     "Useful Example C++ OOP.md",
