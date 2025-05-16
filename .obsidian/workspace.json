@@ -91,10 +91,14 @@
             "id": "28bdaa9500523ad6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "OOP1-A-Bronze1-ShoppingCart.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OOP1-A-Bronze1-ShoppingCart"
             }
           }
         ],
@@ -250,12 +254,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "OOP1-A-Bronze1-ShoppingCart.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of OOP1-A-Bronze1-ShoppingCart"
             }
           }
         ]
@@ -277,6 +282,8 @@
   },
   "active": "28bdaa9500523ad6",
   "lastOpenFiles": [
+    "Useful Example C++ OOP.md",
+    "OOP1-A-Bronze1-ShoppingCart.md",
     "1 Polar Student.pdf",
     "2 อินทิกรัลหลายชั้น_Student.pdf",
     "4_VM_Equations Deformation_AJT 2025.pdf",
@@ -293,7 +300,6 @@
     "Polar Coordinate.md",
     "Magnitude of Vector (Norm).md",
     "OOP5-A-Bronze2-Logic.md",
-    "Useful Example C++ OOP.md",
     "OOP4-B-Silver-DNA_Linked_List.md",
     "OOP.md",
     "C++ Class Methods.md",
