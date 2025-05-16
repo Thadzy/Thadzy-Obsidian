@@ -91,8 +91,7 @@
               "title": "OOP1-A-Wood1-BMI"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -244,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP3-A-Bronze1-Kittens_Nanny.md",
+                "file": "Useful Example C++ OOP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OOP3-A-Bronze1-Kittens_Nanny"
+              "title": "Outline of Useful Example C++ OOP"
             }
           }
         ]
@@ -270,7 +269,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84d8225026c7e28c",
+  "active": "a4cb99eed8dbe027",
   "lastOpenFiles": [
     "OOP3-A-Bronze1-Kittens_Nanny.md",
     "Useful Example C++ OOP.md",

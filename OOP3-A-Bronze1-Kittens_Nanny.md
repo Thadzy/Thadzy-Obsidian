@@ -55,5 +55,79 @@ example 2 : input ->Cat = {2, 6.5, "playful,trusting", ""}
 ```
 
 ```cpp
+#include "kittens_nanny.h"
+
+/*
+- Objective: `<จงหาบ้านที่เหมาะสมที่สุดสำหรับแมว>`
+- Input(s): `<Cat kitten, std::vector<Home> homes>`
+- Output: `<Cat ที่อัพเดต home>`
+- Function: `<Cat KittensNanny(Cat kitten, std::vector<Home> homes) >`
+*/
+bool hasAny(const std::string& habits, const std::vector<std::string>& keywords) {
+    for (const auto& word : keywords) {
+        if (habits.find(word) != std::string::npos) {
+            return true;
+        }
+    }
+    return false;
+}
+
+Cat KittensNanny(Cat kitten, std::vector<Home> homes) {
+    bool needsBigHouse = hasAny(kitten.habits, {"anxious", "irritated", "frightened"});
+    bool needsMediumHouse = hasAny(kitten.habits, {"friendly", "relaxed", "trusting"});
+    double requiredArea = 0;
+
+    if (needsBigHouse) {
+        requiredArea = 100.0;
+    } else if (needsMediumHouse) {
+        requiredArea = 50.0;
+    }
+
+    double fatRatio = (kitten.weight / kitten.age) * 10.0;
+    bool needsGarden = fatRatio > 50.0;
+
+    std::string bestHome = "None";
+    double maxArea = -1;
+
+    for (const auto& h : homes) {
+        if (h.area > requiredArea && (!needsGarden || h.hasGarden)) {
+            if (h.area > maxArea) {
+                maxArea = h.area;
+                bestHome = h.owner;
+            }
+        }
+    }
+
+    kitten.home = bestHome;
+    return kitten;
+}
+
+// int main() {
+//     // Example 1
+//     Cat cat1 = {2, 4.5, "anxious,playful,trusting", ""};
+//     std::vector<Home> homes1 = {{"Rick", 50.0, true}, {"Morty", 200.0, false}};
+//     Cat result1 = KittensNanny(cat1, homes1);
+//     std::cout << "Test Case 1: " << result1.home << std::endl; // Expected: Morty
+
+//     // Example 2
+//     Cat cat2 = {2, 6.5, "playful,trusting", ""};
+//     std::vector<Home> homes2 = {{"Summer", 100.0, true}, {"Beth", 200.0, false}, {"Jerry", 50.0, true}};
+//     Cat result2 = KittensNanny(cat2, homes2);
+//     std::cout << "Test Case 2: " << result2.home << std::endl; // Expected: Beth
+
+//     // Edge case: Needs garden
+//     Cat cat3 = {1, 6, "relaxed", ""}; // fatRatio = 60 > 50
+//     std::vector<Home> homes3 = {{"TinyHouse", 60.0, false}, {"BigGarden", 150.0, true}};
+//     Cat result3 = KittensNanny(cat3, homes3);
+//     std::cout << "Test Case 3: " << result3.home << std::endl; // Expected: BigGarden
+
+//     // Edge case: No suitable home
+//     Cat cat4 = {1, 6, "anxious", ""};
+//     std::vector<Home> homes4 = {{"Small", 99.0, true}};
+//     Cat result4 = KittensNanny(cat4, homes4);
+//     std::cout << "Test Case 4: " << result4.home << std::endl; // Expected: None
+
+//     return 0;
+// }
 
 ```
