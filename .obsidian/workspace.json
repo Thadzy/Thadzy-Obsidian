@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Example C++ OOP.md",
+                "file": "OOP4-B-Silver-DNA-Linked-List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Useful Example C++ OOP"
+              "title": "OOP4-B-Silver-DNA-Linked-List"
             }
           },
           {
@@ -119,8 +119,7 @@
               "title": "OOP1-A-Wood1-BMI"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,13 +271,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP6.md",
+                "file": "OOP4-B-Silver-DNA-Linked-List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OOP6"
+              "title": "Outline of OOP4-B-Silver-DNA-Linked-List"
             }
           }
         ]
@@ -298,10 +297,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae4f5512a8f8b448",
+  "active": "a4cb99eed8dbe027",
   "lastOpenFiles": [
-    "OOP6.md",
     "Useful Example C++ OOP.md",
+    "OOP6.md",
     "OOP4-B-Silver-DNA-Linked-List.md",
     "OOP3-A-Bronze1-OddEven.md",
     "OOP3-A-Bronze1-Kittens_Nanny.md",
