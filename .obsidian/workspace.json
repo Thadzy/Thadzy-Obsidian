@@ -11,12 +11,14 @@
             "id": "485896347e4d386d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "1 Polar Student.pdf"
+                "file": "Vector in Coordination Systems.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "1 Polar Student"
+              "icon": "lucide-file",
+              "title": "Vector in Coordination Systems"
             }
           }
         ]
@@ -171,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Polar Student.pdf",
+                "file": "Vector in Coordination Systems.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1 Polar Student"
+              "title": "Outline of Vector in Coordination Systems"
             }
           }
         ]
@@ -199,6 +201,12 @@
   },
   "active": "485896347e4d386d",
   "lastOpenFiles": [
+    "Vector Functions.md",
+    "Vector Projection.md",
+    "Vector in Coordination Systems.md",
+    "Math Induction.md",
+    "Angles and intersections between planes.md",
+    "1 Polar Student.pdf",
     "OOP1-A-Wood1-BMI.md",
     "OOP1-A-Wood2-DOB.md",
     "OOP2-A-Bronze1-StructList.md",
@@ -210,7 +218,6 @@
     "OOP5-A-Bronze2-Logic.md",
     "OOP4-B-Silver-DNA-Linked-List.md",
     "OOP1-A-Bronze1-ShoppingCart.md",
-    "1 Polar Student.pdf",
     "4_VM_Equations Deformation_AJT 2025.pdf",
     "Unit Vector.md",
     "Area in Polar Coordinates.md",
@@ -227,11 +234,6 @@
     "Magnitude of Vector (Norm).md",
     "OOP4-B-Silver-DNA_Linked_List.md",
     "OOP.md",
-    "C++ Class Methods.md",
-    "C++ Encapsulation.md",
-    "C++ Dereference.md",
-    "C++ Pointers.md",
-    "C++ Memory Address.md",
     "Pasted image 20250501154730.png",
     "Pasted image 20250421112835.png",
     "Pasted image 20250421111756.png",
