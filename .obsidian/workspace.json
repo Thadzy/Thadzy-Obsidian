@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "485896347e4d386d",
+            "id": "09888aad03827ee7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vector in Coordination Systems.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vector in Coordination Systems"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -173,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vector in Coordination Systems.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vector in Coordination Systems"
+              "title": "Outline"
             }
           }
         ]
@@ -199,11 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "485896347e4d386d",
+  "active": "09888aad03827ee7",
   "lastOpenFiles": [
+    "Vector in Coordination Systems.md",
     "Vector Functions.md",
     "Vector Projection.md",
-    "Vector in Coordination Systems.md",
     "Math Induction.md",
     "Angles and intersections between planes.md",
     "1 Polar Student.pdf",
