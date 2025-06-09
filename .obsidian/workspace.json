@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "OOP6"
             }
+          },
+          {
+            "id": "4719b58de3997ed8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,13 +198,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP6.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OOP6"
+              "title": "Outline"
             }
           }
         ]
@@ -214,8 +223,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38f340eae335aabb",
+  "active": "4719b58de3997ed8",
   "lastOpenFiles": [
+    "OOP6.md",
     "OOP3-A-Bronze1-OddEven.md",
     "Vector in Coordination Systems.md",
     "Vector Functions.md",
@@ -228,7 +238,6 @@
     "OOP2-A-Bronze1-StructList.md",
     "OOP2-A-Bronze2-Uber.md",
     "OOP3-A-Bronze1-Kittens_Nanny.md",
-    "OOP6.md",
     "Useful Example C++ OOP.md",
     "OOP5-A-Bronze2-Logic.md",
     "OOP4-B-Silver-DNA-Linked-List.md",
