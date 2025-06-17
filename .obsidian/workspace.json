@@ -34,8 +34,19 @@
               "icon": "lucide-file",
               "title": "OOP6"
             }
+          },
+          {
+            "id": "9a547762e02d4e77",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,13 +198,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP3-A-Bronze1-OddEven.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OOP3-A-Bronze1-OddEven"
+              "title": "Outline"
             }
           }
         ]
@@ -213,11 +223,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09888aad03827ee7",
+  "active": "9a547762e02d4e77",
   "lastOpenFiles": [
+    "OOP3-A-Bronze1-OddEven.md",
     "Untitled.canvas",
     "OOP6.md",
-    "OOP3-A-Bronze1-OddEven.md",
     "Vector in Coordination Systems.md",
     "Vector Functions.md",
     "Vector Projection.md",
