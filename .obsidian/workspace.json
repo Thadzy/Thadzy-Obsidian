@@ -22,23 +22,6 @@
             }
           },
           {
-            "id": "068bb0b4a6ab214f",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          },
-          {
             "id": "38f340eae335aabb",
             "type": "leaf",
             "state": {
@@ -52,8 +35,7 @@
               "title": "OOP6"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,12 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "OOP3-A-Bronze1-OddEven.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of OOP3-A-Bronze1-OddEven"
             }
           }
         ]
@@ -230,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4719b58de3997ed8",
+  "active": "09888aad03827ee7",
   "lastOpenFiles": [
     "Untitled.canvas",
     "OOP6.md",
