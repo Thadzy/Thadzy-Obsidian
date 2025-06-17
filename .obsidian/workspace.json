@@ -41,9 +41,9 @@
               "state": {
                 "file": "Untitled 1.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 159.30872136828313,
+                  "y": 255.193548416004,
+                  "zoom": -0.04013095270842315
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -51,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "1 Polar Student.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of 1 Polar Student"
             }
           }
         ]
@@ -229,10 +229,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a547762e02d4e77",
+  "active": "38f340eae335aabb",
   "lastOpenFiles": [
-    "1D Motion.md",
     "Untitled 1.canvas",
+    "1D Motion.md",
     "1 Polar Student.pdf",
     "OOP6.md",
     "OOP3-A-Bronze1-OddEven.md",
@@ -265,7 +265,6 @@
     "Graph in Polar Coordinate.md",
     "Polar Coordinate.md",
     "Magnitude of Vector (Norm).md",
-    "OOP4-B-Silver-DNA_Linked_List.md",
     "Pasted image 20250501154730.png",
     "Pasted image 20250421112835.png",
     "Pasted image 20250421111756.png",
