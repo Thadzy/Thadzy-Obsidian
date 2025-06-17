@@ -22,6 +22,23 @@
             }
           },
           {
+            "id": "068bb0b4a6ab214f",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "38f340eae335aabb",
             "type": "leaf",
             "state": {
@@ -33,16 +50,6 @@
               },
               "icon": "lucide-file",
               "title": "OOP6"
-            }
-          },
-          {
-            "id": "4719b58de3997ed8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ],
@@ -102,11 +109,11 @@
         ]
       },
       {
-        "id": "03499f87de817a49",
+        "id": "7209f18e122dd111",
         "type": "tabs",
         "children": [
           {
-            "id": "068bb0b4a6ab214f",
+            "id": "4719b58de3997ed8",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -225,6 +232,7 @@
   },
   "active": "4719b58de3997ed8",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "OOP6.md",
     "OOP3-A-Bronze1-OddEven.md",
     "Vector in Coordination Systems.md",
@@ -257,7 +265,6 @@
     "Polar Coordinate.md",
     "Magnitude of Vector (Norm).md",
     "OOP4-B-Silver-DNA_Linked_List.md",
-    "OOP.md",
     "Pasted image 20250501154730.png",
     "Pasted image 20250421112835.png",
     "Pasted image 20250421111756.png",
@@ -268,7 +275,6 @@
     "Pasted image 20250414125623.png",
     "Mechanics_of_Materials_By_B_J_7th-1.pdf",
     "Calculus 2.canvas",
-    "Untitled.canvas",
     "Templates",
     "Untitled 1.canvas"
   ]
