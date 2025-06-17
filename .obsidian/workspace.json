@@ -37,14 +37,17 @@
             "id": "9a547762e02d4e77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "1D Motion.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "1D Motion"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 1"
             }
           }
         ],
@@ -200,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1D Motion.md",
+                "file": "Untitled 1.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1D Motion"
+              "title": "Outline of Untitled 1"
             }
           }
         ]
@@ -228,6 +231,8 @@
   },
   "active": "9a547762e02d4e77",
   "lastOpenFiles": [
+    "1D Motion.md",
+    "Untitled 1.canvas",
     "1 Polar Student.pdf",
     "OOP6.md",
     "OOP3-A-Bronze1-OddEven.md",
@@ -271,7 +276,6 @@
     "Pasted image 20250414125623.png",
     "Mechanics_of_Materials_By_B_J_7th-1.pdf",
     "Calculus 2.canvas",
-    "Templates",
-    "Untitled 1.canvas"
+    "Templates"
   ]
 }
