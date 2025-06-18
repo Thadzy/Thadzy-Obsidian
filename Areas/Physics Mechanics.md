@@ -1,6 +1,6 @@
 ---
 tags:
   - Physics
-link:
+link: "[[1D Motion]]"
 ---
 # Title

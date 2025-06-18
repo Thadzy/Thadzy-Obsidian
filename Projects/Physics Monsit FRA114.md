@@ -4,7 +4,7 @@ Status: In Progress
 tags:
   - Physics
 link: "[[1D Motion]]"
-Area: "[[Physics]]"
+Area: "[[Physics Mechanics]]"
 ---
 # Goal
 

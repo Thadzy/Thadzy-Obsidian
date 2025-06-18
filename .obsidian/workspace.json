@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Physics.md",
+                "file": "Areas/Physics Mechanics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physics"
+              "title": "Physics Mechanics"
             }
           },
           {
@@ -230,13 +230,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Physics.md",
+                "file": "Areas/Physics Mechanics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Physics"
+              "title": "Outline of Physics Mechanics"
             }
           }
         ]
@@ -260,7 +260,7 @@
   "active": "142e75af4086b062",
   "lastOpenFiles": [
     "Projects/Physics Monsit FRA114.md",
-    "Areas/Physics.md",
+    "Areas/Physics Mechanics.md",
     "Physics.md",
     "Resources/1D Motion.md",
     "Templates/Area Template.md",
