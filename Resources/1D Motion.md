@@ -71,5 +71,5 @@ v aboveline = +v
 
 # Summary
 ```
-1D motion describe how to object is moving in 1 dimension where is s = vt and this can be rep
+1D motion describe how to object is moving in 1 dimension where is s = vt and this can be represent in motion time graph there are some relationship together and use calculus 
 ```
