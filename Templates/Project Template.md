@@ -1,6 +1,7 @@
 ---
 date: 
 Status: 
-tags: 
-aliases:
+tags:
+  - project
+link:
 ---
