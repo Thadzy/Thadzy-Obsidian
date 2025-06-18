@@ -71,5 +71,5 @@ v aboveline = +v
 
 # Summary
 ```
-1D motion describe how to object is moving in 1 dimension where is s = vt and this can be represent in motion time graph there are some relationship together and use calculus 
+When an object moves in one dimension, its motion is described by the equation s = vt. This can be shown in a motion time graph, and there are certain relationships between them e.g. where turning point is where the v = 0 .
 ```
