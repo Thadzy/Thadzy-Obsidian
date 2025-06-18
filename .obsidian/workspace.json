@@ -36,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -198,8 +198,8 @@
   "active": "8fcf9bc88e581a6b",
   "lastOpenFiles": [
     "Archives",
-    "Resource",
-    "Area",
+    "Resources",
+    "Areas",
     "Projects",
     "1 Polar Student.pdf",
     "1D Motion.md",
