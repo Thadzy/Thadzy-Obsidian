@@ -65,3 +65,4 @@ v aboveline = +v
 # Cues
 Explain the relationship of the motion graph?
 **ANS** Displacement Graph where it's turning back is where v = 0 (turning point) 
+on Velocity Graph the slope doesn't mean anything
