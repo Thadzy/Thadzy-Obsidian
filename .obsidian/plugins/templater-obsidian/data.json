@@ -17,6 +17,14 @@
     {
       "folder": "Projects",
       "template": "Templates/Project Template.md"
+    },
+    {
+      "folder": "Areas",
+      "template": "Templates/Area Template.md"
+    },
+    {
+      "folder": "Resources",
+      "template": "Templates/Resource Template.md"
     }
   ],
   "enable_file_templates": false,
