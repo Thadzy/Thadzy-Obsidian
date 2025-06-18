@@ -23,7 +23,7 @@ Distance vs Displacement
 $$v= \frac{s}{t}m/s$$
 ![[Pasted image 20250618143015.png]]
 Example of Displacement over time graph 
-where I can find the velocity by taking 
+where I can find the velocity by find the slope 
 ## Acceleration
 V -> A -> **Accerate**
 V <- A -> **Delay**
