@@ -64,5 +64,4 @@ v aboveline = +v
 
 # Cues
 Explain the relationship of the motion graph?
-**ANS** Distance Graph where it's turning back is where v = 0 (turning point) 
-on Velocity Graph the slope doesn't mean anything but when v = 0 is where velocity start negative and if the velocity is constant distance still increasein
+**ANS** Distance Graph where it's turning back is where v = 0 (turning point) on Velocity Graph the slope doesn't mean anything but when v = 0 is where velocity start negative and if the velocity is constant distance still increasing finally Acceleration Graph  
