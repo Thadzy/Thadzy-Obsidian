@@ -7,7 +7,8 @@ link:
 # 1D Motion
 1D motion refer to the change in position or orientation of a body over time. if in x and y it's call 2D, 3D if (there are 3 axis) motion.
 
-## Wording
+## Velocity
+### Wording
 Speed vs Velocity
 **Speed** -> is defined as the distance traveled per unit of time. It is a scalar quantity
 
@@ -20,3 +21,7 @@ $$\frac{Displacement}{Time}$$
 Distance vs Displacement
 **Distance** -> is the total length of the path traveled by an object, regardless of direction. It is a scalar quantity
 **Displacement** -> is the shortest straight-line distance from the initial position to the final position of an object.
+
+## Acceleration
+V -> A -> Accerate
+V <- A -> Delay
