@@ -34,3 +34,5 @@ Is the point where v = 0
 ![[Pasted image 20250618143333.png]]
 ### Graph Explaination
 where v = 0 means x is return
+where a is 
+if y going down a is goin
