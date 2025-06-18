@@ -12,10 +12,11 @@ to review all physics from first semester in FIBO by prof.monsit
 - 1D Motion
 - 2D Motion
 - Projectile Motion
+- Circular Motion
 - Newton's Laws
 - Work and Energy
 - Impulse Momentum
-- 
+- Relative Motion
 # Resources
 
 # To-Do
