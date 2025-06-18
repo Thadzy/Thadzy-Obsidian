@@ -10,10 +10,6 @@ Area:
 
 ## 🎯 Goal
 Master the fundamentals of motion in a straight line: position, velocity, acceleration.
-
-## 📅 Deadline
-Complete by: July 5th
-
 ## ✅ Subtopics
 - [[Displacement vs Distance]]
 - [[Average and Instantaneous Velocity]]
