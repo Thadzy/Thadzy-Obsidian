@@ -36,5 +36,6 @@ Is the point where v = 0
 where v = 0 means x is return
 where a is 
 +y down a up = delay
--y down a up = 
+-y down a up = accerate
++y 
 
