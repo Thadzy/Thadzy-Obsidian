@@ -7,9 +7,11 @@ link: "[[1D Motion]]"
 Area: "[[Physics Mechanics]]"
 ---
 # Goal
-
+to review all physics from first semester in FIBO by prof.monsit
 # Subtopics
-
+- 1D Motion
+- 2D Motion
+- 
 # Resources
 
 # To-Do
