@@ -30,3 +30,6 @@ V <- A -> **Delay**
 $$a = \frac{v}{t} m/s^2$$
 # Turning Points
 Is the point where v = 0 
+![[Pasted image 20250618143313.png]]
+![[Pasted image 20250618143333.png]]
+Graph
