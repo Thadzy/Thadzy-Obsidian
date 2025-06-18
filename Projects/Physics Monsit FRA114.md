@@ -1,28 +1,15 @@
 ---
-date: 
-Status: In Progress
-tags:
-  - Physics
+date: 2025-06-23
+Status: 
+tags: 
 link: 
 Area:
 ---
-# Understand 1D Motion
+# Goal
 
-## 🎯 Goal
-Master the fundamentals of motion in a straight line: position, velocity, acceleration.
-## ✅ Subtopics
-- [[Displacement vs Distance]]
-- [[Average and Instantaneous Velocity]]
-- [[Acceleration]]
-- [[Equations of Motion]]
+# Subtopics
 
-## 📚 Resources
-- Link to [[1D Motion Concepts]]
-- Link to textbook PDF
-- Link to Khan Academy playlist
+# Resources
 
-## 🔁 To-Do
-- [x] Review key concepts
-- [ ] Solve 10 kinematics problems
-- [ ] Simulate 1D motion in Python
-
+# To-Do
+- [ ] 
