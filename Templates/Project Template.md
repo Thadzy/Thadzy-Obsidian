@@ -12,4 +12,5 @@ Area:
 # Resources
 
 # To-Do
-- [ ] Review key concepts
+- [ ] Lorem ipsum
+- [ ] 
