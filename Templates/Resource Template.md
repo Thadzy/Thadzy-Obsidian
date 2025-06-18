@@ -4,4 +4,8 @@ Area:
 link:
 ---
 # Title
-# Key word
+# Cues
+# Summary
+```
+
+```
