@@ -20,9 +20,11 @@ $$\frac{Displacement}{Time}$$
 Distance vs Displacement
 **Distance** -> is the total length of the path traveled by an object, regardless of direction. It is a scalar quantity
 **Displacement** -> is the shortest straight-line distance from the initial position to the final position of an object.
-$$v= \frac{s}{t}$$
+$$v= \frac{s}{t}m/s$$
 
 ## Acceleration
-V -> A -> Accerate
-V <- A -> Delay
+V -> A -> **Accerate**
+V <- A -> **Delay**
 $$a = \frac{v}{t} m/s^2$$
+# Turning Points
+Is the point where v = 0 
