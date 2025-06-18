@@ -21,7 +21,9 @@ Distance vs Displacement
 **Distance** -> is the total length of the path traveled by an object, regardless of direction. It is a scalar quantity
 **Displacement** -> is the shortest straight-line distance from the initial position to the final position of an object.
 $$v= \frac{s}{t}m/s$$
-
+![[Pasted image 20250618143015.png]]
+Example of Displacement over time graph 
+where I can find the velocity by taking 
 ## Acceleration
 V -> A -> **Accerate**
 V <- A -> **Delay**
