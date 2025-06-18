@@ -41,15 +41,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "Second Brain.canvas",
                 "viewState": {
-                  "x": 599.037432208318,
-                  "y": 597.5151209685109,
+                  "x": 631.9296650432791,
+                  "y": 184.01276532900698,
                   "zoom": -1.3370174979666924
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled 1"
+              "title": "Second Brain"
             }
           },
           {
@@ -219,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "Second Brain.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+              "title": "Outline of Second Brain"
             }
           }
         ]
@@ -248,7 +248,7 @@
   "active": "9a547762e02d4e77",
   "lastOpenFiles": [
     "4_VM_Equations Deformation_AJT 2025.pdf",
-    "Untitled 1.canvas",
+    "Second Brain.canvas",
     "Projectile Motion.md",
     "2D, 3D Motion.md",
     "1D Motion.md",
