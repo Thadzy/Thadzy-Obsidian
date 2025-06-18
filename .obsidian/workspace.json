@@ -169,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Absolute Convergence.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Absolute Convergence"
+              "title": "Outline"
             }
           }
         ]
@@ -195,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8fcf9bc88e581a6b",
+  "active": "34294d8fb791ac3a",
   "lastOpenFiles": [
+    "Absolute Convergence.md",
     "Archives",
     "Resources",
     "Areas",
