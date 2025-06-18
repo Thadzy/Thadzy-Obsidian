@@ -15,9 +15,16 @@ to review all physics from first semester in FIBO by prof.monsit
 - Circular Motion
 - Newton's Laws
 - Work and Energy
-- Impulse Momentum
+- Impulse and Momentum
 - Relative Motion
 # Resources
 
 # To-Do
-- [ ] 
+- [ ] 1D Motion
+- [ ] 2D Motion
+- [ ] Projectile Motion
+- [ ] Circular Motion
+- [ ] Newton's Laws
+- [ ] Work and Energy
+- [ ] Impulse and Momentum
+- [ ] Relative Motio
