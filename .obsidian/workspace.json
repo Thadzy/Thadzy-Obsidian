@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1D Motion.md",
+                "file": "2D, 3D Motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1D Motion"
+              "title": "2D, 3D Motion"
             }
           },
           {
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1D Motion.md",
+                "file": "2D, 3D Motion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1D Motion"
+              "title": "Outline of 2D, 3D Motion"
             }
           }
         ]
@@ -233,9 +233,9 @@
   },
   "active": "38f340eae335aabb",
   "lastOpenFiles": [
+    "1D Motion.md",
     "1 Polar Student.pdf",
     "Untitled 1.canvas",
-    "1D Motion.md",
     "OOP6.md",
     "OOP3-A-Bronze1-OddEven.md",
     "Untitled.canvas",
