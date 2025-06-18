@@ -61,3 +61,7 @@ v aboveline = +v
 - **Slope**: Not provided (typically jerk in physics).
 - **Area**: Represents change in velocity $\Delta V$.
 - **Formula**: $\Delta V = at$ (change in velocity as acceleration times time).
+
+# Cues
+Explain the relationship of the motion graph?
+**ANS** Displacement Graph 
