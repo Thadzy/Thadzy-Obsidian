@@ -64,12 +64,12 @@ v aboveline = +v
 
 # Cues
 **Explain the relationship of the motion graph?**
-**ANS** Distance Graph where it's turning back is where v = 0 (turning point) on Velocity Graph the slope doesn't mean anything but when v = 0 is where velocity start negative and if the velocity is constant distance still increasing finally Acceleration Graph when v is constant a = 0 if v is increase there are the acceleration .
+**ANS** Distance Graph where it's turning back is where v = 0 (turning point) on Velocity when v = 0 is where velocity start negative and if the velocity is constant distance still increasing finally Acceleration Graph when v is constant a = 0 if v is increase there are the acceleration .
 
 **Why Acceleration graph is square?**
 **ANS** This is for constant acceleration.
 
 # Summary
 ```
-When an object moves in one dimension, its motion is described by the equation s = vt. This can be shown in a motion time graph, and there are certain relationships between them e.g. where turning point is where the v = 0 .
+When an object moves in one dimension, its motion is described by the equation s = vt. This can be shown in a motion time graph, and there are certain relationships between them e.g. where turning point is where the v = 0.
 ```

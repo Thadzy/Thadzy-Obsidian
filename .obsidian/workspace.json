@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/1D Motion.md",
+                "file": "Resources/2D, 3D Motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1D Motion"
+              "title": "2D, 3D Motion"
+            }
+          },
+          {
+            "id": "12ff5b994e176462",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -173,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/1D Motion.md",
+                "file": "Resources/2D, 3D Motion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1D Motion"
+              "title": "Outline of 2D, 3D Motion"
             }
           }
         ]
@@ -202,6 +212,8 @@
   },
   "active": "4153c63fec3a6574",
   "lastOpenFiles": [
+    "Resources/2D, 3D Motion.md",
+    "Resources/1D Motion.md",
     "Pasted image 20250618144304.png",
     "Pasted image 20250618144219.png",
     "Pasted image 20250618143333.png",
@@ -209,7 +221,6 @@
     "Pasted image 20250618143015.png",
     "Templates/Resource Template.md",
     "Templates/Area Template.md",
-    "Resources/1D Motion.md",
     "Templates/Project Template.md",
     "Projects/Physics Monsit FRA114.md",
     "Areas/Physics Mechanics.md",
@@ -248,7 +259,6 @@
     "Pasted image 20250506082540.png",
     "Pasted image 20250501154730.png",
     "Pasted image 20250421112835.png",
-    "Pasted image 20250421111756.png",
     "Physics.canvas",
     "Mechanics_of_Materials_By_B_J_7th-1.pdf",
     "Calculus 2.canvas"
