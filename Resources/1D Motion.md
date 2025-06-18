@@ -37,4 +37,9 @@ where v = 0 means x is return
 where a is 
 a under line = -a 
 a above line = +a
+v underline = -v
+v aboveline = +v
+
+## Motion Graph
+
 
