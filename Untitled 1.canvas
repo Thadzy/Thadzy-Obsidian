@@ -1,7 +1,8 @@
 {
 	"nodes":[
-		{"id":"9d37e87485b3c0e5","x":-125,"y":-30,"width":125,"height":70,"color":"1","type":"text","text":"Physics"},
-		{"id":"043ef47c12bcecf5","x":-262,"y":120,"width":400,"height":280,"type":"file","file":"1D Motion.md"}
+		{"id":"9d37e87485b3c0e5","type":"text","text":"Physics","x":-125,"y":-30,"width":125,"height":70,"color":"1"},
+		{"id":"043ef47c12bcecf5","type":"file","file":"1D Motion.md","x":-262,"y":120,"width":400,"height":280},
+		{"id":"ac051328f1d885e6","x":200,"y":-320,"width":620,"height":900,"type":"file","file":"Vector Functions.md"}
 	],
 	"edges":[
 		{"id":"c1ff5b8f2db1a4de","fromNode":"9d37e87485b3c0e5","fromSide":"bottom","toNode":"043ef47c12bcecf5","toSide":"top"}
