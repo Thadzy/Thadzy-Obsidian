@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "Projects",
-      "template": ""
+      "template": "Templates/Project Template.md"
     }
   ],
   "enable_file_templates": false,
