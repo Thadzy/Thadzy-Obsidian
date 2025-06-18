@@ -1,6 +1,6 @@
 {
   "cssTheme": "Things",
-  "interfaceFontFamily": "Fira Code",
+  "interfaceFontFamily": "Fira Code,Ubuntu",
   "textFontFamily": "Fira Code",
   "monospaceFontFamily": "Fira Code",
   "baseFontSizeAction": true,

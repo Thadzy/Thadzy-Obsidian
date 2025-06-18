@@ -215,12 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Project Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Project Template"
             }
           }
         ]
@@ -241,11 +242,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "34294d8fb791ac3a",
+  "active": "4719b58de3997ed8",
   "lastOpenFiles": [
+    "Projects/Physics FRA114.md",
     "Templates/Project Template.md",
     "Templates/Area Template.md",
-    "Projects/Physics FRA114.md",
     "Templates/Resource Template.md",
     "Templates",
     "Absolute Convergence.md",
