@@ -35,4 +35,6 @@ Is the point where v = 0
 ### Graph Explaination
 where v = 0 means x is return
 where a is 
-if y going down a is goin
++y down a up = delay
+-y down a up = 
+
