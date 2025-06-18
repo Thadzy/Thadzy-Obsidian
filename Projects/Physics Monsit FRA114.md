@@ -11,6 +11,10 @@ to review all physics from first semester in FIBO by prof.monsit
 # Subtopics
 - 1D Motion
 - 2D Motion
+- Projectile Motion
+- Newton's Laws
+- Work and Energy
+- Impulse Momentum
 - 
 # Resources
 
