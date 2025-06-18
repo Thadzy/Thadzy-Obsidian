@@ -1,8 +1,7 @@
 ---
 date: 
 Status: 
-tags:
-  - project
+tags: []
 link: 
 Area:
 ---
