@@ -12,5 +12,4 @@ Area:
 # Resources
 
 # To-Do
-- [ ] Lorem ipsum
 - [ ] 
