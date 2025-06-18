@@ -41,5 +41,7 @@ v underline = -v
 v aboveline = +v
 
 ## Motion Graph
+![[Pasted image 20250618144219.png]]
+
 
 
