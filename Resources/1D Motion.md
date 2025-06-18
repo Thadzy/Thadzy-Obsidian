@@ -35,13 +35,29 @@ Is the point where v = 0
 ### Graph Explaination
 where v = 0 means x is return
 where a is 
+```
 a under line = -a 
 a above line = +a
 v underline = -v
 v aboveline = +v
+```
 
 ## Motion Graph
 ![[Pasted image 20250618144304.png]]
 
+### Position-Time Graph
+- **Slope**: Represents velocity (V).
+- **Area**: Not directly applicable or meaningful.
+- **Formula**: $V=\frac{ΔX}{Δt}$​ (change in position over time).
 
+### Velocity-Time Graph
 
+- **Slope**: Represents acceleration (a).
+- **Area**: Represents change in position $\Delta X$.
+- **Formula**: $s=v⋅t$ (displacement as velocity times time).
+
+### Acceleration-Time Graph
+
+- **Slope**: Not provided (typically jerk in physics).
+- **Area**: Represents change in velocity $\Delta V$.
+- **Formula**: $\Delta V = at$ (change in velocity as acceleration times time).
