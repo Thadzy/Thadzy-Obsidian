@@ -39,7 +39,7 @@ s to theta
 ## Centripetal Acceleration
 centripetal acceleration is the acceleration towards to the center of circular path to keep object moving in circle
 **if there is no centripetal acceleration?**
-- Without this acceleration, the object would fly off **tangentially** (Newton's 1st Law).
+- Without this acceleration, the object would fly off tangentially (Newton's 1st Law).
 ```
 - Faster speed → harder to turn → more acceleration needed to stay in circle
 - Smaller radius → tighter turn → more acceleration needed
@@ -48,16 +48,14 @@ $$a = \frac{v\Delta\theta}{\Delta t}$$
 and $\omega = \frac{\theta}{t}$ 
 $$a = \omega v$$
 and $\omega = \frac{v}{r}$ 
-$$a = v \cdot$$
-
-
+$$a = v \cdot\frac{v}{r}$$
+$$a_c = \frac{v^2}r{}$$
 
 # Cues
 if object not moving along circular path but have the centripetal acceleration it's still call circular motion?
-Ans
+Ans 
 What is the different of angular velocity and linear velocity
 Ans
-
 # Summary
 ```
 
