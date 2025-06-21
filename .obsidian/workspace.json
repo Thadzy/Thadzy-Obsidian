@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/1D Motion.md",
+                "file": "Resources/2D, 3D Motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1D Motion"
+              "title": "2D, 3D Motion"
             }
           },
           {
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/1D Motion.md",
+                "file": "Resources/2D, 3D Motion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1D Motion"
+              "title": "Outline of 2D, 3D Motion"
             }
           }
         ]
@@ -212,8 +212,8 @@
   },
   "active": "4153c63fec3a6574",
   "lastOpenFiles": [
-    "Resources/2D, 3D Motion.md",
     "Resources/1D Motion.md",
+    "Resources/2D, 3D Motion.md",
     "Pasted image 20250618144304.png",
     "Pasted image 20250618144219.png",
     "Pasted image 20250618143333.png",
