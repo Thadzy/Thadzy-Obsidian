@@ -15,7 +15,9 @@ is a motion of object moving rotating along circular path
 ## Angular Displacement
 is an angle turn by rotating object per time
 ![[Pasted image 20250621162628.png]]
-$$s = r\theta$$
+$$\theta = \frac{s}{r}$$
+## Angular Velocity
+is rate of change in angular displacement
 
 # Cues
 if object not moving along circular path but have the centripetal acceleration it's still call circular motion?
