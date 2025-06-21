@@ -1,9 +1,11 @@
 ---
-tags: 
-Area:
+tags:
+  - Physics
+Area: "[[Physics Mechanics]]"
 ---
-link :
-# Title
+link : [[2D, 3D Motion]]
+# Circular Motion
+
 # Cues
 # Summary
 ```
