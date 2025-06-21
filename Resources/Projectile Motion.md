@@ -14,6 +14,9 @@ and change from a to g
 there is no accelerate we can use $$v_x = \frac{s_x}{t}$$ and x is constant
 ## Y-axis (Vertical)
 there is gravity (g) so we have to use SUVAT 
+## Interesting Information
+1. Farthest Angle is 45 degree
+2. CO angle e.g. 30,60 37,53 is give the same 
 
 # Cues
 if there are only gravity force act on projectile object how it can move forward?
