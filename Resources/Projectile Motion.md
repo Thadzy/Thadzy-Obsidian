@@ -11,7 +11,9 @@ A projectile is any object thrown into space upon which the only acting force is
 and change from a to g
 ![[Pasted image 20250621143455.png]]
 ## X-axis (Horizontal)
-there is no accelerate
+there is no accelerate we can use $$v_x = \frac{s_x}{t}$$ and x is constant
+
+
 # Cues
 if there are only gravity force act on projectile object how it can move forward?
 # Summary
