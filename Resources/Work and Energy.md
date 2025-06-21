@@ -13,7 +13,8 @@ if F, s going to the same direction = +w
 else if opposite direction = -w
 else if F and s perpendicular w = 0
 ## Power
-is rate of work can do in 1 unit of time
+How much work can be done in a single unit of time
+how fast is the work works?
 $$P = \frac{W}{t}$$
 
 
