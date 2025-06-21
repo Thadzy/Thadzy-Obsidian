@@ -35,14 +35,14 @@ $$W = \int mv dv$$
 and integrate from 0 to any v
 $$W = m \int_0^vvdv = m[\frac{1}{2}v^2]_0^v=\frac{1}{2}mv^2$$
 $$E_k = \frac{1}{2}mv^2$$
-## Gravitational Potential Energy
+### Gravitational Potential Energy
 Gravitational potential energy is energy an object possesses due to its position within a gravitational field in the object ready to fall
 in vertical
 $$F_y = -mg$$
 integrate force over height
 $$W = \int_{h_1}^{h_2}(-mg)dy = -mg(h_1-h_2)$$
 $$E_p = mgh$$
-## Potential Energy of Spring
+### Potential Energy of Spring
 the potential energy stored as a result of the deformation of a particular elastic object, or a spring.
 **Hooke's Law**
 $$F = -kx$$
@@ -50,18 +50,11 @@ we integrate
 $$W = \int_0^x-kx\,dx$$
 $$W = -\frac{1}{2}kx^2$$
 ```
-Integrate F respect 
+Integrate F respect to X we got work W
 ```
-
-
-
-
-
 
 # Cues
 **Why F and s perpendicular make w = 0?**
-**Ans**
-**Why in kinetics equation why we have to integrate?**
 **Ans**
 # Summary
 ```
