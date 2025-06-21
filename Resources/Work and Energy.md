@@ -46,7 +46,9 @@ $$E_p = mgh$$
 the potential energy stored as a result of the deformation of a particular elastic object, or a spring.
 **Hooke's Law**
 $$F = -kx$$
-
+we integrate
+$$W = \int_0^x-kx\,dx$$
+$$$$
 
 
 
