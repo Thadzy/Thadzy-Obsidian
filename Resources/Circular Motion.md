@@ -23,7 +23,7 @@ and $\theta = \frac{s}{r}$
 $$\omega = \frac{\frac{s}{r}}{t}$$ and $v = \frac{s}{t}$
 $$\omega = \frac{v}{r}$$
 ## Linear Velocity
-is rate of change in angular displacement call $\omega$ 
+is tangential speed
 $$s = r\theta$$
 derivative of s = v 
 $$\frac{ds}{dt} = \frac{d\theta}{dt} \cdot r\theta$$
@@ -33,6 +33,8 @@ $$v = \omega r$$
 
 # Cues
 if object not moving along circular path but have the centripetal acceleration it's still call circular motion?
+Ans
+What is the diffirent of angular velocity and linear v
 # Summary
 ```
 
