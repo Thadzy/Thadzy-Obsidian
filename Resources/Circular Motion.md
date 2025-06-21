@@ -39,7 +39,7 @@ s to theta
 ## Centripetal Acceleration
 centripetal acceleration is the acceleration towards to the center of circular path to keep object moving in circle
 **if there is no centripetal acceleration?**
-- 
+- Without this acceleration, the object would fly off **tangentially** (Newton's 1st Law).
 
 
 # Cues
