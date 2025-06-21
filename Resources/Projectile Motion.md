@@ -21,7 +21,9 @@ there is gravity (g) so we have to use SUVAT and at Maximum height v = 0
 ### Total time of flight
 $u_x = ucos\theta$ 
 $u_y = usin\theta$ 
-
+at the end of the flight is $S_y = 0$
+$$S_y = u_yt - \frac{1}{2}gt^2$$
+$$$$
 
 # Cues
 **if there are only gravity force act on projectile object how it can move forward?**
