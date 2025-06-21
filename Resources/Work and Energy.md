@@ -22,6 +22,7 @@ $$1 HP = 746 Watt$$
 Energy is the ability within an object that allows it to move without **external force acting on it.**
 ### Kinetics Energy
 kinetics Energy is the energy an object possesses due to its motion
+![[Pasted image 20250621203901.png]]
 From Newton's laws
 $$F = ma$$
 But acceleration is not directly in terms of position x, so we rewrite using the chain rule
