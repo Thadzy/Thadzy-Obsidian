@@ -29,7 +29,7 @@ $$T = \frac{2usin\theta}{g}$$
 we have $u_x = ucos\theta$ 
 $T = \frac{2usin\theta}{g}$ 
 $$Range = u_xT$$
-$$R = $$
+$$R = ucos\theta(\frac{2usin\theta}{g})$$
 
 # Cues
 **if there are only gravity force act on projectile object how it can move forward?**
