@@ -33,4 +33,6 @@ $$v^2 = u^2 + 2as$$
 ```
 This is tell how the suvat come form
 ```
-$$$
+$$v = u +at$$$$s = \frac{1}{2}(u+v)t$$
+$$s = ut+\frac{1}{2}at^2$$
+$$v^2 = u^2 + 2as$$
