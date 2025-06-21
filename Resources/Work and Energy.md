@@ -68,5 +68,5 @@ Summary of Energy Transformation
 **Ans** Because it's not changing kinetic energy, it's not making speed go up or down.
 # Summary
 ```
-Wok is Force times Distance and there are 3 types of energy KE GPE and EPE 
+Wok is Force times Distance and there are 3 types of energy KE GPE and EPE which is KE is about moving use when object moving GPE use in vertical direction like free and and EPE use for spring and there is Power is tell how much work done in unit second
 ```
