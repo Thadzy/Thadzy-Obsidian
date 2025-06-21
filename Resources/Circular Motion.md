@@ -55,7 +55,7 @@ $$a_c = \frac{v^2}r{}$$
 if object not moving along circular path but have the centripetal acceleration it's still call circular motion?
 Ans No, it's not circular motion e.g. spiral motion
 What is the different of angular velocity and linear velocity
-Ans
+Ans w means in one time how the 
 # Summary
 ```
 
