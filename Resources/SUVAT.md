@@ -12,7 +12,7 @@ $a = \frac{\Delta v}{\Delta t}$ which means, $a = \frac{u-v}{t}$
 format the equation
 $$v = u +at$$
 ![[Pasted image 20250621135946.png]]
-## s = 
+## s = (u+v/2)t
 # Cues
 # Summary
 ```
