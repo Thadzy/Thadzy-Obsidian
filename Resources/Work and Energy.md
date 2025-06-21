@@ -57,7 +57,12 @@ energy cannot be created or destroyed, but it can be transformed from one form t
 $$\Sigma E_1 = \Sigma E_2$$
 if there are work
 $$\Sigma E_1 + W = \Sigma E_2$$
-
+```
+Summary of Energy Transformation
+- When rising: KE decreases → GPE increases.
+- At the top: KE = 0 → GPE is maximum.
+- When falling: GPE decreases → KE increases.
+```
 # Cues
 **Why F and s perpendicular make w = 0?**
 **Ans**
