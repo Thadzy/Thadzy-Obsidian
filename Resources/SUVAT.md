@@ -18,7 +18,9 @@ $s = vt$
 average velocity and this is trapezoid area foumular
 $$s = \frac{(u+v)}{2}t$$
 ## S = ut + 1/2at^2
-now we have $v = u + at$ and $s$
+now we have $v = u + at$ and $s = \frac{1}{2}(u+v)t$ 
+substitute v to s 
+
 # Cues
 # Summary
 ```
