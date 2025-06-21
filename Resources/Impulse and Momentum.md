@@ -35,7 +35,11 @@ $$\Sigma E_{k1} = \Sigma E_{k2}$$
 $$\Sigma E_{k1} \neq \Sigma E_{k2}$$
 because there is energy loss e.g. sound heat 
 Energy loss = $E_1 - E_2$ 
-#### Perfectly Inelastic Coll
+#### Perfectly Inelastic Collision
+![[Pasted image 20250621223207.png]]
+#### Partially Inelastic Collision
+![[Pasted image 20250621223241.png]]
+
 
 
 # Cues
