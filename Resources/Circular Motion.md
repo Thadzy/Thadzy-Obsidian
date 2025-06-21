@@ -20,7 +20,7 @@ $$\theta = \frac{s}{r}$$
 is rate of change in angular displacement call $\omega$ (rad/s)
 $$w = \frac{\theta}{t}$$
 and $\theta = \frac{s}{r}$ 
-$$\omega = \frac{\frac{\theta}{}}{}$$
+$$\omega = \frac{\frac{s}{r}}{t}$$ 
 ## Linear Velocity
 is rate of change in angular displacement call $\omega$ 
 $$s = r\theta$$
