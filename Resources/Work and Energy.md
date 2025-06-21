@@ -8,7 +8,8 @@ link : [[Newton's laws]]
 **Work** is defined as transferring energy into an object so that there is some displacement. **Energy** is defined as the ability to do work.
 $$W = Fd$$
 ![[Pasted image 20250621182213.png]]
-
+## Kinetic energy
+the energy an object
 
 # Cues
 # Summary
