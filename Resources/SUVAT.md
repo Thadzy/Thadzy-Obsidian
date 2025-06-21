@@ -26,7 +26,8 @@ $$s = \int (u + at)dt$$
 ## v^2 = u^2 + 2as
 now we have $v = u + at$ and $s = \frac{1}{2}(u+v)t$ 
 $t = \frac{v-u}{a}$ substitute to s 
-
+$s = \frac{1}{2}(u+v)(\frac{(v-u)}{a})$ format it
+$$
 # Cues
 # Summary
 ```
