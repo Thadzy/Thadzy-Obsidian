@@ -33,7 +33,10 @@ $$R = ucos\theta(\frac{2usin\theta}{g})$$
 use identity
 $$sin2θ=2sinθcosθ$$
 $$R = \frac{u^2sin2\theta}{g}$$
-###
+### Maximum Height
+Where the maximum height is where v = 0 therefor $v_y = 0$ 
+$$v^2 = u^2+2as$$
+$$$$
 # Cues
 **if there are only gravity force act on projectile object how it can move forward?**
 **Ans** Because of initial forward velocity (inertia) goes in horizontal direction and gravity just made in goes downwards.
