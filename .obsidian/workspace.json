@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/2D, 3D Motion.md",
+                "file": "Resources/Porjectile Motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2D, 3D Motion"
+              "title": "Porjectile Motion"
             }
           },
           {
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/2D, 3D Motion.md",
+                "file": "Resources/Porjectile Motion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2D, 3D Motion"
+              "title": "Outline of Porjectile Motion"
             }
           }
         ]
@@ -212,8 +212,9 @@
   },
   "active": "4153c63fec3a6574",
   "lastOpenFiles": [
-    "Resources/1D Motion.md",
     "Resources/2D, 3D Motion.md",
+    "Resources/Porjectile Motion.md",
+    "Resources/1D Motion.md",
     "Pasted image 20250618144304.png",
     "Pasted image 20250618144219.png",
     "Pasted image 20250618143333.png",
@@ -251,7 +252,6 @@
     "OOP2-A-Bronze1-StructList.md",
     "OOP2-A-Bronze2-Uber.md",
     "OOP3-A-Bronze1-Kittens_Nanny.md",
-    "Useful Example C++ OOP.md",
     "2 อินทิกรัลหลายชั้น_Student.pdf",
     "5_Thin Membrane Mohr_AJT 2025.pdf",
     "Pasted image 20250506083309.png",
