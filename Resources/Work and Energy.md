@@ -52,6 +52,8 @@ $$W = -\frac{1}{2}kx^2$$
 ```
 Integrate F respect to X we got work W
 ```
+## Law of Conservation of Energy
+energy cannot be created or destroyed, but it can be transformed from one form to another.
 
 # Cues
 **Why F and s perpendicular make w = 0?**
