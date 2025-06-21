@@ -17,7 +17,9 @@ the change in momentum of an object when a force acts on it over a period of tim
 $$\Delta P = P_1 - P_2$$
 $$\Delta P = mv_1 - mv_2$$
 ## Impact Force
-
+Impact force is the actual force from collision
+$$\Sigma F = ma$$
+$$$$
 
 
 # Cues
