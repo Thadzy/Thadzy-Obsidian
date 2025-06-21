@@ -37,8 +37,7 @@ $$R = \frac{u^2sin2\theta}{g}$$
 Where the maximum height is where v = 0 therefor $v_y = 0$ 
 $$v^2 = u^2+2as$$
 $$0 = u_ysin\theta+2(-g)(H)$$
-$$H = $$
-
+$$H = \frac{u^2sin^2\theta}{2g}$$
 # Cues
 **if there are only gravity force act on projectile object how it can move forward?**
 **Ans** Because of initial forward velocity (inertia) goes in horizontal direction and gravity just made in goes downwards.
