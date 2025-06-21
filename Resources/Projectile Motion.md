@@ -23,5 +23,5 @@ there is gravity (g) so we have to use SUVAT and at Maximum height v = 0
 **Ans** Because of initial forward velocity (inertia) goes in horizontal direction and gravity just made in goes downwards.
 # Summary
 ```
-Projectile Motion is motion in x,y d
+Projectile Motion is motion in x,y axis which x is no g but y is so we have to use SUVAT and only the force that act on the porjectile is only gravity 
 ```
