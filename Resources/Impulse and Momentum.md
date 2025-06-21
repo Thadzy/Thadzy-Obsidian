@@ -23,7 +23,7 @@ we know that $a = \frac{v_2 - v_1}{t}$
 $$\Sigma F = m(\frac{v_2-v_1}{t})$$
 and p = mv
 $$\Sigma F = \frac{\Delta P}{t}$$
-
+## 
 
 
 # Cues
