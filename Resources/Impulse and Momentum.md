@@ -57,7 +57,8 @@ Relative motion is the calculation of the motion of an object with respect to an
 ```
 Motion is not absolute — it depends on the observer’s frame of reference.
 ```
-$$v_{A/B}$$ 
+$$v_{A/B}= v_A-v_B$$
+**“Velocity of A relative to B”**  = **Velocity of A as seen by B**
 
 
 . Cues
