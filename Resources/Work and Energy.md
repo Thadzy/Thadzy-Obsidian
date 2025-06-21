@@ -49,7 +49,9 @@ $$F = -kx$$
 we integrate
 $$W = \int_0^x-kx\,dx$$
 $$W = -\frac{1}{2}kx^2$$
-
+```
+Integrate F respect 
+```
 
 
 
