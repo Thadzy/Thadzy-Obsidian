@@ -25,7 +25,9 @@ $$\omega = \frac{v}{r}$$
 ## Linear Velocity
 is tangential speed telling rate of change in straight.
 $$v = \omega r$$
-## Acceleration
+## Angular Acceleration (α)
+Angular acceleration α\alphaα is the rate of change of angular velocity over time.
+$$\alpha=\frac{}{}$$
 
 
 # Cues
