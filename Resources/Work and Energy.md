@@ -8,6 +8,8 @@ link : [[Newton's laws]]
 **Work** is defined as transferring energy into an object so that there is some displacement. **Energy** is defined as the ability to do work.
 $$W = F \cdot s (J)$$
 
+if F, s going to the same direction = +w
+else = -w
 
 # Cues
 # Summary
