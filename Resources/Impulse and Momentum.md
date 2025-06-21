@@ -33,7 +33,10 @@ $$\Sigma P_{before} = \Sigma P_{after}$$
 $$\Sigma E_{k1} = \Sigma E_{k2}$$
 ### Inelastic collision
 $$\Sigma E_{k1} \neq \Sigma E_{k2}$$
-because there is energy loss e.g
+because there is energy loss e.g. sound heat 
+Energy loss = $E_1 - E_2$ 
+#### Perfectly Inelastic Coll
+
 
 # Cues
 # Summary
