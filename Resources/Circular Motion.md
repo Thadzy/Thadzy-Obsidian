@@ -9,7 +9,7 @@ is a motion of object moving rotating along circular path
 
 
 # Cues
-if 
+if object not moving along circular path but have the centripetal acceleration is it 
 # Summary
 ```
 
