@@ -26,8 +26,10 @@ $$\omega = \frac{v}{r}$$
 is tangential speed telling rate of change in straight.
 $$v = \omega r$$
 ## Angular Acceleration (α)
-Angular acceleration α\alphaα is the rate of change of angular velocity over time.
-$$\alpha=\frac{}{}$$
+Angular acceleration α is the rate of change of angular velocity over time.
+$$\alpha=\frac{d\omega}{dt}$$
+or we can use SUVAT to calculate it 
+$$\alpha = \frac{\}{}$$
 
 
 # Cues
