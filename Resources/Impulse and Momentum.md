@@ -44,7 +44,8 @@ The **coefficient of restitution (COR)** is a measure of how elastic a collisi
 - **e=1**: This indicates a **perfectly elastic collision**, where no kinetic energy is lost, and the objects rebound with the same speed they approached each other.
 - **e=0**: This represents a **perfectly inelastic collision**, where the objects do not rebound at all and stick together after the impact.
 $$v = eu$$
-
+to find e
+$$e = \frac{}{}$$
 # Cues
 # Summary
 ```
