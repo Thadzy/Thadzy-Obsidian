@@ -23,7 +23,8 @@ we know that $a = \frac{v_2 - v_1}{t}$
 $$\Sigma F = m(\frac{v_2-v_1}{t})$$
 and p = mv
 $$\Sigma F = \frac{\Delta P}{t}$$
-## 
+## Conversation of momentum
+if there is not external force the summation of momentum on system is constant
 
 
 # Cues
