@@ -29,9 +29,9 @@
               "state": {
                 "file": "Second Brain.canvas",
                 "viewState": {
-                  "x": 311.55272984959856,
-                  "y": 4203.002546185384,
-                  "zoom": -0.9450864305595555
+                  "x": 260.15852922076687,
+                  "y": 1826.343533777499,
+                  "zoom": -1.0412102189163366
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -205,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/1D Motion.md",
+                "file": "Second Brain.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1D Motion"
+              "title": "Outline of Second Brain"
             }
           }
         ]
