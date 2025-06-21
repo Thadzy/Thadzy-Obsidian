@@ -17,6 +17,9 @@ is an angle turn by rotating object per time
 ![[Pasted image 20250621162628.png]]
 $$\theta = \frac{s}{r}$$
 ## Angular Velocity
+is rate of change in angular displacement call $\omega$ (rad/s)
+$$$
+## Linear Velocity
 is rate of change in angular displacement call $\omega$ 
 $$s = r\theta$$
 derivative of s = v 
