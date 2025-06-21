@@ -28,9 +28,11 @@ if there is not external force the summation of momentum on system is constant
 $$\Sigma P_{before} = \Sigma P_{after}$$
 ![[Pasted image 20250621222621.png]]
 ## Collision
+![[Pasted image 20250621222906.png]]
 ### Elastic collision
 $$\Sigma E_{k1} = \Sigma E_{k2}$$
-
+### Inelastic collision
+$$\Sigma E_{k1} \notequal $$
 
 # Cues
 # Summary
