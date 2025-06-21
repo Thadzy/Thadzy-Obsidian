@@ -41,8 +41,9 @@ in vertical
 $$F_y = -mg$$
 integrate force over height
 $$W = \int_{h_1}^{h_2}(-mg)dy = -mg(h_1-h_2)$$
-
 $$E_p = mgh$$
+## Potential Energy of Spring
+
 
 
 
