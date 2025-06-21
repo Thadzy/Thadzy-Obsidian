@@ -44,7 +44,10 @@ centripetal acceleration is the acceleration towards to the center of circular p
 - Faster speed → harder to turn → more acceleration needed to stay in circle
 - Smaller radius → tighter turn → more acceleration needed
 ```
-$$a = \frac{v\Delta\theta}{v}$$
+$$a = \frac{v\Delta\theta}{\Delta t}$$
+and $\omega = \frac{\theta}{t}$ 
+$$a = \omega r$$
+
 
 
 # Cues
