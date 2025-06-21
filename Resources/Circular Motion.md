@@ -56,6 +56,8 @@ $$a_c = \frac{v^2}r{}$$
 **Ans** No, it's not circular motion e.g. spiral motion
 **What is the different of angular velocity and linear velocity ?**
 **Ans** Linear speed measure how fast a point moves along the circular path but Angular velocity tell how fast is the object will complete one full rotation
+If it not call circular motion what is it call then?
+a
 # Summary
 ```
 
