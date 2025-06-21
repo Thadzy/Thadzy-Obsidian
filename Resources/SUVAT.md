@@ -13,6 +13,7 @@ format the equation
 $$v = u +at$$
 ![[Pasted image 20250621135946.png]]
 ## s = (u+v/2)t
+
 # Cues
 # Summary
 ```
