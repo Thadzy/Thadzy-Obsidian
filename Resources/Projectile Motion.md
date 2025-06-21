@@ -19,6 +19,8 @@ there is gravity (g) so we have to use SUVAT and at Maximum height v = 0
 2. CO angle e.g. 30,60 37,53 is give the same x-displacement
 ## Additional Formular
 ### Total time of flight
+$u_x = ucos\theta$ 
+$u_y = usin\theta$ 
 
 
 # Cues
