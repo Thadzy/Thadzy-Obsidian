@@ -34,7 +34,9 @@ $$v = \omega r$$
 # Cues
 if object not moving along circular path but have the centripetal acceleration it's still call circular motion?
 Ans
-What is the diffirent of angular velocity and linear v
+What is the different of angular velocity and linear velocity
+Ans
+
 # Summary
 ```
 
