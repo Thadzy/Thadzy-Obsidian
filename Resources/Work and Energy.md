@@ -5,7 +5,7 @@ Area: "[[Physics Mechanics]]"
 ---
 link : [[Newton's laws]]
 # Work and Energy
-**Work** is defined as transferring energy into an object so that there is some displacement. **Energy** is defined as the ability to do work.
+Work is defined as transferring energy into an object so that there is some displacement. 
 ## Work
 $$W = F \cdot s (J)$$
 
@@ -18,7 +18,8 @@ how fast is the work works?
 $$P = \frac{W}{t}$$
 there is unit call Horsepower (HP)
 $$1 HP = 746 Watt$$
-
+## Energy
+The ability within an object that allows it to move without external force acting on it.
 
 
 # Cues
