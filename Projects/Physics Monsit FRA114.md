@@ -20,10 +20,10 @@ to review all physics from first semester in FIBO by prof.monsit
 # Resources
 
 # To-Do
-- [ ] 1D Motion
-- [ ] 2D Motion
-- [ ] Projectile Motion
-- [ ] Circular Motion
+- [x] 1D Motion
+- [x] 2D Motion
+- [x] Projectile Motion
+- [x] Circular Motion
 - [ ] Newton's Laws
 - [ ] Work and Energy
 - [ ] Impulse and Momentum

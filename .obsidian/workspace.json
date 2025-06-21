@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Circular Motion.md",
+                "file": "Resources/Newton's laws.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Circular Motion"
+              "title": "Newton's laws"
             }
           },
           {
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Circular Motion.md",
+                "file": "Resources/Newton's laws.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Circular Motion"
+              "title": "Outline of Newton's laws"
             }
           }
         ]
@@ -212,6 +212,8 @@
   },
   "active": "4153c63fec3a6574",
   "lastOpenFiles": [
+    "Projects/Physics Monsit FRA114.md",
+    "Resources/Newton's laws.md",
     "Resources/Circular Motion.md",
     "Pasted image 20250621162628.png",
     "Pasted image 20250621162155.png",
@@ -232,7 +234,6 @@
     "Images/Pasted image 20250618144219.png",
     "Images/Pasted image 20250618143333.png",
     "Images/Pasted image 20250618143313.png",
-    "Projects/Physics Monsit FRA114.md",
     "Areas/Physics Mechanics.md",
     "Physics.md",
     "Physics FRA114.md",
