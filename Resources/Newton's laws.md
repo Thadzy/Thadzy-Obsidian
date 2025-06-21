@@ -17,5 +17,7 @@ link : [[1D Motion]] [[2D, 3D Motion]] [[Projectile Motion]] [[Circular Motion]]
 # Cues
 # Summary
 ```
-
+Newton's 3 laws
+1. Object at rest remains at rest and object in motion remains in motion unless acted by an unbalanced force
+2. 
 ```
