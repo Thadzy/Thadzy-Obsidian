@@ -59,8 +59,9 @@ $$a_c = \frac{v^2}r{}$$
 **Ans** Linear speed measure how fast a point moves along the circular path but Angular velocity tell how fast is the object will complete one full rotation
 
 **If it not call circular motion what is it call then?**
-**Ans** Curvilinear motion. and more there is something more
+**Ans** Curvilinear motion. and more there is something more ...
 # Summary
 ```
 Circular motion is about the object moving alone the cirular path with centripetal acceleration and linear velocity and angular velocity.
 ```
+
