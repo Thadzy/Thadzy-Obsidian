@@ -45,7 +45,7 @@ The **coefficient of restitution (COR)** is a measure of how elastic a collisi
 - **e=0**: This represents a **perfectly inelastic collision**, where the objects do not rebound at all and stick together after the impact.
 $$v = eu$$
 to find e
-$$e = \frac{}{}$$
+$$e = \frac{v'_2 - v'_1}{v_2-v_1}$$
 # Cues
 # Summary
 ```
