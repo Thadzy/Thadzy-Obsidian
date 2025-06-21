@@ -45,7 +45,9 @@ $$E_p = mgh$$
 ## Potential Energy of Spring
 the potential energy stored as a result of the deformation of a particular elastic object, or a spring.
 **Hooke's Law**
-$$F = kx$$
+$$F = -kx$$
+
+
 
 
 
