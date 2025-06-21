@@ -16,10 +16,11 @@ there is no accelerate we can use $$v_x = \frac{s_x}{t}$$ and x is constant
 there is gravity (g) so we have to use SUVAT 
 ## Interesting Information
 1. Farthest Angle is 45 degree
-2. CO angle e.g. 30,60 37,53 is give the same 
+2. CO angle e.g. 30,60 37,53 is give the same x-displacement
 
 # Cues
-if there are only gravity force act on projectile object how it can move forward?
+**if there are only gravity force act on projectile object how it can move forward?**
+**Ans** 
 # Summary
 ```
 
