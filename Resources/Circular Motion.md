@@ -11,6 +11,7 @@ is a motion of object moving rotating along circular path
 - Time use 1 round = period (T)
 - $f = \frac{1}{T}$
 - $T = \frac{1}{f}$
+![[Pasted image 20250621162155.png]]
 
 # Cues
 if object not moving along circular path but have the centripetal acceleration it's still call circular motion?
