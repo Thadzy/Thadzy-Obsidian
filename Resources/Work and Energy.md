@@ -65,8 +65,8 @@ Summary of Energy Transformation
 ```
 # Cues
 **Why F and s perpendicular make w = 0?**
-**Ans** because it's not change kinetics energy it's not make speed up or down
+**Ans** Because it's not changing kinetic energy, it's not making speed go up or down.
 # Summary
 ```
-
+Wok is Force times Distance and there are 3 types of energy KE GPE and EPE 
 ```
