@@ -29,13 +29,27 @@
               "state": {
                 "file": "Second Brain.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 311.55272984959856,
+                  "y": 4203.002546185384,
+                  "zoom": -0.9450864305595555
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Second Brain"
+            }
+          },
+          {
+            "id": "699b8418b964823b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/2D, 3D Motion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2D, 3D Motion"
             }
           }
         ],
@@ -191,13 +205,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Brain.canvas",
+                "file": "Resources/1D Motion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Second Brain"
+              "title": "Outline of 1D Motion"
             }
           }
         ]
@@ -220,8 +234,10 @@
   },
   "active": "12ff5b994e176462",
   "lastOpenFiles": [
-    "Images/Pasted image 20250621162155.png",
+    "Resources/2D, 3D Motion.md",
+    "Resources/1D Motion.md",
     "Second Brain.canvas",
+    "Images/Pasted image 20250621162155.png",
     "Untitled.md",
     "Resources/Newton's laws.md",
     "Projects/Physics Monsit FRA114.md",
@@ -233,8 +249,6 @@
     "Templates/Project Template.md",
     "Templates/Area Template.md",
     "Templates/Resource Template.md",
-    "Resources/1D Motion.md",
-    "Resources/2D, 3D Motion.md",
     "Images/Pasted image 20250621143455.png",
     "Images",
     "Images/Pasted image 20250621143421.png",
@@ -254,7 +268,6 @@
     "Projects",
     "1 Polar Student.pdf",
     "Alternating Series.md",
-    "Second Brain.canvas",
     "4_VM_Equations Deformation_AJT 2025.pdf",
     "Projectile Motion.md",
     "2D, 3D Motion.md",
