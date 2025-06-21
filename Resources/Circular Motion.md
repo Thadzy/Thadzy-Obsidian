@@ -29,7 +29,9 @@ $$v = \omega r$$
 Angular acceleration α is the rate of change of angular velocity over time.
 $$\alpha=\frac{d\omega}{dt}$$
 or we can use SUVAT to calculate it 
-$$\alpha = \frac{\}{}$$
+$$\alpha = \frac{\omega - \omega_0}{t}$$
+$$\theta = \omega_0t+\frac{1}{2}\alpha t^2$$
+$$\omega^2 = $$
 
 
 # Cues
