@@ -36,7 +36,8 @@ and integrate from 0 to any v
 $$W = m \int_0^vvdv = m[\frac{1}{2}v^2]_0^v=\frac{1}{2}mv^2$$
 $$E_k = \frac{1}{2}mv^2$$
 ## Gravitational Potential Energy
-
+Gravitational potential energy is energy an object possesses due to its position within a gravitational field in the object ready to fall
+$$E_p = mgh$$
 
 
 
