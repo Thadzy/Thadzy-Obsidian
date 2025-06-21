@@ -49,7 +49,9 @@ $$e = \frac{v'_2 - v'_1}{v_2-v_1}$$
 and another way
 $$e = \frac{v_1}{v_2}$$
 from $\frac{1}{2}mv^2$ => $v = \sqrt{2gh}$ 
-
+$$e = \frac{\sqrt{2gh_1}}{\sqrt{2gh_2}}$$
+2,
+$$e = \sqrt{\frac{Rebound Height}{Drop Height}}$$
 # Cues
 # Summary
 ```
