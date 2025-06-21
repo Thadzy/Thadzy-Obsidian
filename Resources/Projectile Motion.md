@@ -17,6 +17,9 @@ there is gravity (g) so we have to use SUVAT and at Maximum height v = 0
 ## Interesting Information
 1. Farthest Angle is 45 degree
 2. CO angle e.g. 30,60 37,53 is give the same x-displacement
+## Additional Formular
+### Total time of flight
+
 
 # Cues
 **if there are only gravity force act on projectile object how it can move forward?**
