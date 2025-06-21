@@ -23,7 +23,9 @@ and $\theta = \frac{s}{r}$
 $$\omega = \frac{\frac{s}{r}}{t}$$ and $v = \frac{s}{t}$
 $$\omega = \frac{v}{r}$$
 ## Linear Velocity
-is tangential speed
+is tangential speed telling rate of change in straight.
+$$v = \omega r$$
+## Acceleration
 
 
 # Cues
