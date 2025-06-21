@@ -29,9 +29,9 @@
               "state": {
                 "file": "Second Brain.canvas",
                 "viewState": {
-                  "x": 312.0486800235195,
-                  "y": 1960.0491391133469,
-                  "zoom": -0.8037081609666349
+                  "x": 475.59761076485603,
+                  "y": 1765.8454664789006,
+                  "zoom": -1.3894177322338035
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -51,9 +51,19 @@
               "icon": "lucide-file",
               "title": "2D, 3D Motion"
             }
+          },
+          {
+            "id": "91d81aae98ebf565",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,13 +215,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Second Brain.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Second Brain"
+              "title": "Outline"
             }
           }
         ]
@@ -232,14 +241,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "12ff5b994e176462",
+  "active": "91d81aae98ebf565",
   "lastOpenFiles": [
+    "Resources/Newton's laws.md",
+    "Second Brain.canvas",
     "Resources/2D, 3D Motion.md",
     "Resources/1D Motion.md",
-    "Second Brain.canvas",
     "Images/Pasted image 20250621162155.png",
     "Untitled.md",
-    "Resources/Newton's laws.md",
     "Projects/Physics Monsit FRA114.md",
     "Areas/Physics Mechanics.md",
     "Resources/Circular Motion.md",

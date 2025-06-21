@@ -2,10 +2,17 @@
 	"nodes":[
 		{"id":"306cfa0f8c3ee01f","x":-360,"y":1400,"width":400,"height":400,"type":"file","file":"Resources/1D Motion.md"},
 		{"id":"b9c8debbef623b3d","x":320,"y":1400,"width":400,"height":400,"type":"file","file":"Resources/2D, 3D Motion.md"},
-		{"id":"48faf36337afbc40","x":457,"y":2014,"width":400,"height":400,"type":"file","file":"Resources/Projectile Motion.md"},
-		{"id":"1feaa95b2d4d4711","x":-320,"y":2080,"width":400,"height":400,"type":"file","file":"Resources/Circular Motion.md"}
+		{"id":"1feaa95b2d4d4711","x":-320,"y":2080,"width":400,"height":400,"type":"file","file":"Resources/Circular Motion.md"},
+		{"id":"48faf36337afbc40","x":320,"y":2080,"width":400,"height":400,"type":"file","file":"Resources/Projectile Motion.md"},
+		{"id":"53eb181dae18dd53","x":-40,"y":840,"width":400,"height":400,"type":"file","file":"Resources/Newton's laws.md"}
 	],
 	"edges":[
-		{"id":"19a44a59b9e340e9","fromNode":"306cfa0f8c3ee01f","fromSide":"right","toNode":"b9c8debbef623b3d","toSide":"left"}
+		{"id":"19a44a59b9e340e9","fromNode":"306cfa0f8c3ee01f","fromSide":"right","toNode":"b9c8debbef623b3d","toSide":"left"},
+		{"id":"9bf37daf47385bc1","fromNode":"b9c8debbef623b3d","fromSide":"bottom","toNode":"48faf36337afbc40","toSide":"top"},
+		{"id":"9718e4110a1e9252","fromNode":"b9c8debbef623b3d","fromSide":"bottom","toNode":"1feaa95b2d4d4711","toSide":"top"},
+		{"id":"8be61f9ceaf0fedc","fromNode":"53eb181dae18dd53","fromSide":"bottom","toNode":"b9c8debbef623b3d","toSide":"top"},
+		{"id":"491cdf1c9fb7bfba","fromNode":"53eb181dae18dd53","fromSide":"bottom","toNode":"306cfa0f8c3ee01f","toSide":"top"},
+		{"id":"8511dec61d1c5083","fromNode":"53eb181dae18dd53","fromSide":"bottom","toNode":"1feaa95b2d4d4711","toSide":"top"},
+		{"id":"d5acbcf14f3f1aa3","fromNode":"53eb181dae18dd53","fromSide":"bottom","toNode":"48faf36337afbc40","toSide":"top"}
 	]
 }
