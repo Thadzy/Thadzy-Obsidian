@@ -20,7 +20,8 @@ $$s = \frac{(u+v)}{2}t$$
 ## S = ut + 1/2at^2
 now we have $v = u + at$ and $s = \frac{1}{2}(u+v)t$ 
 substitute v to s 
-
+$s = \frac{1}{2}(u+u+at)t$ format it
+$$s = ut+\frac{1}{2}$$
 # Cues
 # Summary
 ```
