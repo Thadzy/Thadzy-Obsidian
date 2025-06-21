@@ -9,7 +9,8 @@ link : [[Newton's laws]]
 $$W = Fd$$
 ![[Pasted image 20250621182213.png]]
 ## Kinetic energy
-the energy an object
+the energy an object possesses due to its motion
+$$\Sigma F = ma, a = \frac{dv}{dt}$$
 
 # Cues
 # Summary
