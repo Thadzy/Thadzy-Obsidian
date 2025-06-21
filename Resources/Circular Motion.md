@@ -20,7 +20,9 @@ $$\theta = \frac{s}{r}$$
 is rate of change in angular displacement call $\omega$ 
 $$s = r\theta$$
 derivative of s = v 
-$$\frac{ds}{dt} = \frac{}{}$$
+$$\frac{ds}{dt} = \frac{d\theta}{dt} \cdot r\theta$$
+which is $\frac{d\theta}{dt} = \omega$ 
+
 
 
 # Cues
