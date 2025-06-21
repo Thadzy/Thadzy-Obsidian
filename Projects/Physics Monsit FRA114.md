@@ -27,4 +27,3 @@ to review all physics from first semester in FIBO by prof.monsit
 - [x] Newton's Laws
 - [x] Work and Energy
 - [x] Impulse and Momentum
-- [ ] Relative Motion

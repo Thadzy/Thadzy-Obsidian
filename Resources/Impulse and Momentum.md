@@ -58,10 +58,8 @@ Relative motion is the calculation of the motion of an object with respect to an
 Motion is not absolute — it depends on the observer’s frame of reference.
 ```
 $$v_{A/B}= v_A-v_B$$
-**“Velocity of A relative to B”**  = **Velocity of A as seen by B**
-
-
-. Cues
+> “Velocity of A relative to B”  = Velocity of A as seen by B
+# Cues
 # Summary
 ```
 Momentum and impulse is about collision momentum is p = mv and can transform to KE impluse and Impact force finally collision there are elastic collision is no energy loss and inelastic collision with energy loss inside the inelastic collision there are perfectly and partilly inelastic collision which is perfectly stick together but partilly is not and how to find the COR additional Relative motion
