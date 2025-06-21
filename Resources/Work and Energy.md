@@ -19,7 +19,9 @@ $$P = \frac{W}{t}$$
 there is unit call Horsepower (HP)
 $$1 HP = 746 Watt$$
 ## Energy
-The ability within an object that allows it to move without external force acting on it.
+Energy is the ability within an object that allows it to move without **external force acting on it.**
+### Kinetics Energy
+$$E_k = \frac{1}{2}mv^2$$
 
 
 # Cues
