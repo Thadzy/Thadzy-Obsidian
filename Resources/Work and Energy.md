@@ -29,6 +29,7 @@ But acceleration is not directly in terms of position x, so we rewrite using the
 $$\frac{dv}{dt} = \frac{dv}{dx}\frac{dx}{dt}=\frac{dv}{dx}v$$
 $$F = mv\frac{dv}{dx}$$
 Plug into the Work Equation
+$$W = \int F \,dx$$
 $$E_k = \frac{1}{2}mv^2$$
 
 
