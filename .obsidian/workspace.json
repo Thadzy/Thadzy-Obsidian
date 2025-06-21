@@ -13,25 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Physics Monsit FRA114.md",
+                "file": "Resources/Newton's laws.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physics Monsit FRA114"
+              "title": "Newton's laws"
             }
           },
           {
             "id": "12ff5b994e176462",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Second Brain.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Second Brain"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Physics Monsit FRA114.md",
+                "file": "Second Brain.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Physics Monsit FRA114"
+              "title": "Outline of Second Brain"
             }
           }
         ]
@@ -210,16 +218,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4153c63fec3a6574",
+  "active": "12ff5b994e176462",
   "lastOpenFiles": [
-    "Areas/Physics Mechanics.md",
+    "Images/Pasted image 20250621162155.png",
+    "Second Brain.canvas",
+    "Untitled.md",
     "Resources/Newton's laws.md",
     "Projects/Physics Monsit FRA114.md",
+    "Areas/Physics Mechanics.md",
     "Resources/Circular Motion.md",
-    "Pasted image 20250621162628.png",
-    "Pasted image 20250621162155.png",
+    "Images/Pasted image 20250621162628.png",
     "Resources/Projectile Motion.md",
-    "Untitled.md",
     "Resources/SUVAT.md",
     "Templates/Project Template.md",
     "Templates/Area Template.md",
@@ -251,13 +260,11 @@
     "2D, 3D Motion.md",
     "OOP6.md",
     "OOP3-A-Bronze1-OddEven.md",
-    "Untitled.canvas",
     "Vector in Coordination Systems.md",
     "Vector Functions.md",
     "Vector Projection.md",
     "Math Induction.md",
     "Angles and intersections between planes.md",
-    "OOP1-A-Wood1-BMI.md",
     "2 อินทิกรัลหลายชั้น_Student.pdf",
     "5_Thin Membrane Mohr_AJT 2025.pdf",
     "Physics.canvas",
