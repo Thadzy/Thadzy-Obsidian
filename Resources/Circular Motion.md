@@ -52,10 +52,10 @@ $$a = v \cdot\frac{v}{r}$$
 $$a_c = \frac{v^2}r{}$$
 
 # Cues
-if object not moving along circular path but have the centripetal acceleration it's still call circular motion?
-Ans No, it's not circular motion e.g. spiral motion
-What is the different of angular velocity and linear velocity
-Ans w means in one time how the 
+**if object not moving along circular path but have the centripetal acceleration it's still call circular motion?**
+**Ans** No, it's not circular motion e.g. spiral motion
+**What is the different of angular velocity and linear velocity ?**
+**Ans** Linear speed measure how fast a point moves along the circular path but Angular velocity tell how fast is the object will complete one full rotation
 # Summary
 ```
 
