@@ -16,6 +16,7 @@ link : [[1D Motion]] [[2D, 3D Motion]] [[Projectile Motion]] [[Circular Motion]]
 	 4. $$Action = Reaction$$
 # Cues
 Why force = accelerate not velocity?
+Ans because velocity is constant due to inertia object
 # Summary
 ```
 Newton's 3 laws
