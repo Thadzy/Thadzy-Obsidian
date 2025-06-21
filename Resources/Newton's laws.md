@@ -15,8 +15,9 @@ link : [[1D Motion]] [[2D, 3D Motion]] [[Projectile Motion]] [[Circular Motion]]
 	 3. Whenever one object exerts a force on another object, the second object exerts an equal and opposite force on the first.
 	 4. $$Action = Reaction$$
 # Cues
-Why force = accelerate not velocity?
-Ans because velocity is constant due to inertia object
+**Why force = accelerate not velocity?**
+**Ans** because velocity is constant due to inertia object keeps moving
+but acceleration force is thing that change velocity
 # Summary
 ```
 Newton's 3 laws
