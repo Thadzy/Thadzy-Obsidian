@@ -20,8 +20,8 @@ there is gravity (g) so we have to use SUVAT and at Maximum height v = 0
 
 # Cues
 **if there are only gravity force act on projectile object how it can move forward?**
-**Ans** 
+**Ans** Because of initial forward velocity (inertia) goes in horizontal direction and gravity just made in goes downwards.
 # Summary
 ```
-
+Projectile Motion is motion in x,y d
 ```
