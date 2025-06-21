@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Projectile Motion.md",
+                "file": "Resources/Circular Motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projectile Motion"
+              "title": "Circular Motion"
             }
           },
           {
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Projectile Motion.md",
+                "file": "Resources/Circular Motion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Projectile Motion"
+              "title": "Outline of Circular Motion"
             }
           }
         ]
@@ -212,9 +212,9 @@
   },
   "active": "4153c63fec3a6574",
   "lastOpenFiles": [
+    "Resources/Projectile Motion.md",
     "Resources/Circular Motion.md",
     "Untitled.md",
-    "Resources/Projectile Motion.md",
     "Resources/SUVAT.md",
     "Templates/Project Template.md",
     "Templates/Area Template.md",

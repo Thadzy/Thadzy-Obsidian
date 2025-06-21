@@ -47,3 +47,4 @@ Projectile Motion is motion in x,y axis which x is no g but y is so we have to u
 ```
 $$T = \frac{2usin\theta}{g}$$
 $$R = \frac{u^2sin2\theta}{g}$$
+$$H = \frac{u^2sin^2\theta}{2g}$$
