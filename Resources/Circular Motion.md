@@ -46,7 +46,9 @@ centripetal acceleration is the acceleration towards to the center of circular p
 ```
 $$a = \frac{v\Delta\theta}{\Delta t}$$
 and $\omega = \frac{\theta}{t}$ 
-$$a = \omega r$$
+$$a = \omega v$$
+and $\omega = \frac{v}{r}$ 
+$$a = v \cdot$$
 
 
 
