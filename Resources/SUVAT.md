@@ -16,7 +16,7 @@ $$v = u +at$$
 ![[Pasted image 20250621141854.png]]
 $s = vt$
 average velocity 
-
+$s = \frac{(u+v)}{2}t$ 
 # Cues
 # Summary
 ```
