@@ -35,7 +35,8 @@ $$W = \int mv dv$$
 and integrate from 0 to any v
 $$W = m \int_0^vvdv = m[\frac{1}{2}v^2]_0^v=\frac{1}{2}mv^2$$
 $$E_k = \frac{1}{2}mv^2$$
-## G
+## Gravitational Potential Energy
+
 
 
 
