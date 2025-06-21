@@ -15,7 +15,12 @@ Use chain rule
 $$\frac{dv}{dt} = \frac{dv}{dx}\frac{dx}{dt}=\frac{dv}{dx}v$$
 
 $$F_{ll} = mv\frac{dv}{dx}$$
+Integrate
 
+$$\int_{x_1}^{x_2}F_{ll}dx = \int_{u}^{v}mv dv$$
+
+$$\int_{x_1}^{x_2}F_{ll}dx = \frac{1}{2}mv^2-\frac{1}{2}mu^2$$
+$$W = $$
 
 # Cues
 # Summary
