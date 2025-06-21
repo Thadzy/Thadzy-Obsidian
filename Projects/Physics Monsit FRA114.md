@@ -25,6 +25,6 @@ to review all physics from first semester in FIBO by prof.monsit
 - [x] Projectile Motion
 - [x] Circular Motion
 - [x] Newton's Laws
-- [ ] Work and Energy
-- [ ] Impulse and Momentum
+- [x] Work and Energy
+- [x] Impulse and Momentum
 - [ ] Relative Motion

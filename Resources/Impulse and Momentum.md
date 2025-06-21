@@ -55,5 +55,5 @@ $$e = \sqrt{\frac{Rebound Height}{Drop Height}}$$
 # Cues
 # Summary
 ```
-Momentum and impulse is about collision momentum is p = mv and can transform to KE impluse and Impact force finally collision there are elastic collision is no energy loss and inelastic collision with energy loss inside the inelastic collision there are perfectly and partilly inelastic collision which is perfectly stick together but partilly is not and how to 
+Momentum and impulse is about collision momentum is p = mv and can transform to KE impluse and Impact force finally collision there are elastic collision is no energy loss and inelastic collision with energy loss inside the inelastic collision there are perfectly and partilly inelastic collision which is perfectly stick together but partilly is not and how to find the COR
 ```
