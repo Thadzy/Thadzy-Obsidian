@@ -62,5 +62,5 @@ $$a_c = \frac{v^2}r{}$$
 **Ans** Curvilinear motion. and more there is something more
 # Summary
 ```
-Circular motion is about the object moving alone the cirular path with centripetal acceleration and linear speed 
+Circular motion is about the object moving alone the cirular path with centripetal acceleration and linear velocity and angular velocity.
 ```
