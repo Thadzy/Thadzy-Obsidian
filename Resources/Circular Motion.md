@@ -17,7 +17,8 @@ is an angle turn by rotating object per time
 ![[Pasted image 20250621162628.png]]
 $$\theta = \frac{s}{r}$$
 ## Angular Velocity
-is rate of change in angular displacement
+is rate of change in angular displacement call $\omega$ 
+$$\omega = \frac{d\theta}{dt}$$
 
 # Cues
 if object not moving along circular path but have the centripetal acceleration it's still call circular motion?
