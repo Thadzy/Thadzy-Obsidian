@@ -21,6 +21,8 @@ $$1 HP = 746 Watt$$
 ## Energy
 Energy is the ability within an object that allows it to move without **external force acting on it.**
 ### Kinetics Energy
+kinetics Energy is the energy an object possesses due to its motion
+
 $$E_k = \frac{1}{2}mv^2$$
 
 
