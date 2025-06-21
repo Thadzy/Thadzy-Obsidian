@@ -15,9 +15,11 @@ link : [[1D Motion]] [[2D, 3D Motion]] [[Projectile Motion]] [[Circular Motion]]
 	 3. Whenever one object exerts a force on another object, the second object exerts an equal and opposite force on the first.
 	 4. $$Action = Reaction$$
 # Cues
+Why force = accelerate not velocity?
 # Summary
 ```
 Newton's 3 laws
 1. Object at rest remains at rest and object in motion remains in motion unless acted by an unbalanced force
-2. 
+2. Force = mass x accelerate
+3. Action = Reaction 
 ```
