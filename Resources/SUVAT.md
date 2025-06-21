@@ -25,6 +25,7 @@ $$s = ut+\frac{1}{2}at^2$$ or we can integrate it
 $$s = \int (u + at)dt$$
 ## v^2 = u^2 + 2as
 now we have $v = u + at$ and $s = \frac{1}{2}(u+v)t$ 
+$t = \frac{v-u}{a}$ substitute to s 
 
 # Cues
 # Summary
