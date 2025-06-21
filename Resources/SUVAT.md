@@ -22,7 +22,10 @@ now we have $v = u + at$ and $s = \frac{1}{2}(u+v)t$
 substitute v to s 
 $s = \frac{1}{2}(u+u+at)t$ format it
 $$s = ut+\frac{1}{2}at^2$$ or we can integrate it 
-$$\int u + at$$
+$$s = \int (u + at)dt$$
+## v^2 = u^2 + 2as
+now we have $v = u + at$ and $s = \frac{1}{2}(u+v)t$ 
+
 # Cues
 # Summary
 ```
