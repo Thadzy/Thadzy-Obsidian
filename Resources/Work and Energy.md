@@ -7,8 +7,6 @@ link : [[Newton's laws]]
 # Work and Energy
 **Work** is defined as transferring energy into an object so that there is some displacement. **Energy** is defined as the ability to do work.
 ![[Pasted image 20250621182213.png]]
-$F_{ll}$ = Rate of change of movement
-$F_{c}$ = Supporting objects
 
 $$\Sigma F = ma, a = \frac{dv}{dt}$$
 
