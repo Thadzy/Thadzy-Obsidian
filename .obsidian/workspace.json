@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Porjectile Motion.md",
+                "file": "Resources/1D Motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Porjectile Motion"
+              "title": "1D Motion"
             }
           },
           {
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Porjectile Motion.md",
+                "file": "Resources/1D Motion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Porjectile Motion"
+              "title": "Outline of 1D Motion"
             }
           }
         ]
@@ -212,15 +212,15 @@
   },
   "active": "4153c63fec3a6574",
   "lastOpenFiles": [
+    "Templates/Resource Template.md",
+    "Resources/Projectile Motion.md",
     "Resources/2D, 3D Motion.md",
-    "Resources/Porjectile Motion.md",
     "Resources/1D Motion.md",
     "Pasted image 20250618144304.png",
     "Pasted image 20250618144219.png",
     "Pasted image 20250618143333.png",
     "Pasted image 20250618143313.png",
     "Pasted image 20250618143015.png",
-    "Templates/Resource Template.md",
     "Templates/Area Template.md",
     "Templates/Project Template.md",
     "Projects/Physics Monsit FRA114.md",

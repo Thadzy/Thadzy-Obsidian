@@ -1,8 +1,8 @@
 ---
 tags: 
-Area: 
-link:
+Area:
 ---
+link :
 # Title
 # Cues
 # Summary
