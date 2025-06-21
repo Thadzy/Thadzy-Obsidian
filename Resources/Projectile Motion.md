@@ -30,7 +30,10 @@ we have $u_x = ucos\theta$
 $T = \frac{2usin\theta}{g}$ 
 $$Range = u_xT$$
 $$R = ucos\theta(\frac{2usin\theta}{g})$$
-
+use identity
+$$sin2θ=2sinθcosθ$$
+$$R = \frac{u^2sin2\theta}{g}$$
+###
 # Cues
 **if there are only gravity force act on projectile object how it can move forward?**
 **Ans** Because of initial forward velocity (inertia) goes in horizontal direction and gravity just made in goes downwards.
