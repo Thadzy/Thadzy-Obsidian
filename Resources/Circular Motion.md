@@ -24,11 +24,6 @@ $$\omega = \frac{\frac{s}{r}}{t}$$ and $v = \frac{s}{t}$
 $$\omega = \frac{v}{r}$$
 ## Linear Velocity
 is tangential speed
-$$s = r\theta$$
-derivative of s = v 
-$$\frac{ds}{dt} = \frac{d\theta}{dt} \cdot r\theta$$
-which is $\frac{d\theta}{dt} = \omega$ 
-$$v = \omega r$$
 
 
 # Cues
