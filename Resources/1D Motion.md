@@ -73,3 +73,5 @@ v aboveline = +v
 ```
 When an object moves in one dimension, its motion is described by the equation s = vt. This can be shown in a motion time graph, and there are certain relationships between them e.g. where turning point is where the v = 0.
 ```
+$$v = \frac{s}{t}$$
+$$a = \frac{v}{t}$$
