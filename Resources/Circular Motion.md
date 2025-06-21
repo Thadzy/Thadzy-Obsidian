@@ -40,6 +40,12 @@ s to theta
 centripetal acceleration is the acceleration towards to the center of circular path to keep object moving in circle
 **if there is no centripetal acceleration?**
 - Without this acceleration, the object would fly off **tangentially** (Newton's 1st Law).
+```
+- Faster speed → harder to turn → more acceleration needed to stay in circle
+- Smaller radius → tighter turn → more acceleration needed
+```
+
+
 
 
 # Cues
