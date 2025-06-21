@@ -32,6 +32,8 @@ Plug into the Work Equation
 $$W = \int F \,dx = \int mv\frac{dv}{dx} \, dx$$
 dx is gone
 $$W = \int mv dv$$
+and integrate from 0 to any v
+$$W = m \int_0^vvdv = m[]$$
 $$E_k = \frac{1}{2}mv^2$$
 
 
