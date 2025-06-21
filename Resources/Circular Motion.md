@@ -12,6 +12,9 @@ is a motion of object moving rotating along circular path
 - $f = \frac{1}{T}$
 - $T = \frac{1}{f}$
 ![[Pasted image 20250621162155.png]]
+## Linear Speed
+is the rate at which an object travels along a straight path
+$$v = \frac{2\pi r}{T} => v = \omega r$$
 
 # Cues
 if object not moving along circular path but have the centripetal acceleration it's still call circular motion?
