@@ -16,6 +16,8 @@ else if F and s perpendicular w = 0
 How much work can be done in a single unit of time
 how fast is the work works?
 $$P = \frac{W}{t}$$
+there is unit call Horsepower (HP)
+$$1 HP = 746 Watt$$
 
 
 
