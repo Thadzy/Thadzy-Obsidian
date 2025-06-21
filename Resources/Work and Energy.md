@@ -20,8 +20,10 @@ Integrate
 $$\int_{x_1}^{x_2}F_{ll}dx = \int_{u}^{v}mv dv$$
 
 $$\int_{x_1}^{x_2}F_{ll}dx = \frac{1}{2}mv^2-\frac{1}{2}mu^2$$
-$$W = $$
-
+$$W = \frac{1}{2}mv^2-\frac{1}{2}mu^2$$
+This is the Work-Energy Theorem:
+> The net work done by forces equals the change in kinetic energy.
+ 
 # Cues
 # Summary
 ```
