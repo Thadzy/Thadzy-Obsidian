@@ -11,8 +11,10 @@ $$W = F \cdot s (J)$$
 if F, s going to the same direction = +w
 else if opposite direction = -w
 else if F and s perpendicular w = 0
+
 # Cues
-Why F and s perpendicular 
+Why F and s perpendicular make w = 0?
+Ans?
 # Summary
 ```
 
