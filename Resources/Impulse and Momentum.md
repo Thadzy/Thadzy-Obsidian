@@ -39,8 +39,11 @@ Energy loss = $E_1 - E_2$
 ![[Pasted image 20250621223207.png]]
 #### Partially Inelastic Collision
 ![[Pasted image 20250621223241.png]]
-
-
+## Coefficient Of Restitution
+The **coefficient of restitution (COR)** is a measure of how elastic a collision is between two bodies.
+- **e=1**: This indicates a **perfectly elastic collision**, where no kinetic energy is lost, and the objects rebound with the same speed they approached each other.
+- **e=0**: This represents a **perfectly inelastic collision**, where the objects do not rebound at all and stick together after the impact.
+$$v = eu$$
 
 # Cues
 # Summary
