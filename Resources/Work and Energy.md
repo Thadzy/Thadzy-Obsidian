@@ -40,7 +40,7 @@ Gravitational potential energy is energy an object possesses due to its position
 in vertical
 $$F_y = -mg$$
 integrate force over height
-$$\int$$
+$$W = \int_{h_1}^{h_2}(-mg)dy = -mg(h_1-h_2)$$
 $$E_p = mgh$$
 
 
