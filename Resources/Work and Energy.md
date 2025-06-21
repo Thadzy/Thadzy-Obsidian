@@ -26,7 +26,13 @@ kinetics Energy is the energy an object possesses due to its motion
 From Newton's laws
 $$F = ma$$
 But acceleration is not directly in terms of position x, so we rewrite using the chain rule
+$$\frac{dv}{dt} = \frac{dv}{dx}\frac{dx}{dt}=\frac{dv}{dx}v$$
+$$F = mv\frac{dv}{dx}$$
+Plug into the Work Equation
 $$E_k = \frac{1}{2}mv^2$$
+
+
+
 
 
 # Cues
