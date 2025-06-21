@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Physics Monsit FRA114.md",
+                "file": "Resources/Impulse and Momentum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physics Monsit FRA114"
+              "title": "Impulse and Momentum"
             }
           },
           {
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Physics Monsit FRA114.md",
+                "file": "Resources/Impulse and Momentum.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Physics Monsit FRA114"
+              "title": "Outline of Impulse and Momentum"
             }
           }
         ]
@@ -212,6 +212,7 @@
   },
   "active": "482ada4d339e9519",
   "lastOpenFiles": [
+    "Projects/Physics Monsit FRA114.md",
     "Second Brain.canvas",
     "Resources/Impulse and Momentum.md",
     "Pasted image 20250621223241.png",
@@ -227,7 +228,6 @@
     "Resources/1D Motion.md",
     "Images/Pasted image 20250621162155.png",
     "Untitled.md",
-    "Projects/Physics Monsit FRA114.md",
     "Areas/Physics Mechanics.md",
     "Resources/Circular Motion.md",
     "Images/Pasted image 20250621162628.png",

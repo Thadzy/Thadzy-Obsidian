@@ -52,6 +52,8 @@ from $\frac{1}{2}mv^2$ => $v = \sqrt{2gh}$
 $$e = \frac{\sqrt{2gh_1}}{\sqrt{2gh_2}}$$
 2, g cancel
 $$e = \sqrt{\frac{Rebound Height}{Drop Height}}$$
+## Relative motion
+
 # Cues
 # Summary
 ```
