@@ -27,9 +27,10 @@ $$s = \int (u + at)dt$$
 now we have $v = u + at$ and $s = \frac{1}{2}(u+v)t$ 
 $t = \frac{v-u}{a}$ substitute to s 
 $s = \frac{1}{2}(u+v)(\frac{(v-u)}{a})$ format it
-$$
+$$v^2 = u^2 + 2as$$
 # Cues
 # Summary
 ```
-
-```-
+This is tell how the suvat come form
+```
+$$$
