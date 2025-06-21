@@ -54,6 +54,7 @@ Integrate F respect to X we got work W
 ```
 ## Law of Conservation of Energy
 energy cannot be created or destroyed, but it can be transformed from one form to another.
+$$\Sigma E_1 = \Sigma E_2$$
 
 # Cues
 **Why F and s perpendicular make w = 0?**
