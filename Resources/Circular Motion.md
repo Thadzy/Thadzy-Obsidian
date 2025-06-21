@@ -37,7 +37,7 @@ Change from a to alpha
 s to theta
 ```
 ## Centripetal Acceleration
-
+centripetal acceleration is the acceleration towards to the center of circular path to keep object moving in circle 
 
 
 # Cues
