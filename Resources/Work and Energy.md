@@ -65,7 +65,7 @@ Summary of Energy Transformation
 ```
 # Cues
 **Why F and s perpendicular make w = 0?**
-**Ans**
+**Ans** because it's not change kinetics e
 # Summary
 ```
 
