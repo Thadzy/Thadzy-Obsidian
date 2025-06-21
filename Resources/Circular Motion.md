@@ -22,7 +22,7 @@ $$s = r\theta$$
 derivative of s = v 
 $$\frac{ds}{dt} = \frac{d\theta}{dt} \cdot r\theta$$
 which is $\frac{d\theta}{dt} = \omega$ 
-
+$$v = \omega r$$
 
 
 # Cues
