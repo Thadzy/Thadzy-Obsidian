@@ -23,7 +23,10 @@ $u_x = ucos\theta$
 $u_y = usin\theta$ 
 at the end of the flight is $S_y = 0$
 $$S_y = u_yt - \frac{1}{2}gt^2$$
-$$$$
+$$0 = (usin\theta)t-\frac{1}{2}gt^2$$
+$$T = \frac{2usin\theta}{g}$$
+### Horizontal Range
+
 
 # Cues
 **if there are only gravity force act on projectile object how it can move forward?**
