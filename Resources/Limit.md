@@ -26,5 +26,5 @@ Ans
 3. Removes square roots causing 0/0​, using valid algebraic identities.
 # Summary
 ```
-Limit is value a function to check that limit actually have the value check both sides of limit by substitution if 0/0 
+Limit is value a function to check that limit actually have the value check both sides of limit by substitution if 0/0 we can factoring or conjugate 
 ```
