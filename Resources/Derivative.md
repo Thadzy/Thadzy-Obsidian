@@ -12,9 +12,15 @@ we can find the average rate of change by
 $$\frac{\Delta Y}{\Delta X}$$
 ## Instantaneous Rate of Change
 what if I want to find velocity at t = 1.5s?
+![[Pasted image 20250622205345.png | 400]]
 $$\lim_{h\to 0}\frac{f(x+h) - f(x)}{h}$$
-![[Pasted image 20250622205338.png]]
 
+| Concept          | ΔyΔx                   | lim⁡Δx→0ΔyΔx                 |
+| ---------------- | ---------------------- | ---------------------------- |
+| Name             | Average Rate of Change | Instantaneous Rate of Change |
+| Represents       | Slope of secant line   | Slope of tangent line        |
+| Uses two points? | Yes                    | No (limit to a single point) |
+| Accuracy         | Approximate            | Exact at a point             |
 # Cues
 # Summary
 ```
