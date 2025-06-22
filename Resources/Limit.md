@@ -8,7 +8,7 @@ link :
 limit is the value a function approaches as its input a certain point.
 ![[Pasted image 20250622202141.png]]
 ```
-To check that limit actually have the value 
+To check that limit actually have the value check both sides of limit 
 ```
 ## Types of dots in graph
 - open dots represent values that are not included in the function's domain.
@@ -26,5 +26,5 @@ Ans
 3. Removes square roots causing 0/0​, using valid algebraic identities.
 # Summary
 ```
-
+Limit is value a function to check that limit actually have the value check both sides of limit by substitution if 0/0 
 ```
