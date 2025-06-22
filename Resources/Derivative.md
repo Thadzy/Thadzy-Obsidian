@@ -12,6 +12,8 @@ we can find the average rate of change by
 $$\frac{\Delta Y}{\Delta X}$$
 ## Instantaneous Rate of Change
 what if I want to find velocity at t = 1.5s?
+$$\lim_{h\to 0}\frac{f(x+h) - f(x)}{h}$$
+![[Pasted image 20250622205338.png]]
 
 # Cues
 # Summary
