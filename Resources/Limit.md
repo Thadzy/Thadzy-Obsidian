@@ -5,7 +5,7 @@ Area: "[[Areas/Calculus I]]"
 ---
 link : 
 # Limit
-limit is the value a function approach
+limit is the value a function approaches as its input a certain point.
 # Cues
 # Summary
 ```
