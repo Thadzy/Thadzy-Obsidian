@@ -11,10 +11,12 @@
             "id": "d476b73385b18512",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250621223241.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250621223241"
             }
           }
         ]
@@ -169,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Pasted image 20250621223241.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Pasted image 20250621223241"
             }
           }
         ]
@@ -195,8 +198,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d476b73385b18512",
+  "active": "8fcf9bc88e581a6b",
   "lastOpenFiles": [
+    "Projects/Calculus.md",
     "Projects/Physics Monsit FRA114.md",
     "Resources/Impulse and Momentum.md",
     "Second Brain.canvas",
