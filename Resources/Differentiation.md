@@ -10,8 +10,6 @@ Is the process to find the derivative.
 ## Power Rule
 ## Addition Rule
 ## Product Rule
-## Trig Rule
-## Chain Rule
 
 # Cues
 # Summary
