@@ -19,7 +19,7 @@ $$\frac{d}{dx}x^n = nx^{n-1}$$
 ## Product Rule
 ## Trig Rule
 ## Chain Rule
-
+## Quotient Rule
 
 # Cues
 # Summary
