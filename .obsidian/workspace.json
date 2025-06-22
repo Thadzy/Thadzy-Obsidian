@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d476b73385b18512",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Limit.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Limit"
-            }
-          },
-          {
             "id": "757a5190acc415c3",
             "type": "leaf",
             "state": {
@@ -35,8 +21,7 @@
               "title": "Limit"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
