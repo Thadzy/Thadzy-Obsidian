@@ -1,16 +1,16 @@
 ---
-date: 
+date: 2025-06-22
 Status: In Progress
 tags:
   - Physics
 link: 
-Area:
+Area: "[[Calculus]]"
 ---
 # Goal
 Learning everything in concept about calculus 1
 # Subtopics
 from Calculus 1 visualization
 # Resources
-
+https://www.youtube.com/watch?v=MO-AExWdl4Q
 # To-Do
 - [ ] 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Limit.md",
+                "file": "Projects/Calculus I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Limit"
+              "title": "Calculus I"
             }
           }
         ]
@@ -173,13 +173,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Limit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Limit"
+              "title": "Outline"
             }
           }
         ]
@@ -200,7 +199,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d476b73385b18512",
+  "active": "34294d8fb791ac3a",
   "lastOpenFiles": [
     "Projects/Calculus I.md",
     "Resources/Limit.md",
