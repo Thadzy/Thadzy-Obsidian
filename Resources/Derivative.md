@@ -1,8 +1,9 @@
 ---
-tags: 
-Area:
+tags:
+  - Calculus
+Area: "[[Areas/Calculus I]]"
 ---
-link :
+link : [[Limit]] [[1D Motion]]
 # Title
 # Cues
 # Summary
