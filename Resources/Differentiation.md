@@ -5,6 +5,11 @@ Area: "[[Areas/Calculus I]]"
 ---
 link : [[Derivative]]
 # Differentiation
+Is the process to find the derivative.
+## Constant Rule
+## Power Rule
+## Addition Rule
+## Product 
 # Cues
 # Summary
 ```
