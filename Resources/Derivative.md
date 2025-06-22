@@ -22,7 +22,9 @@ $$\lim_{h\to 0}\frac{f(x+h) - f(x)}{h}$$
 | Uses two points? | Yes                    | No (limit to a single point) |
 | Accuracy         | Approximate            | Exact at a point             |
 # Cues
+What is the different of Differential and Derivative?
+Ans 
 # Summary
 ```
-This is the derivertive by definition by using limit there are 2 types average and 
+This is the derivertive by definition by using limit there are 2 types average (secant line) and instantaneous (tangent line)
 ```
