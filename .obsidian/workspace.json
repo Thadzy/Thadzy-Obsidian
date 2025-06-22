@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Derivertive.md",
+                "file": "Resources/Derivative.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Derivertive"
+              "title": "Derivative"
             }
           }
         ]
@@ -173,13 +173,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Derivertive.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Derivertive"
+              "title": "Outline"
             }
           }
         ]
@@ -200,10 +199,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "757a5190acc415c3",
+  "active": "34294d8fb791ac3a",
   "lastOpenFiles": [
+    "Resources/Derivative.md",
     "Resources/Limit.md",
-    "Resources/Derivertive.md",
     "Archives/Physics Monsit FRA114 Project.md",
     "Projects/Calculus I Project.md",
     "Areas/Calculus I.md",
