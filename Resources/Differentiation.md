@@ -13,7 +13,8 @@ when x is constant there is no slope therefore dy/dx = 0
 $$\frac{d}{dx}C = 0$$
 ## Power Rule
 this is come from derivative definition it is not a magic 
-$$\frac{d}{dx}X^n = $$
+$$\lim_{h\to 0}\frac{f(x+h) - f(x)}{h}$$
+$$\frac{d}{dx}x^n = nx^{n-1}$$
 ## Addition Rule
 ## Product Rule
 
