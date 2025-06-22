@@ -24,5 +24,5 @@ $$\lim_{h\to 0}\frac{f(x+h) - f(x)}{h}$$
 # Cues
 # Summary
 ```
-
+This is the derivertive by definition by using limit there are 2 types average and 
 ```
