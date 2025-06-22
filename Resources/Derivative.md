@@ -4,7 +4,9 @@ tags:
 Area: "[[Areas/Calculus I]]"
 ---
 link : [[Limit]] [[1D Motion]]
-# Title
+# Derivative
+Derivative is the rate of change or slope of the fucntion
+
 # Cues
 # Summary
 ```
