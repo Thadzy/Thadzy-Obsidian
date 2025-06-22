@@ -173,12 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Resources/Derivative.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Derivative"
             }
           }
         ]
@@ -199,8 +200,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "34294d8fb791ac3a",
+  "active": "757a5190acc415c3",
   "lastOpenFiles": [
+    "Pasted image 20250622205058.png",
+    "Pasted image 20250622205056.png",
+    "Pasted image 20250622205051.png",
     "Resources/Derivative.md",
     "Resources/Limit.md",
     "Archives/Physics Monsit FRA114 Project.md",
@@ -221,10 +225,8 @@
     "Images/Pasted image 20250621203901.png",
     "Pasted image 20250621203849.png",
     "Resources/1D Motion.md",
-    "Images/Pasted image 20250621162155.png",
     "Untitled.md",
     "Resources/Circular Motion.md",
-    "Images/Pasted image 20250621162628.png",
     "Resources/Projectile Motion.md",
     "Resources/SUVAT.md",
     "Templates/Project Template.md",
@@ -245,7 +247,6 @@
     "Projectile Motion.md",
     "2D, 3D Motion.md",
     "OOP6.md",
-    "OOP3-A-Bronze1-OddEven.md",
     "2 อินทิกรัลหลายชั้น_Student.pdf",
     "5_Thin Membrane Mohr_AJT 2025.pdf",
     "Physics.canvas",
