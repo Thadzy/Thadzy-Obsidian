@@ -14,6 +14,7 @@ $$\frac{\Delta Y}{\Delta X}$$
 what if I want to find velocity at t = 1.5s?
 ![[Pasted image 20250622205345.png | 400]]
 $$\lim_{h\to 0}\frac{f(x+h) - f(x)}{h}$$
+and it like the power rule of differential.
 
 | Concept          | ΔyΔx                   | lim⁡Δx→0ΔyΔx                 |
 | ---------------- | ---------------------- | ---------------------------- |
@@ -27,6 +28,7 @@ What is the different of Differential and Derivative?
 Ans 
 - Derivative How fast is y changing at this exact point of x?
 - Differential If x changes by a small amount dx, how much does y approximately change?
+Why 
 # Summary
 ```
 This is the derivertive by definition by using limit there are 2 types average (secant line) and instantaneous (tangent line)
