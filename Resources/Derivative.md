@@ -21,6 +21,7 @@ $$\lim_{h\to 0}\frac{f(x+h) - f(x)}{h}$$
 | Represents       | Slope of secant line   | Slope of tangent line        |
 | Uses two points? | Yes                    | No (limit to a single point) |
 | Accuracy         | Approximate            | Exact at a point             |
+![[Pasted image 20250622205706.png]]
 # Cues
 What is the different of Differential and Derivative?
 Ans 
