@@ -19,8 +19,8 @@ How to solve the limit
 - Factoring
 - Conjugate
 # Cues
-Why this 3 method is works in limit?
-Ans 
+**Why this 3 method is works in limit?**
+**Ans** 
 1. Direct substitution Works for continuous functions — value at a point equals the limit.
 2. Factoring Removes common zero-causing terms, revealing actual behavior near the point.
 3. Removes square roots causing 0/0​, using valid algebraic identities.
