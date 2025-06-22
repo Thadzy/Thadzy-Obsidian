@@ -2,7 +2,7 @@
 date: 2025-06-22
 Status: In Progress
 tags:
-  - Physics
+  - Calculus
 link: 
 Area: "[[Calculus]]"
 ---

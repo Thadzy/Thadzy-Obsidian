@@ -1,6 +1,7 @@
 ---
-tags: 
-Area:
+tags:
+  - Calculus
+Area: "[[Calculus]]"
 ---
 link :
 # Title
