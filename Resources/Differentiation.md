@@ -17,6 +17,9 @@ $$\lim_{h\to 0}\frac{f(x+h) - f(x)}{h}$$
 $$\frac{d}{dx}x^n = nx^{n-1}$$
 ## Addition Rule
 ## Product Rule
+## Trig Rule
+## Chain Rule
+
 
 # Cues
 # Summary
