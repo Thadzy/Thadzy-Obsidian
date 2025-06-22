@@ -31,8 +31,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,12 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Resources/Differentiation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Differentiation"
             }
           }
         ]
@@ -210,7 +210,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b065ee9ddfd18d92",
+  "active": "cabe667775603be6",
   "lastOpenFiles": [
     "Resources/Differentiation.md",
     "Resources/Derivative.md",
