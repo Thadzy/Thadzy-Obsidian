@@ -11,12 +11,14 @@
             "id": "d476b73385b18512",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250621223241.png"
+                "file": "Projects/Calculus I.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250621223241"
+              "icon": "lucide-file",
+              "title": "Calculus I"
             }
           }
         ]
@@ -171,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20250621223241.png",
+                "file": "Projects/Calculus I.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20250621223241"
+              "title": "Outline of Calculus I"
             }
           }
         ]
@@ -198,21 +200,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8fcf9bc88e581a6b",
+  "active": "d476b73385b18512",
   "lastOpenFiles": [
-    "Projects/Calculus.md",
-    "Projects/Physics Monsit FRA114.md",
+    "Areas/Calculus.md",
+    "Images/Pasted image 20250621223241.png",
+    "Projects/Calculus I.md",
+    "Archives/Physics Monsit FRA114.md",
     "Resources/Impulse and Momentum.md",
     "Second Brain.canvas",
-    "Pasted image 20250621223241.png",
-    "Pasted image 20250621223207.png",
-    "Pasted image 20250621222906.png",
-    "Pasted image 20250621222621.png",
+    "Images/Pasted image 20250621223207.png",
+    "Images/Pasted image 20250621222906.png",
+    "Images/Pasted image 20250621222621.png",
     "Resources/2D, 3D Motion.md",
     "Resources/Newton's laws.md",
     "Resources/Work and Energy.md",
     "Pasted image 20250621182213.png",
-    "Pasted image 20250621203901.png",
+    "Images/Pasted image 20250621203901.png",
     "Pasted image 20250621203849.png",
     "Resources/1D Motion.md",
     "Images/Pasted image 20250621162155.png",
@@ -243,8 +246,6 @@
     "OOP6.md",
     "OOP3-A-Bronze1-OddEven.md",
     "Vector in Coordination Systems.md",
-    "Vector Functions.md",
-    "Vector Projection.md",
     "2 อินทิกรัลหลายชั้น_Student.pdf",
     "5_Thin Membrane Mohr_AJT 2025.pdf",
     "Physics.canvas",
