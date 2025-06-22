@@ -3,8 +3,8 @@ tags:
   - Calculus
 Area: "[[Areas/Calculus I]]"
 ---
-link :
-# Title
+link : [[Derivative]]
+# Differentiation
 # Cues
 # Summary
 ```

@@ -13,7 +13,7 @@ $$\frac{\Delta Y}{\Delta X}$$
 ## Instantaneous Rate of Change
 what if I want to find velocity at t = 1.5s?
 ![[Pasted image 20250622205345.png | 400]]
-$$\lim_{h\to 0}\frac{f(x+h) - f(x)}{h}$$
+$$\frac{\Delta Y}{\Delta X} = \lim_{h\to 0}\frac{f(x+h) - f(x)}{h}$$
 and it like the power rule of differential.
 
 | Concept          | ΔyΔx                   | lim⁡Δx→0ΔyΔx                 |
