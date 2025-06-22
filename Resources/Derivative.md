@@ -25,6 +25,8 @@ $$\lim_{h\to 0}\frac{f(x+h) - f(x)}{h}$$
 # Cues
 What is the different of Differential and Derivative?
 Ans 
+- Derivative How fast is y changing at this exact point of x?
+- Differential If x changes by a small amount dx, how much does y approximately change?
 # Summary
 ```
 This is the derivertive by definition by using limit there are 2 types average (secant line) and instantaneous (tangent line)
