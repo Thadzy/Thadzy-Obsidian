@@ -10,8 +10,9 @@ Is the process to find the derivative.
 y = 3
 ![[Pasted image 20250622224718.png]]
 when x is constant there is no slope therefore dy/dx = 0
-
+$$\frac{d}{dx}C = 0$$
 ## Power Rule
+this is come from derivative defination  
 ## Addition Rule
 ## Product Rule
 
