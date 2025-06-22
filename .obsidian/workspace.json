@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Limit"
             }
+          },
+          {
+            "id": "ac0fec522e86ed67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archives/Physics Monsit FRA114.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Physics Monsit FRA114"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Limit.md",
+                "file": "Archives/Physics Monsit FRA114.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Limit"
+              "title": "Outline of Physics Monsit FRA114"
             }
           }
         ]
@@ -200,12 +215,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d476b73385b18512",
+  "active": "ac0fec522e86ed67",
   "lastOpenFiles": [
-    "Pasted image 20250622202141.png",
-    "Projects/Calculus I.md",
+    "Projects/Calculus I Project.md",
     "Areas/Calculus I.md",
     "Resources/Limit.md",
+    "Pasted image 20250622202141.png",
     "Areas/Physics Mechanics.md",
     "Images/Pasted image 20250621223241.png",
     "Archives/Physics Monsit FRA114.md",
@@ -230,7 +245,6 @@
     "Templates/Project Template.md",
     "Templates/Area Template.md",
     "Templates/Resource Template.md",
-    "Images/Pasted image 20250621143455.png",
     "Images",
     "Physics.md",
     "Physics FRA114.md",
