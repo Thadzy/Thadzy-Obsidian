@@ -4,7 +4,7 @@ Status: In Progress
 tags:
   - Calculus
 link: 
-Area: "[[Calculus]]"
+Area: "[[Areas/Calculus I]]"
 ---
 # Goal
 Learning everything in concept about calculus 1
@@ -13,4 +13,4 @@ from Calculus 1 visualization
 # Resources
 https://www.youtube.com/watch?v=MO-AExWdl4Q
 # To-Do
-- [ ] 
+- [ ] Everything from above video

@@ -1,10 +1,10 @@
 ---
 tags:
   - Calculus
-Area: "[[Calculus]]"
+Area: "[[Areas/Calculus I]]"
 ---
-link :
-# Title
+link : 
+# Limit
 # Cues
 # Summary
 ```
