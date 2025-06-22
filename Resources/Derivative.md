@@ -24,11 +24,12 @@ and it like the power rule of differential.
 | Accuracy         | Approximate            | Exact at a point             |
 ![[Pasted image 20250622205706.png]]
 # Cues
-What is the different of Differential and Derivative?
-Ans 
+**What is the different of Differential and Derivative?**
+**Ans** 
 - Derivative How fast is y changing at this exact point of x?
 - Differential If x changes by a small amount dx, how much does y approximately change?
-Why 
+**Why Instantaneous Rate of Change is equal to power rule in Differential?**
+**Ans** Because the power rule is derived from the definition of the derivative
 # Summary
 ```
 This is the derivertive by definition by using limit there are 2 types average (secant line) and instantaneous (tangent line)
