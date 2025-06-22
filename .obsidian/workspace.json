@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Differentiation"
             }
-          },
-          {
-            "id": "b065ee9ddfd18d92",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,12 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Resources/Differentiation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Differentiation"
             }
           }
         ]
@@ -210,10 +200,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b065ee9ddfd18d92",
+  "active": "cabe667775603be6",
   "lastOpenFiles": [
-    "Resources/Differentiation.md",
     "Resources/Derivative.md",
+    "Resources/Differentiation.md",
     "Pasted image 20250622205706.png",
     "Pasted image 20250622205345.png",
     "Pasted image 20250622205338.png",
