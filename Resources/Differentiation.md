@@ -16,7 +16,9 @@ this is come from derivative definition it is not a magic
 $$\lim_{h\to 0}\frac{f(x+h) - f(x)}{h}$$
 $$\frac{d}{dx}x^n = nx^{n-1}$$
 ## Product Rule
-to find the small change of the square A = w 
+to find the small change of the square A = h x b which means
+$$[f+g]'$$
+$$$$
 ![[Pasted image 20250627000037.png | 450]]
 
 
