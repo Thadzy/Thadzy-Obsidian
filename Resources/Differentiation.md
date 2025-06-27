@@ -30,7 +30,11 @@ we know that derivative of sin = cos it's step back for $\frac{\pi}{2} rad$
 therefore from the image
 derivative
 $$sin\theta = cos\theta$$
+$$cos\theta = -sin\theta$$
+$$-sin\theta = -cos\theta$$
+$$-cos\theta = sin\theta$$
 ## Chain Rule
+use the
 ## Quotient Rule
 
 # Cues
