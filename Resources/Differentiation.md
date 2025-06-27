@@ -35,10 +35,15 @@ $$-sin\theta = -cos\theta$$
 $$-cos\theta = sin\theta$$
 ## Chain Rule
 use when it's is composite function -> another function embedded in functions
-$$\frac{d}{dx}f(g(x)) = \frac{df}{dg} \cdot \frac{dg}{dx} = f(x)$$
- ## Quotient Rule
+$$\frac{d}{dx}f(g(x)) = \frac{df}{dg} \cdot \frac{dg}{dx} = \frac{df}{dx}$$
+```
+Derivertive Inside and Outside
+```
+## Quotient Rule
+
 
 # Cues
+Why I have to use chain rule
 # Summary
 ```
 
