@@ -34,7 +34,7 @@ $$cos\theta = -sin\theta$$
 $$-sin\theta = -cos\theta$$
 $$-cos\theta = sin\theta$$
 ## Chain Rule
-use the
+use when it's is composite function -> another function embedded in functions
 ## Quotient Rule
 
 # Cues
