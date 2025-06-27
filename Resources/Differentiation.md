@@ -40,6 +40,8 @@ $$\frac{d}{dx}f(g(x)) = \frac{df}{dg} \cdot \frac{dg}{dx} = \frac{df}{dx}$$
 Derivertive Inside and Outside
 ```
 ## Quotient Rule
+use when $\frac{f'(x)}{g'(x)}$ 
+$$d$$
 
 
 # Cues
