@@ -22,7 +22,7 @@ $$[f \cdot g]' = f \cdot g' + f' \cdot g$$
 ## Trig Rule
 why derivative sin = cos?
 ![[Pasted image 20250627133954.png]]
-because when the theta changes 
+because when the theta changed in small to find the theta that already changed is 
 
 ## Chain Rule
 ## Quotient Rule
