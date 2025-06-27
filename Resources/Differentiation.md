@@ -23,7 +23,7 @@ $$[f \cdot g]' = f \cdot g' + f' \cdot g$$
 why derivative sin = cos?
 ![[Pasted image 20250627133954.png]]
 because when the theta changed in small to find the theta that already changed is 
-$$sin (tiny angle) = \frac{opposite}{}$$
+$$sin (tiny angle) = \frac{opposite}{hypotenuse} = cos\th= \frac{d(sin(\theta))}{d \theta}$$
 ## Chain Rule
 ## Quotient Rule
 
