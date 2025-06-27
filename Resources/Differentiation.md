@@ -44,7 +44,7 @@ Derivertive Inside and Outside
 
 # Cues
 Why I have to use chain rule?
-Ans when it h
+Ans when it has another function inside the function I can't derivative directly because it's not equal because another function is using that variable.
 # Summary
 ```
 
