@@ -43,7 +43,8 @@ Derivertive Inside and Outside
 
 
 # Cues
-Why I have to use chain rule
+Why I have to use chain rule?
+Ans when it h
 # Summary
 ```
 
