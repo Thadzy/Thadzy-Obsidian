@@ -20,7 +20,7 @@ to find the small change of the square which means vice versa the function that 
 $$[f \cdot g]' = f \cdot g' + f' \cdot g$$
 ![[Pasted image 20250627000037.png | 450]]
 ## Trig Rule
-
+![[Pasted image 20250627133954.png]]
 
 ## Chain Rule
 ## Quotient Rule
