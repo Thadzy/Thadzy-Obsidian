@@ -24,7 +24,9 @@ why derivative sin = cos?
 ![[Pasted image 20250627133954.png]]
 because when the theta changed in small to find the theta that already changed is 
 $$sin (tiny angle) = \frac{adjacent}{hypotenuse} = cos\theta= \frac{d(sin(\theta))}{d \theta}$$
-
+and the Trig differentiation loop
+![[Pasted image 20250627154427.png]]
+we know that derivative of sin = cos
 ## Chain Rule
 ## Quotient Rule
 
