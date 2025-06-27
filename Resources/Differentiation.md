@@ -35,6 +35,7 @@ $$-sin\theta = -cos\theta$$
 $$-cos\theta = sin\theta$$
 ## Chain Rule
 use when it's is composite function -> another function embedded in functions
+
 ## Quotient Rule
 
 # Cues
