@@ -26,7 +26,10 @@ because when the theta changed in small to find the theta that already changed i
 $$sin (tiny angle) = \frac{adjacent}{hypotenuse} = cos\theta= \frac{d(sin(\theta))}{d \theta}$$
 and the Trig differentiation loop
 ![[Pasted image 20250627154427.png]]
-we know that derivative of sin = cos
+we know that derivative of sin = cos it's step back for $\frac{\pi}{2} rad$ 
+therefore from the image
+derivative
+$$sin\theta = cos\theta$$
 ## Chain Rule
 ## Quotient Rule
 
