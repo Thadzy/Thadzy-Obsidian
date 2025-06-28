@@ -17,7 +17,7 @@ Step is
 2. Derivative u = f(x) dx
 3. dx = something du and Substitution to f(x)
 # Cues
-Why I have to derivative u in u?
+Why I have to derivative u in u-substitution?
 # Summary
 ```
 
