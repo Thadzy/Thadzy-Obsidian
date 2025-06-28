@@ -29,7 +29,8 @@ ln is log base e call natural logarithm
 and 
 $$\ln a = \lim_{h \to 0}\frac{a^h-1}{h} $$
 # Cues
-What if I don't have calculator how can I find logarithms?
+**What if I don't have calculator how can I find logarithms?**
+**Ans** approximations, and logarithmic tables.
 # Summary
 ```
 Not Finished but This is tell about the exponential and logarithms and lastly e I will back to learn it more
