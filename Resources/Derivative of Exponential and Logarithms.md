@@ -27,11 +27,12 @@ $$ \frac{d}{dx} b^{f(x)} = f'(x) \ln b \cdot b^{f(x)} $$
 
 Differentiation Rule for Logarithms
 $$ \frac{d}{dx} \log_b f(x) = f'(x) \cdot \frac{1}{\ln b} \cdot \frac{1}{f(x)} $$
+## Summarize Differentiation of Logarithms
 ![[Pasted image 20250628150423.png]]
 # Cues
 **Why ln e = 1?**
 **Ans**  Because the logarithm tells you **"what power must I raise e to get e?"**
 # Summary
 ```
-
+Derivative of 2^x = 2^x ln x by chain rule and if I derivative e I got the same e and the logarithms
 ```
