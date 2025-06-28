@@ -13,9 +13,9 @@ e.g.![[Pasted image 20250628172948.png]]
 step 
 1. Find u
 2. Derivative u (du)
-3. Find v 
-4. Integrate v (dv)
-5. sub to f(x)
+3. Find dv 
+4. Integrate dv (v)
+![[Pasted image 20250628173200.png | 400]]
 # Cues
 
 # Summary
