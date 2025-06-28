@@ -13,10 +13,12 @@ There are 3 cases
 3. b < 2 decay
 ## Logarithms
 ![[Pasted image 20250628140437.png]]
+![[Pasted image 20250628140548.png]]
 
 
 
 # Cues
+What if I don't have calculator how can I find logarithms?
 # Summary
 ```
 
