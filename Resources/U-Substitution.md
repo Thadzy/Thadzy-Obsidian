@@ -14,8 +14,10 @@ e.g.
 ![[Pasted image 20250628171712.png]]
 Step is
 1. Find u 
-2. Derivat
+2. Derivative u = f(x) dx
+3. dx = something du and Substitution to f(x)
 # Cues
+Why I have to derivative u in u?
 # Summary
 ```
 
