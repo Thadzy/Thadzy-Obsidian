@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Integration by Parts.md",
+                "file": "Resources/LIATE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integration by Parts"
+              "title": "LIATE"
             }
           },
           {
@@ -215,13 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Integration by Parts.md",
+                "file": "Resources/LIATE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Integration by Parts"
+              "title": "Outline of LIATE"
             }
           }
         ]
@@ -244,10 +244,12 @@
   },
   "active": "a8e49f0d87cf6431",
   "lastOpenFiles": [
+    "Pasted image 20250628173501.png",
+    "Resources/Integration by Parts.md",
+    "Resources/LIATE.md",
     "Pasted image 20250628173200.png",
     "Pasted image 20250628172948.png",
     "Pasted image 20250628172752.png",
-    "Resources/Integration by Parts.md",
     "Resources/U-Substitution.md",
     "Pasted image 20250628171712.png",
     "Pasted image 20250628171709.png",
@@ -260,7 +262,6 @@
     "Pasted image 20250628161427.png",
     "Resources/Derivative of Exponential and Logarithms.md",
     "Projects/Calculus I Project.md",
-    "Pasted image 20250628150423.png",
     "Resources/Exponential and Logarithms.md",
     "Resources/Differentiation.md",
     "Areas/Calculus I.md",
@@ -280,7 +281,6 @@
     "Resources/Projectile Motion.md",
     "Resources/SUVAT.md",
     "Templates/Project Template.md",
-    "Templates/Area Template.md",
     "Images",
     "Templates",
     "Archives",
