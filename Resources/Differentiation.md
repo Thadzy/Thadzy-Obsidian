@@ -44,7 +44,8 @@ use when $\frac{f'(x)}{g'(x)}$
 $$\frac{d}{dx}\frac{f(x)}{g(x)}$$
 $$\frac{d}{dx}f(x) \cdot g(x)^{-1}$$
 use product rule
-$$f(x) \cdot($$
+$$f(x) \cdot(g(x)^{-1} + g(x)^{-1} \cdot f'(x)$$
+use chain rule on g(x) now we
 # Cues
 **Why I have to use chain rule?**
 **Ans** when it has another function inside the function I can't derivative directly because it's not equal because another function is using that variable.
