@@ -48,7 +48,7 @@ $$f(x) \cdot(g(x)^{-1} + g(x)^{-1} \cdot f'(x)$$
 use chain rule on g(x) now we got
 $$f(x) \cdot(-1\cdot g(x)^{-2} \cdot g'(x)) + g(x)^{-1} \cdot f'(x)$$
 therefore when simplify power negative
-$$\frac{d}{dx}\frac{f(x)}{g(x)} = g(x)$$
+$$\frac{d}{dx}\frac{f(x)}{g(x)} = \frac{g(x)f'(x)-f(x)g'(x)}{g(x)^2}$$
 # Cues
 **Why I have to use chain rule?**
 **Ans** when it has another function inside the function I can't derivative directly because it's not equal because another function is using that variable.
