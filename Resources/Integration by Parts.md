@@ -21,5 +21,5 @@ step
 **Ans** LIATE
 # Summary
 ```
-
+Integration by parts use when Integrate the derivative of product rule by split integrate part by part by choose
 ```
