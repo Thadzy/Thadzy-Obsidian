@@ -41,7 +41,6 @@ to know the area under the curve we have to know the definite
 $$\int_a^bf(x) dx = F(b) - F(a)$$
 but if there are negative value we have to split the integration
 ![[Pasted image 20250628163442.png]]
-
 # Cues
 # Summary
 ```
