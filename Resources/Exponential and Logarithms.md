@@ -11,7 +11,9 @@ There are 3 cases
 1. b > 1 increase
 2. b = 1 flat
 3. b < 2 decay
-4. 
+## Logarithms
+![[Pasted image 20250628140437.png]]
+
 
 
 # Cues
