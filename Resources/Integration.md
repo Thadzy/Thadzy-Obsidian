@@ -37,7 +37,9 @@ and A(t) is area under curve and f(t) is slope which means
 Derivative of A(t) = f(t)
 when Anti-Derivative of f(t) is A(t) this is **why Integrate = Area under curve**.
 ## Definite Integrals
-to know the area under the curve we have to know the dfinite
+to know the area under the curve we have to know the definite 
+$$\int_a^bf(x) dx = F(b) - F(a)$$
+but if there are negative value
 # Cues
 # Summary
 ```
