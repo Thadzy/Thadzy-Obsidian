@@ -25,13 +25,10 @@ e = 2.7182818284590452353602874713527...
 $$y = e^x$$
 $$x = log_e(y)$$
 $$x = ln(y)$$
-ln is
-
-
-
+ln is log base e call natural logarithm
 # Cues
 What if I don't have calculator how can I find logarithms?
 # Summary
 ```
-
+Not Finished but This 
 ```
