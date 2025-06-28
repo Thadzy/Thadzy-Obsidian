@@ -25,7 +25,8 @@ $$\frac{d}{dx}e^x = e^x$$
 ## Derivative of Logarithms
 
 # Cues
-Why ln e = 1?
+**Why ln e = 1?**
+**Ans**  Because the logarithm tells you **"what power must I raise e to get e?"**
 # Summary
 ```
 
