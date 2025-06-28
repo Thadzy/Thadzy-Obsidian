@@ -3,7 +3,7 @@ tags:
   - Calculus
 Area: "[[Areas/Calculus I]]"
 ---
-link : [[Derivative]]
+link : [[Derivative]] [[1D Motion]]
 # Integration
 ## Anti-derivative
 anti-derivative is the way to integrate goal is to find before form of the function
@@ -16,6 +16,9 @@ $$f'(x) \frac{1}{x} = \ln x$$
 therefore 
 $$x^{-1} = \ln |x|$$
 ![[Pasted image 20250628161427.png]]I have to add negative because y = 1/x there are postive and negative value so I have to add absolute to make it cover positive and negative
+## Integrate the function
+e.g. $f(x) = 2$
+$$$$
 
 # Cues
 # Summary
