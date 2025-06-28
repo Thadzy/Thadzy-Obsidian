@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/U-Substitution.md",
+                "file": "Resources/Integration by Parts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "U-Substitution"
+              "title": "Integration by Parts"
             }
           },
           {
@@ -51,9 +51,19 @@
               "icon": "lucide-layout-dashboard",
               "title": "Second Brain"
             }
+          },
+          {
+            "id": "fc1ba3c612ad92f4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,13 +215,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/U-Substitution.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of U-Substitution"
+              "title": "Outline"
             }
           }
         ]
@@ -232,11 +241,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a8e49f0d87cf6431",
+  "active": "fc1ba3c612ad92f4",
   "lastOpenFiles": [
+    "Resources/Integration by Parts.md",
+    "Resources/U-Substitution.md",
     "Pasted image 20250628171712.png",
     "Pasted image 20250628171709.png",
-    "Resources/U-Substitution.md",
     "Resources/Integration.md",
     "Pasted image 20250628171000.png",
     "Pasted image 20250628163442.png",
@@ -250,7 +260,6 @@
     "Pasted image 20250628145819.png",
     "Pasted image 20250628145208.png",
     "Resources/Exponential and Logarithms.md",
-    "Pasted image 20250628142152.png",
     "Resources/Differentiation.md",
     "Areas/Calculus I.md",
     "Areas/Physics Mechanics.md",

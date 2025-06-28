@@ -28,5 +28,8 @@ du = g'(x) dx \Rightarrow dx = \frac{du}{g'(x)}
 $$
 # Summary
 ```
-
+U-subsitution is use when reverse chain rule
+1. Find u 
+2. Derivative u = f(x) dx
+3. dx = something du and Substitution to f(x)
 ```
