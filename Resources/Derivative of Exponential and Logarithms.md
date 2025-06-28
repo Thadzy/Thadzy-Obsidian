@@ -23,8 +23,11 @@ $$\frac{d}{dx}e^x = e^x$$
 ## Summarize Differentiation of Exponentials
 ![[Pasted image 20250628145208.png]]
 ## Derivative of Logarithms
-ç
+$$ \frac{d}{dx} b^{f(x)} = f'(x) \ln b \cdot b^{f(x)} $$
 
+Differentiation Rule for Logarithms
+$$ \frac{d}{dx} \log_b f(x) = f'(x) \cdot \frac{1}{\ln b} \cdot \frac{1}{f(x)} $$
+![[Pasted image 20250628150423.png]]
 # Cues
 **Why ln e = 1?**
 **Ans**  Because the logarithm tells you **"what power must I raise e to get e?"**
