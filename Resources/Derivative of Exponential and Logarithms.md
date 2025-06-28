@@ -34,5 +34,5 @@ $$ \frac{d}{dx} \log_b f(x) = f'(x) \cdot \frac{1}{\ln b} \cdot \frac{1}{f(x)} $
 **Ans**  Because the logarithm tells you **"what power must I raise e to get e?"**
 # Summary
 ```
-Derivative of 2^x = 2^x ln x by chain rule and if I derivative e I got the same e and the logarithms
+Derivative of 2^x = 2^x ln x by chain rule and if I derivative e I got the same e and the logarithms Start by converting the base-b logarithm to the natural log Then apply the **chain rule**
 ```
