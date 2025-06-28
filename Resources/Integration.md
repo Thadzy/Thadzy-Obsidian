@@ -7,7 +7,9 @@ link : [[Derivative]]
 # Integration
 ## Anti-derivative
 anti-derivative is the way to integrate goal is to find before form of the function
-e.g. 2x anti-derivative is 2x^2/
+e.g. 2x anti-derivative is 2x^2/2 
+$$2x => \frac{2x^2}{2}=>x^2$$
+but what happened if 
 # Cues
 # Summary
 ```
