@@ -19,7 +19,9 @@ $$x^{-1} = \ln |x|$$
 ## Integrate the function
 e.g. $f(x) = 2x^4 + x^3 - 3x^2 + x$
 and derivative them
-$$8x^3 + 3x^2 - 6x^$$
+$$8x^3 + 3x^2 - 6x + 1$$
+
+![[Pasted image 20250628162016.png]]
 
 # Cues
 # Summary
