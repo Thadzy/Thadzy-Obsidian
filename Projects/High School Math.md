@@ -4,7 +4,7 @@ Status: In Progress
 tags:
   - Math
 link: 
-Area:
+Area: "[[Mathematics]]"
 ---
 # Goal
 

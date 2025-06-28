@@ -1,7 +1,6 @@
 ---
-tags:
-  - Math
-Area: "[[Mathematics]]"
+tags: 
+Area:
 ---
 link :
 # Title
