@@ -13,6 +13,6 @@ from Calculus 1 visualization
 # Resources
 https://www.youtube.com/watch?v=MO-AExWdl4Q
 # To-Do
-- [ ] Everything from above video
+- [x] Everything from above video
 
 Not understand exponentials and logarithms
