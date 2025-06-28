@@ -17,6 +17,7 @@ while $\ln e = 1$ because $e^1 = e$
 $log_b b = 1$ because $b^1 = b$
 therefore derivative of e
 $$\frac{d}{dx}e^x = e^x$$
+
 # Cues
 Why ln e = 1?
 # Summary
