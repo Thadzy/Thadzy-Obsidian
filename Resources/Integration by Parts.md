@@ -14,7 +14,8 @@ step
 1. Find u
 2. Derivative u (du)
 3. Find v 
-4. Integrate u
+4. Integrate v (dv)
+5. sub to f(x)
 # Cues
 
 # Summary
