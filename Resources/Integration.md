@@ -32,7 +32,7 @@ This is v-t graph and if we can find the area under the curve is displacement
 in integration we split them into the small rectangle which is
 $$A = b \times h => dA = f(t)dt$$
 format the equation
-$$\frac{}{}$$
+$$\frac{dA}{dt} = f(t)$$
 # Cues
 # Summary
 ```
