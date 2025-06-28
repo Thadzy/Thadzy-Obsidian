@@ -11,7 +11,7 @@ $$\frac{d}{dx}2^x=2^x\ln2$$
 Therefore the derivative of Exponential is 
 $$\frac{d}{dx}b^x= b^x\ln b$$
 if there is
-\frac{d}{dx}b^{f(x)} = f'(x) \ln b
+$$\frac{d}{dx}b^{f(x)} = f'(x) \ln b^{fx}$$
 ## Derivative of e
 we know that $\frac{d}{dx}b^x= b^x\ln b$ therefore when derivative of e 
 $$\frac{d}{dx}e^x = e \ln e^x$$
