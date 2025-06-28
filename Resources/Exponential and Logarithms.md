@@ -3,7 +3,7 @@ tags:
   - Math
 Area: "[[Mathematics]]"
 ---
-link :
+link : [[Derivative of Exponential and Logarithms]]
 # Title
 # Cues
 # Summary
