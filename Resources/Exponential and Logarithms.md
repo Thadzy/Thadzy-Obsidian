@@ -26,6 +26,8 @@ $$y = e^x$$
 $$x = log_e(y)$$
 $$x = ln(y)$$
 ln is log base e call natural logarithm
+and 
+$$\ln a = lim_{h \to 0}\frac{}{} $$
 # Cues
 What if I don't have calculator how can I find logarithms?
 # Summary
