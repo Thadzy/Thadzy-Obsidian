@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "88718925af38573e",
+            "id": "34294d8fb791ac3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,11 +92,11 @@
         ]
       },
       {
-        "id": "13907daf6eda3610",
+        "id": "a3e9018144600742",
         "type": "tabs",
         "children": [
           {
-            "id": "34294d8fb791ac3a",
+            "id": "88718925af38573e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -188,13 +188,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Exponential and Logarithms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Exponential and Logarithms"
+              "title": "Outline"
             }
           }
         ]
@@ -217,10 +216,11 @@
   },
   "active": "88718925af38573e",
   "lastOpenFiles": [
-    "Areas/Calculus I.md",
-    "Areas/Mathematics.md",
-    "Areas/Physics Mechanics.md",
     "Resources/Exponential and Logarithms.md",
+    "Projects/Calculus I Project.md",
+    "Areas/Mathematics.md",
+    "Areas/Calculus I.md",
+    "Areas/Physics Mechanics.md",
     "Resources/Differentiation.md",
     "Pasted image 20250628132949.png",
     "Pasted image 20250627154427.png",
@@ -235,7 +235,6 @@
     "Pasted image 20250622205056.png",
     "Resources/Limit.md",
     "Archives/Physics Monsit FRA114 Project.md",
-    "Projects/Calculus I Project.md",
     "Resources/Impulse and Momentum.md",
     "Second Brain.canvas",
     "Resources/2D, 3D Motion.md",

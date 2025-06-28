@@ -1,6 +1,5 @@
 ---
-tags:
-  - Math
+tags: 
 Area:
 ---
 link :
