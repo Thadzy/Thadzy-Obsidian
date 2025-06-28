@@ -33,8 +33,9 @@ in integration we split them into the small rectangle which is
 $$A = b \times h => dA = f(t)dt$$
 format the equation
 $$\frac{dA}{dt} = f(t)$$
-and A(t) is area undercurve and f(t) is slope which means
-Derivative of A(t)
+and A(t) is area under curve and f(t) is slope which means
+Derivative of A(t) = f(t)
+when Anti-Derivative of f(t) is A(t) this is why Integrate = Area under curve
 # Cues
 # Summary
 ```
