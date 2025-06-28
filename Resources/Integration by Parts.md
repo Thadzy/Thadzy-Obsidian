@@ -9,6 +9,12 @@ use to find the derivative of function that use  product rule
 ![[Pasted image 20250628172752.png]]
 therefore when simplify
 $$\int u dv = uv-\int v du$$
+e.g.![[Pasted image 20250628172948.png]]
+step 
+1. Find u
+2. Derivative u (du)
+3. Find v 
+4. Integrate u
 # Cues
 
 # Summary
