@@ -15,7 +15,7 @@ not works but in logarithms we know that
 $$f'(x) \frac{1}{x} = \ln x$$
 therefore 
 $$x^{-1} = \ln |x|$$
-![[Pasted image 20250628161427.png]]
+![[Pasted image 20250628161427.png]]I have to add negative becaus
 
 # Cues
 # Summary
