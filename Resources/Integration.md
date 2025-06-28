@@ -33,6 +33,8 @@ in integration we split them into the small rectangle which is
 $$A = b \times h => dA = f(t)dt$$
 format the equation
 $$\frac{dA}{dt} = f(t)$$
+and A(t) is area undercurve and f(t) is slope which means
+Derivative of A(t)
 # Cues
 # Summary
 ```
