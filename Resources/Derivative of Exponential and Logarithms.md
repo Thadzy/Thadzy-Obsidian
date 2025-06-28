@@ -5,6 +5,7 @@ Area: "[[Areas/Calculus I]]"
 ---
 link : [[Exponential and Logarithms]] [[Derivative]]
 # Derivative of Exponential and Logarithms
+## Derivative of Exponential
 ![[Pasted image 20250628142152.png]]
 $$\ln a = \lim_{h \to 0}\frac{a^h-1}{h} $$
 $$\frac{d}{dx}2^x=2^x\ln2$$
@@ -21,6 +22,8 @@ therefore derivative of e
 $$\frac{d}{dx}e^x = e^x$$
 ## Summarize Differentiation of Exponentials
 ![[Pasted image 20250628145208.png]]
+## Derivative of Logarithms
+
 # Cues
 Why ln e = 1?
 # Summary
