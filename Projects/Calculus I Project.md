@@ -14,3 +14,5 @@ from Calculus 1 visualization
 https://www.youtube.com/watch?v=MO-AExWdl4Q
 # To-Do
 - [ ] Everything from above video
+
+Not understand exponentials and logarithms
