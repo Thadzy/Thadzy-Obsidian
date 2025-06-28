@@ -29,7 +29,10 @@ Why definite Integration = Area under curve?
 e.g.
 ![[Pasted image 20250628162548.png]]
 This is v-t graph and if we can find the area under the curve is displacement 
-in integration we 
+in integration we split them into the small rectangle which is
+$$A = b \times h => dA = f(t)dt$$
+format the equation
+$$\frac{}{}$$
 # Cues
 # Summary
 ```
