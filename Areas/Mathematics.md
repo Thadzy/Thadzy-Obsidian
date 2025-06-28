@@ -1,5 +1,6 @@
 ---
 tags:
-  - Physics
+  - Math
 link:
 ---
+
