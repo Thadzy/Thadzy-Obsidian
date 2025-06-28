@@ -46,7 +46,11 @@ but if there are negative value we have to split the integration
 ![[Pasted image 20250628163442.png]]
 # Cues
 **What is the different of integration and integals**
-**Ans**
+**Ans** integration is the process of finding the integral of a function. An integral can be either a definite integral, which represents a numerical value
+Integration 
+Integral
+Area Under the Curve
+
 # Summary
 ```
 Integrations is to 
