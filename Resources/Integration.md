@@ -4,7 +4,7 @@ tags:
 Area: "[[Areas/Calculus I]]"
 ---
 link : [[]]
-# Title
+# Integration
 # Cues
 # Summary
 ```
