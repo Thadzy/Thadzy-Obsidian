@@ -43,6 +43,8 @@ Derivertive Inside and Outside
 use when $\frac{f'(x)}{g'(x)}$ 
 $$\frac{d}{dx}\frac{f(x)}{g(x)}$$
 $$\frac{d}{dx}f(x) \cdot g(x)^{-1}$$
+use product rule
+$$f(x) \cdot($$
 # Cues
 **Why I have to use chain rule?**
 **Ans** when it has another function inside the function I can't derivative directly because it's not equal because another function is using that variable.
