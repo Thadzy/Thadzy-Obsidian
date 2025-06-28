@@ -16,7 +16,10 @@ There are 3 cases
 ![[Pasted image 20250628140437.png]]
 ![[Pasted image 20250628140548.png | 300]]
 ## Graph of Exponential vs Logarithms
+it's in
 ![[Pasted image 20250628140647.png]]
+## Properties of logarithms
+![[Pasted image 20250628141021.png]]
 
 
 
