@@ -17,8 +17,9 @@ therefore
 $$x^{-1} = \ln |x|$$
 ![[Pasted image 20250628161427.png]]I have to add negative because y = 1/x there are postive and negative value so I have to add absolute to make it cover positive and negative
 ## Integrate the function
-e.g. $f(x) = 2$
-$$$$
+e.g. $f(x) = 2x^4 + x^3 - 3x^2 + x$
+F(x) = 
+$$\frac{}{}$$
 
 # Cues
 # Summary
