@@ -34,6 +34,23 @@
               "icon": "lucide-file",
               "title": "Integration"
             }
+          },
+          {
+            "id": "174094d891941254",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Second Brain.canvas",
+                "viewState": {
+                  "x": 611.8409158497894,
+                  "y": 1862.1782479501658,
+                  "zoom": -1.3865075561594262
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Second Brain"
+            }
           }
         ],
         "currentTab": 1
@@ -217,11 +234,12 @@
   },
   "active": "a8e49f0d87cf6431",
   "lastOpenFiles": [
+    "Second Brain.canvas",
+    "Resources/Integration.md",
     "Pasted image 20250628162016.png",
     "Pasted image 20250628161427.png",
     "Resources/Derivative of Exponential and Logarithms.md",
     "Projects/Calculus I Project.md",
-    "Resources/Integration.md",
     "Pasted image 20250628150423.png",
     "Pasted image 20250628145819.png",
     "Pasted image 20250628145208.png",
@@ -231,13 +249,11 @@
     "Pasted image 20250628140647.png",
     "Pasted image 20250628140548.png",
     "Pasted image 20250628140437.png",
-    "Pasted image 20250628140247.png",
     "Resources/Differentiation.md",
     "Areas/Calculus I.md",
     "Areas/Physics Mechanics.md",
     "Areas/Mathematics.md",
     "Projects/High School Math.md",
-    "Second Brain.canvas",
     "Resources/Limit.md",
     "Resources/Derivative.md",
     "Archives/Physics Monsit FRA114 Project.md",

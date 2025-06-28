@@ -24,6 +24,7 @@ $$8x^3 + 3x^2 - 6x + 1$$
 ![[Pasted image 20250628162016.png]]
 x can be any value because it's constant therefore when integrate back I have + C 
 and form the graph we know that when the maximum point is where the derivative = 0
+## Area under the curve 
 # Cues
 # Summary
 ```
