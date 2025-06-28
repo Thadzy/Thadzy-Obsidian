@@ -45,9 +45,12 @@ $$\int_a^bf(x) dx = F(b) - F(a)$$
 but if there are negative value we have to split the integration
 ![[Pasted image 20250628163442.png]]
 # Cues
+**What is the different of integration and integals**
+**Ans**
 # Summary
 ```
-Integrations is to find the anti-derivatives
-to find area under the curve
-adding u
+Integrations is to 
+- find the anti-derivatives
+- to find area under the curve
+- adding up a lot of tiny amouts (running total)
 ```
