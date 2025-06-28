@@ -38,7 +38,7 @@ Derivative of A(t) = f(t)
 when Anti-Derivative of f(t) is A(t) this is **why Integrate = Area under curve**.
 and another magic
 ![[Pasted image 20250628171000.png]]
-the dipla
+the displacement between F(x) is equal to Area under the curve of f(x)
 ## Definite Integrals
 to know the area under the curve we have to know the definite 
 $$\int_a^bf(x) dx = F(b) - F(a)$$
@@ -47,5 +47,7 @@ but if there are negative value we have to split the integration
 # Cues
 # Summary
 ```
-
+Integrations is to find the anti-derivatives
+to find area under the curve
+adding u
 ```
