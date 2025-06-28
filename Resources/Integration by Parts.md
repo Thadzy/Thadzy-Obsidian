@@ -17,7 +17,8 @@ step
 4. Integrate dv (v)
 ![[Pasted image 20250628173200.png | 400]]
 # Cues
-
+**There are anyway to choose u and dv?**
+**Ans** LIATE
 # Summary
 ```
 
