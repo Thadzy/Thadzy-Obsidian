@@ -17,7 +17,15 @@ Step is
 2. Derivative u = f(x) dx
 3. dx = something du and Substitution to f(x)
 # Cues
-Why I have to derivative u in u-substitution?
+**Why I have to derivative u in u-substitution?**
+**Ans** The change in y with respect to x depends not just on how fast f changes with u, but also how fast u changes with x.
+In **integration**, u-substitution helps **simplify** an expression. When we set $u = g(x)$, we have to change **everything** to terms of $u$, including $dx$, which becomes:
+
+$$
+
+du = g'(x) dx \Rightarrow dx = \frac{du}{g'(x)}
+
+$$
 # Summary
 ```
 
