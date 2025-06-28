@@ -3,8 +3,10 @@ tags:
   - Calculus
 Area: "[[Areas/Calculus I]]"
 ---
-link :
-# Title
+link : [[Integration]]
+# U-Substitution
+u-Substitution essentially reverses the chain rule for derivatives
+
 # Cues
 # Summary
 ```
