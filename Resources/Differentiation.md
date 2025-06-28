@@ -57,5 +57,5 @@ Just use quotient rule and trigonometric properties
 **Ans** when it has another function inside the function I can't derivative directly because it's not equal because another function is using that variable.
 # Summary
 ```
-This is tell how the diffrerentiation come f
+This is tell how the diffrerentiation come from and use it e.g. Power Rule is like the Derivative by definition is works and others rule as well.
 ```
