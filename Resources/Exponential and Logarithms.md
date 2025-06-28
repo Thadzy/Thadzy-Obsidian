@@ -20,6 +20,8 @@ it's inverse togerther
 ![[Pasted image 20250628140647.png]]
 ## Properties of logarithms
 ![[Pasted image 20250628141021.png]]
+## e
+
 
 
 
