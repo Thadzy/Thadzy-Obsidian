@@ -14,7 +14,8 @@ $$x^{-1} => \frac{x^0}{0}$$
 not works but in logarithms we know that 
 $$f'(x) \frac{1}{x} = \ln x$$
 therefore 
-$$x^{-1} = \ln x$$
+$$x^{-1} = \ln |x|$$
+![[Pasted image 20250628161427.png]]
 
 # Cues
 # Summary
