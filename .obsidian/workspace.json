@@ -63,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,12 +215,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Resources/Integration by Parts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Integration by Parts"
             }
           }
         ]
@@ -241,7 +242,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc1ba3c612ad92f4",
+  "active": "a8e49f0d87cf6431",
   "lastOpenFiles": [
     "Resources/Integration by Parts.md",
     "Resources/U-Substitution.md",
