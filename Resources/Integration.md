@@ -25,7 +25,11 @@ $$8x^3 + 3x^2 - 6x + 1$$
 x can be any value because it's constant therefore when integrate back I have + C 
 and form the graph we know that when the maximum point is where the derivative = 0
 ## Area under the curve 
-Why definite intragation 
+Why definite Integration = Area under curve?
+e.g.
+![[Pasted image 20250628162548.png]]
+This is v-t graph and if we can find the area under the curve is displacement 
+in integration we 
 # Cues
 # Summary
 ```
