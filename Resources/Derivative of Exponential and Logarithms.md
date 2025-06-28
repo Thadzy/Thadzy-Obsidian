@@ -23,7 +23,7 @@ $$\frac{d}{dx}e^x = e^x$$
 ## Summarize Differentiation of Exponentials
 ![[Pasted image 20250628145208.png]]
 ## Derivative of Logarithms
-
+ç
 
 # Cues
 **Why ln e = 1?**
