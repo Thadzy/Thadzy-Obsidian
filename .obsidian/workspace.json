@@ -188,12 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Resources/Exponential and Logarithms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Exponential and Logarithms"
             }
           }
         ]
@@ -214,13 +215,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "88718925af38573e",
+  "active": "34294d8fb791ac3a",
   "lastOpenFiles": [
-    "Resources/Exponential and Logarithms.md",
     "Projects/Calculus I Project.md",
-    "Areas/Mathematics.md",
     "Areas/Calculus I.md",
     "Areas/Physics Mechanics.md",
+    "Areas/Mathematics.md",
+    "Resources/Exponential and Logarithms.md",
     "Resources/Differentiation.md",
     "Pasted image 20250628132949.png",
     "Pasted image 20250627154427.png",
