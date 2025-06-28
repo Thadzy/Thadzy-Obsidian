@@ -30,5 +30,5 @@ ln is log base e call natural logarithm
 What if I don't have calculator how can I find logarithms?
 # Summary
 ```
-Not Finished but This 
+Not Finished but This is tell about the exponential and logarithms and lastly e I will back to learn it more
 ```

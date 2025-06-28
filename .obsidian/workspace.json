@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Exponential and Logarithms.md",
+                "file": "Resources/Derivative of Exponential and Logarithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exponential and Logarithms"
+              "title": "Derivative of Exponential and Logarithms"
             }
           },
           {
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Exponential and Logarithms.md",
+                "file": "Resources/Derivative of Exponential and Logarithms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Exponential and Logarithms"
+              "title": "Outline of Derivative of Exponential and Logarithms"
             }
           }
         ]
@@ -212,13 +212,13 @@
   },
   "active": "34294d8fb791ac3a",
   "lastOpenFiles": [
+    "Resources/Exponential and Logarithms.md",
     "Pasted image 20250628141021.png",
     "Pasted image 20250628140647.png",
     "Pasted image 20250628140548.png",
     "Pasted image 20250628140437.png",
     "Pasted image 20250628140247.png",
     "Resources/Differentiation.md",
-    "Resources/Exponential and Logarithms.md",
     "Resources/Derivative of Exponential and Logarithms.md",
     "Areas/Calculus I.md",
     "Areas/Physics Mechanics.md",
@@ -233,7 +233,6 @@
     "Pasted image 20250627133954.png",
     "Pasted image 20250627000037.png",
     "Pasted image 20250622224718.png",
-    "Pasted image 20250622205706.png",
     "Archives/Physics Monsit FRA114 Project.md",
     "Resources/Impulse and Momentum.md",
     "Resources/2D, 3D Motion.md",

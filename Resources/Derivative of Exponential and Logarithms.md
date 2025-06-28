@@ -4,7 +4,8 @@ tags:
 Area: "[[Areas/Calculus I]]"
 ---
 link : [[Exponential and Logarithms]] [[Derivative]]
-# Title
+# Derivative of Exponential and Logarithms
+
 # Cues
 # Summary
 ```
