@@ -7,11 +7,10 @@ link:
 Area: "[[Electronics]]"
 ---
 # Goal
-to 
-
+to summary all electronics from FIBO semester I and II in first year
 # Subtopics
-
+All in google classroom
 # Resources
 
 # To-Do
-- [ ] 
+- [ ] Google classroom
