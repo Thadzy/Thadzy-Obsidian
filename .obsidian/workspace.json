@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Ohm's Laws"
             }
+          },
+          {
+            "id": "3c16a1467aa4313c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,13 +184,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Ohm's Laws.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ohm's Laws"
+              "title": "Outline"
             }
           }
         ]
@@ -200,11 +210,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc1ba3c612ad92f4",
+  "active": "3c16a1467aa4313c",
   "lastOpenFiles": [
+    "Resources/Ohm's Laws.md",
     "Pasted image 20250630013558.png",
     "Projects/Electronics I & II.md",
-    "Resources/Ohm's Laws.md",
     "Areas/Electronics.md",
     "Archives/Calculus I Project.md",
     "Second Brain.canvas",
@@ -222,7 +232,6 @@
     "Resources/Integration.md",
     "Pasted image 20250628171000.png",
     "Pasted image 20250628163442.png",
-    "Pasted image 20250628162548.png",
     "Resources/Exponential and Logarithms.md",
     "Resources/Differentiation.md",
     "Areas/Calculus I.md",
