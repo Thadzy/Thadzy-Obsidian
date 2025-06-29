@@ -173,13 +173,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Electronics I & II.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Electronics I & II"
+              "title": "Outline"
             }
           }
         ]
@@ -200,10 +199,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fc1ba3c612ad92f4",
+  "active": "88718925af38573e",
   "lastOpenFiles": [
-    "Areas/Electronics.md",
     "Projects/Electronics I & II.md",
+    "Areas/Electronics.md",
     "Archives/Calculus I Project.md",
     "Second Brain.canvas",
     "Resources/LIATE.md",
