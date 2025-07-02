@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Circular Motion.md",
+                "file": "Resources/Projectile Motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Circular Motion"
+              "title": "Projectile Motion"
             }
           }
         ],
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Circular Motion.md",
+                "file": "Resources/Projectile Motion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Circular Motion"
+              "title": "Outline of Projectile Motion"
             }
           }
         ]
@@ -231,6 +231,7 @@
   },
   "active": "dd80de2b8e47d9eb",
   "lastOpenFiles": [
+    "Resources/Circular Motion.md",
     "Resources/SUVAT.md",
     "Resources/2D, 3D Motion.md",
     "Resources/1D Motion.md",
@@ -267,7 +268,6 @@
     "Resources/Newton's laws.md",
     "Resources/Work and Energy.md",
     "Untitled.md",
-    "Resources/Circular Motion.md",
     "Images",
     "Templates",
     "Archives",
