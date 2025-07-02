@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/1D Motion.md",
+                "file": "Resources/2D, 3D Motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1D Motion"
+              "title": "2D, 3D Motion"
             }
           },
           {
@@ -231,7 +231,9 @@
   },
   "active": "dd80de2b8e47d9eb",
   "lastOpenFiles": [
+    "Resources/2D, 3D Motion.md",
     "Resources/1D Motion.md",
+    "Resources/SUVAT.md",
     "Resources/Ohm's Laws.md",
     "Pasted image 20250630013558.png",
     "Projects/Electronics I & II.md",
@@ -262,7 +264,6 @@
     "Resources/Derivative.md",
     "Archives/Physics Monsit FRA114 Project.md",
     "Resources/Impulse and Momentum.md",
-    "Resources/2D, 3D Motion.md",
     "Resources/Newton's laws.md",
     "Resources/Work and Energy.md",
     "Untitled.md",
