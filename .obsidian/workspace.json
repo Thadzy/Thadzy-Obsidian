@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/SUVAT.md",
+                "file": "Resources/Circular Motion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUVAT"
+              "title": "Circular Motion"
             }
           }
         ],
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/SUVAT.md",
+                "file": "Resources/Circular Motion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SUVAT"
+              "title": "Outline of Circular Motion"
             }
           }
         ]
@@ -231,9 +231,9 @@
   },
   "active": "dd80de2b8e47d9eb",
   "lastOpenFiles": [
+    "Resources/SUVAT.md",
     "Resources/2D, 3D Motion.md",
     "Resources/1D Motion.md",
-    "Resources/SUVAT.md",
     "Resources/Ohm's Laws.md",
     "Pasted image 20250630013558.png",
     "Projects/Electronics I & II.md",
