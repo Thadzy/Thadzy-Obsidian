@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Exponential and Logarithms.md",
+                "file": "Resources/Integration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exponential and Logarithms"
+              "title": "Integration"
             }
           },
           {
@@ -216,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Exponential and Logarithms.md",
+                "file": "Resources/Integration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Exponential and Logarithms"
+              "title": "Outline of Integration"
             }
           }
         ]
@@ -245,14 +245,15 @@
   },
   "active": "dd80de2b8e47d9eb",
   "lastOpenFiles": [
+    "Resources/U-Substitution.md",
+    "Resources/Integration.md",
+    "Resources/Derivative of Exponential and Logarithms.md",
+    "Resources/Exponential and Logarithms.md",
     "Resources/Differentiation.md",
     "Resources/Derivative.md",
     "Resources/Limit.md",
     "Resources/LIATE.md",
     "Resources/Integration by Parts.md",
-    "Resources/U-Substitution.md",
-    "Resources/Integration.md",
-    "Resources/Derivative of Exponential and Logarithms.md",
     "Archives/Calculus I Project.md",
     "Resources/Impulse and Momentum.md",
     "Resources/Work and Energy.md",
@@ -276,7 +277,6 @@
     "Pasted image 20250628171709.png",
     "Pasted image 20250628171000.png",
     "Pasted image 20250628163442.png",
-    "Resources/Exponential and Logarithms.md",
     "Areas/Calculus I.md",
     "Areas/Physics Mechanics.md",
     "Areas/Mathematics.md",
