@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "Derivative"
             }
+          },
+          {
+            "id": "90890f5fe0e37261",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,13 +212,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Derivative.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Derivative"
+              "title": "Outline"
             }
           }
         ]
@@ -229,10 +238,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dd80de2b8e47d9eb",
+  "active": "90890f5fe0e37261",
   "lastOpenFiles": [
-    "Resources/Limit.md",
     "Resources/Derivative.md",
+    "Resources/Limit.md",
     "Resources/LIATE.md",
     "Resources/Integration by Parts.md",
     "Resources/U-Substitution.md",
