@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Integration.md",
+                "file": "Resources/U-Substitution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integration"
+              "title": "U-Substitution"
             }
           },
           {
@@ -216,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Integration.md",
+                "file": "Resources/U-Substitution.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Integration"
+              "title": "Outline of U-Substitution"
             }
           }
         ]
@@ -245,8 +245,8 @@
   },
   "active": "dd80de2b8e47d9eb",
   "lastOpenFiles": [
-    "Resources/Derivative of Exponential and Logarithms.md",
     "Resources/Integration.md",
+    "Resources/Derivative of Exponential and Logarithms.md",
     "Resources/U-Substitution.md",
     "Resources/Exponential and Logarithms.md",
     "Resources/Differentiation.md",
