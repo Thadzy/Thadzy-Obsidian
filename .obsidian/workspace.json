@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Projectile Motion.md",
+                "file": "Resources/Newton's laws.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projectile Motion"
+              "title": "Newton's laws"
             }
           }
         ],
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Projectile Motion.md",
+                "file": "Resources/Newton's laws.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Projectile Motion"
+              "title": "Outline of Newton's laws"
             }
           }
         ]
@@ -231,6 +231,7 @@
   },
   "active": "dd80de2b8e47d9eb",
   "lastOpenFiles": [
+    "Resources/Projectile Motion.md",
     "Resources/Circular Motion.md",
     "Resources/SUVAT.md",
     "Resources/2D, 3D Motion.md",
@@ -267,7 +268,6 @@
     "Resources/Impulse and Momentum.md",
     "Resources/Newton's laws.md",
     "Resources/Work and Energy.md",
-    "Untitled.md",
     "Images",
     "Templates",
     "Archives",
