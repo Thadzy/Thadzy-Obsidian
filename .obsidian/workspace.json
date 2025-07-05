@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Integration by Parts.md",
+                "file": "Resources/LIATE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Integration by Parts"
+              "title": "LIATE"
             }
           },
           {
@@ -216,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Integration by Parts.md",
+                "file": "Resources/LIATE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Integration by Parts"
+              "title": "Outline of LIATE"
             }
           }
         ]
@@ -245,6 +245,7 @@
   },
   "active": "dd80de2b8e47d9eb",
   "lastOpenFiles": [
+    "Resources/Integration by Parts.md",
     "Resources/U-Substitution.md",
     "Resources/Integration.md",
     "Resources/Derivative of Exponential and Logarithms.md",
@@ -253,7 +254,6 @@
     "Resources/Derivative.md",
     "Resources/Limit.md",
     "Resources/LIATE.md",
-    "Resources/Integration by Parts.md",
     "Archives/Calculus I Project.md",
     "Resources/Impulse and Momentum.md",
     "Resources/Work and Energy.md",
