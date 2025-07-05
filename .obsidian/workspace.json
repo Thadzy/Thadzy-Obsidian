@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Limit.md",
+                "file": "Resources/Derivative.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Limit"
+              "title": "Derivative"
             }
           }
         ],
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Limit.md",
+                "file": "Resources/Derivative.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Limit"
+              "title": "Outline of Derivative"
             }
           }
         ]
@@ -231,6 +231,7 @@
   },
   "active": "dd80de2b8e47d9eb",
   "lastOpenFiles": [
+    "Resources/Limit.md",
     "Resources/Derivative.md",
     "Resources/LIATE.md",
     "Resources/Integration by Parts.md",
@@ -266,7 +267,6 @@
     "Areas/Physics Mechanics.md",
     "Areas/Mathematics.md",
     "Projects/High School Math.md",
-    "Resources/Limit.md",
     "Archives/Physics Monsit FRA114 Project.md",
     "Images",
     "Templates",
