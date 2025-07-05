@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Differentiation.md",
+                "file": "Resources/Exponential and Logarithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Differentiation"
+              "title": "Exponential and Logarithms"
             }
           },
           {
@@ -216,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Differentiation.md",
+                "file": "Resources/Exponential and Logarithms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Differentiation"
+              "title": "Outline of Exponential and Logarithms"
             }
           }
         ]
@@ -245,8 +245,8 @@
   },
   "active": "dd80de2b8e47d9eb",
   "lastOpenFiles": [
-    "Resources/Derivative.md",
     "Resources/Differentiation.md",
+    "Resources/Derivative.md",
     "Resources/Limit.md",
     "Resources/LIATE.md",
     "Resources/Integration by Parts.md",
