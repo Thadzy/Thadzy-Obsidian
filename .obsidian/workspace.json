@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources/Impulse and Momentum.md",
+                "file": "Resources/Limit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Impulse and Momentum"
+              "title": "Limit"
             }
           }
         ],
@@ -202,13 +202,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Impulse and Momentum.md",
+                "file": "Resources/Limit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Impulse and Momentum"
+              "title": "Outline of Limit"
             }
           }
         ]
@@ -231,6 +231,14 @@
   },
   "active": "dd80de2b8e47d9eb",
   "lastOpenFiles": [
+    "Resources/Derivative.md",
+    "Resources/LIATE.md",
+    "Resources/Integration by Parts.md",
+    "Resources/U-Substitution.md",
+    "Resources/Integration.md",
+    "Resources/Derivative of Exponential and Logarithms.md",
+    "Archives/Calculus I Project.md",
+    "Resources/Impulse and Momentum.md",
     "Resources/Work and Energy.md",
     "Resources/Newton's laws.md",
     "Resources/Projectile Motion.md",
@@ -242,20 +250,14 @@
     "Pasted image 20250630013558.png",
     "Projects/Electronics I & II.md",
     "Areas/Electronics.md",
-    "Archives/Calculus I Project.md",
     "Second Brain.canvas",
-    "Resources/LIATE.md",
     "Pasted image 20250628173551.png",
-    "Resources/Derivative of Exponential and Logarithms.md",
     "Pasted image 20250628173501.png",
-    "Resources/Integration by Parts.md",
     "Pasted image 20250628173200.png",
     "Pasted image 20250628172948.png",
     "Pasted image 20250628172752.png",
-    "Resources/U-Substitution.md",
     "Pasted image 20250628171712.png",
     "Pasted image 20250628171709.png",
-    "Resources/Integration.md",
     "Pasted image 20250628171000.png",
     "Pasted image 20250628163442.png",
     "Resources/Exponential and Logarithms.md",
@@ -265,9 +267,7 @@
     "Areas/Mathematics.md",
     "Projects/High School Math.md",
     "Resources/Limit.md",
-    "Resources/Derivative.md",
     "Archives/Physics Monsit FRA114 Project.md",
-    "Resources/Impulse and Momentum.md",
     "Images",
     "Templates",
     "Archives",
